@@ -37,11 +37,11 @@
       <description>&lt;p&gt;Este eixo analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise de políticas de moderação de conteúdo&lt;/li&gt;&#xA;&lt;li&gt;Integridade da informação e processos eleitorais&lt;/li&gt;&#xA;&lt;li&gt;Regulação e governança de plataformas digitais&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Economia da Atenção e Sociotécnicas da Monetização</title>
+      <title>Economia da Atenção e Monetização da Desinformação</title>
       <link>https://marceloalvesuff.github.io/condado-lab/projects/economia-atencao/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://marceloalvesuff.github.io/condado-lab/projects/economia-atencao/</guid>
-      <description>&lt;p&gt;Este eixo investiga a economia da atenção e as estratégias de monetização das indústrias da desinformação, analisando como modelos de negócio das plataformas incentivam a circulação de conteúdo desinformativo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estratégias de monetização e desinformação&lt;/li&gt;&#xA;&lt;li&gt;Economia da atenção e engajamento&lt;/li&gt;&#xA;&lt;li&gt;Modelos de negócio das plataformas e seus efeitos sociais&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Este eixo investiga a economia da atenção e as estratégias de monetização das indústrias da desinformação, analisando como modelos de negócio das plataformas incentivam a circulação de conteúdo desinformativo.&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa trabalha com dados primários sobre anunciantes, redes de publicidade e websites hiperpartidários no Brasil, investigando como o ecossistema publicitário programático financia a produção e circulação de conteúdo desinformativo.&lt;/p&gt;&#xA;&lt;p&gt;O trabalho propõe um framework com três funções da publicidade programática para a desinformação: financiamento, legitimação e engano. Essa formulação foi apresentada no 33o Encontro Anual da Compós (2024) e publicada na E-Compós e na Eptic On-Line.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Acervo Digital do 8 de Janeiro</title>
@@ -49,13 +49,6 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://marceloalvesuff.github.io/condado-lab/projects/acervo-8-janeiro/</guid>
       <description>&lt;p&gt;O projeto constrói um acervo digital sobre o 8 de janeiro de 2023. O trabalho envolve a coleta sistemática de dados de plataformas, a preservação de registros digitais e a análise das políticas de moderação que resultaram no apagamento de conteúdo relacionado ao atentado.&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa parte de dois problemas. O primeiro é a remoção e desaparecimento de rastros digitais pelas próprias plataformas. O segundo é a produção de narrativas revisionistas e negacionistas que buscam ressignificar o evento.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Financiamento e monetização da desinformação</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/projects/financiamento-desinformacao/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/projects/financiamento-desinformacao/</guid>
-      <description>&lt;p&gt;O projeto investiga como o ecossistema publicitário programático financia a produção e circulação de conteúdo desinformativo. A pesquisa trabalha com dados primários sobre anunciantes, redes de publicidade e websites hiperpartidários no Brasil.&lt;/p&gt;&#xA;&lt;p&gt;O trabalho propõe um framework com três funções da publicidade programática para a desinformação: financiamento, legitimação e engano. Essa formulação foi apresentada no 33o Encontro Anual da Compós (2024) e publicada na E-Compós e na Eptic On-Line.&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa inclui análises do ecossistema de monetização de websites hiperpartidários de direita e de estratégias de interrupção do financiamento da desinformação, apresentadas no evento Empowering Election Integrity in the Global Majority.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
