@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Campanha Negativa on Condado Lab</title>
-    <link>https://condado-lab.github.io/tags/campanha-negativa/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/campanha-negativa/</link>
     <description>Recent content in Campanha Negativa on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condado-lab.github.io/tags/campanha-negativa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/campanha-negativa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Twitter como ferramenta de campanha negativa não oficial: uma análise da campanha eleitoral para a Prefeitura do Rio de Janeiro em 2016</title>
-      <link>https://condado-lab.github.io/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</guid>
       <description>&lt;p&gt;O artigo analisa a adoção da estratégia de campanha negativa não oficial no Twitter na disputa pela Prefeitura do Rio de Janeiro em 2016. Examina mensagens postadas no microblog durante o segundo turno da eleição, analisando redes de apoio e ataque para os candidatos Marcelo Crivella (PRB) e Marcelo Freixo (PSOL). A metodologia utiliza análise de conteúdo, análise de redes sociais e análise estatística de um corpus inicial de 530.000 tweets coletados pela API do Twitter, resultando em uma amostra final de 11.407 publicações classificadas como negativas. Entre as conclusões, os principais agentes da campanha negativa não oficial no Twitter apresentam funções e perfis distintos, divididos entre influenciadores e disseminadores de publicações de ataque.&lt;/p&gt;</description>
     </item>
   </channel>

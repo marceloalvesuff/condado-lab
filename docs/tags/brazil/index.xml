@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brazil on Condado Lab</title>
-    <link>https://condado-lab.github.io/tags/brazil/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/brazil/</link>
     <description>Recent content in Brazil on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condado-lab.github.io/tags/brazil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/brazil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online communication studies in Brazil: origins and state of the art</title>
-      <link>https://condado-lab.github.io/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</guid>
       <description>&lt;p&gt;The article discusses the origins and development of research on online media and online political communication studies in Brazil. It presents an overview of how Communication education and research organized in Brazil, and identifies three stages of online media research development: (a) incipient, (b) consolidation, and (c) new frontiers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The COVID-19 vaccine on Facebook: A study of emotions expressed by the Brazilian public</title>
-      <link>https://condado-lab.github.io/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</guid>
       <description>&lt;p&gt;The objective was to identify and reflect on the emotions evoked in the Brazilian public with respect to the COVID-19 vaccine during 2020 and 2021 on Facebook. The study used the CrowdTangle graphical interface to extract posts made by public Facebook profiles, from which a random sample of 1,067 posts was selected for analysis. Identification of emotions was performed using the HUMAINE descriptors as a baseline reference. Emotions were frequently directed towards aspects only tangentially related to the vaccine or vaccination, such as relevant decisions taken (or not taken) by public officials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Covid-19 Vaccine on TikTok: A Study of Emotional Expression in the Brazilian Context</title>
-      <link>https://condado-lab.github.io/publications/2023-the-covid19-vaccine-on-tiktok-a-study-of-emotional-expressio/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2023-the-covid19-vaccine-on-tiktok-a-study-of-emotional-expressio/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2023-the-covid19-vaccine-on-tiktok-a-study-of-emotional-expressio/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2023-the-covid19-vaccine-on-tiktok-a-study-of-emotional-expressio/</guid>
       <description>&lt;p&gt;The objective was to analyze the emotions expressed regarding the Covid-19 vaccine in content published in Brazilian Portuguese on TikTok. The data set was comprised of posts including the hashtag #vacina, extracted using the Python TikTokAPI library. Emotions were identified and classified using standardized descriptors from the HUMAINE and the Core Affect Model. Results revealed a prevalence of positive emotions such as contentment, enthusiasm, and interest regarding the vaccines, especially in videos of a personal and informative nature.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coronavirus meets the clash of civilizations</title>
-      <link>https://condado-lab.github.io/publications/2022-coronavirus-meets-the-clash-of-civilizations/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2022-coronavirus-meets-the-clash-of-civilizations/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2022-coronavirus-meets-the-clash-of-civilizations/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2022-coronavirus-meets-the-clash-of-civilizations/</guid>
       <description>&lt;p&gt;Conspiracy Theories (CTs) are a global phenomenon, but some societies are better equipped than others to resist them. This article discusses the characteristics of the China-related COVID-19 CTs in Brazilian Facebook, based on 28,312 posts published from January 2020 to June 2021. The authors argue that, in Brazil, the spread of CTs was facilitated by a widespread political and knowledge institutions&amp;rsquo; legitimacy crisis. A significant presence of actors belonging to mainstream politics and the media were among the main disseminators of these conspiracy theories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Those on the Right Take Chloroquine&#34;: The Illiberal Instrumentalisation of Scientific Debates during the COVID-19 Pandemic in Brasil</title>
-      <link>https://condado-lab.github.io/publications/2021-those-on-the-right-take-chloroquine-the-illiberal-instrument/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2021-those-on-the-right-take-chloroquine-the-illiberal-instrument/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2021-those-on-the-right-take-chloroquine-the-illiberal-instrument/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2021-those-on-the-right-take-chloroquine-the-illiberal-instrument/</guid>
       <description>&lt;p&gt;The article examines how Brazil underwent a significant political dispute over the use of hydroxychloroquine as a measure to confront COVID-19 and contested scientific and healthcare organisations&amp;rsquo; findings related to the drug&amp;rsquo;s effectiveness. The results highlight the use of sources that are ideologically aligned to the right and a reconfiguration of scientific authority that was supported by illiberal values during the COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brazilian Blogosfera Progressista: Digital Vanguards in Dark Times</title>
-      <link>https://condado-lab.github.io/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</guid>
       <description>&lt;p&gt;The article explores the Brazilian Blogosfera Progressista (Progressive Blogosphere), a leftist political communication initiative aiming to conciliate an institutionalized model of organization with a networked model of action. The BP proved able to counter effectively the mainstream media&amp;rsquo;s political framings, thanks to wise networking strategies which explored the communicative opportunities offered by social media.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Métodos Digitais on Condado Lab</title>
-    <link>https://condado-lab.github.io/tags/m%C3%A9todos-digitais/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/m%C3%A9todos-digitais/</link>
     <description>Recent content in Métodos Digitais on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condado-lab.github.io/tags/m%C3%A9todos-digitais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/m%C3%A9todos-digitais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marcelo Alves dos Santos Junior</title>
-      <link>https://condado-lab.github.io/people/coordenador/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/people/coordenador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/people/coordenador/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/people/coordenador/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior é doutor em Comunicação pela Universidade Federal Fluminense (UFF), com estágio de pós-doutorado no Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT-DD/UFBA). É professor assistente do Departamento de Comunicação Social da PUC-Rio, onde coordena a ênfase de Comunicação e Tecnologia na graduação em Estudos de Mídia e o Núcleo de Tecnologia e Comunicação (NuTeC).&lt;/p&gt;&#xA;&lt;p&gt;Sua pesquisa investiga problemas na interface entre comunicação, cultura digital e política, com ênfase em plataformização, desinformação, monetização de conteúdo, governança de plataformas e métodos digitais. Atualmente, desenvolve projetos sobre o financiamento da desinformação por meio da publicidade programática e sobre o papel das plataformas de mensageria na circulação de discurso extremista.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Métodos Digitais</title>
-      <link>https://condado-lab.github.io/projects/metodos-digitais/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/projects/metodos-digitais/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://condado-lab.github.io/projects/metodos-digitais/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/projects/metodos-digitais/</guid>
       <description>&lt;p&gt;Este eixo explora perspectivas metodológicas combinadas da escola de métodos digitais e das ciências sociais computacionais para a análise de fenômenos na interface entre mídia e tecnologia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desenvolvimento e aplicação de métodos digitais&lt;/li&gt;&#xA;&lt;li&gt;Análise de dados de plataformas e mídias sociais&lt;/li&gt;&#xA;&lt;li&gt;Abordagens computacionais para pesquisa em comunicação&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
