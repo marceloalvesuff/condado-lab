@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Compós on Condado Lab</title>
+    <link>http://localhost:1313/tags/e-comp%C3%B3s/</link>
+    <description>Recent content in E-Compós on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/e-comp%C3%B3s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novo artigo sobre desinformação na Revista e-Compós</title>
+      <link>http://localhost:1313/blog/artigo-ecompos/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/artigo-ecompos/</guid>
+      <description>&lt;p&gt;O professor Marcelo Alves dos Santos Junior, do PPGCOM/PUC-Rio, publicou em coautoria com Bruno Washington Nichols o artigo &amp;ldquo;Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita&amp;rdquo; na Revista e-Compós.&lt;/p&gt;&#xA;&lt;p&gt;O estudo analisou 55 sites hiperpartidários de direita e demonstrou que 70% deles recebem publicidade programática, principalmente via Google AdSense. Os resultados indicam a dependência dessas infraestruturas publicitárias na sustentação do ecossistema de desinformação.&lt;/p&gt;&#xA;&lt;p&gt;Fonte: &lt;a href=&#34;https://www.pos.com.puc-rio.br/br/texto/362/novo-artigo-de-marcelo-alves-sobre-desinformacao-na-revista-e-compos&#34;&gt;PPGCOM PUC-Rio&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

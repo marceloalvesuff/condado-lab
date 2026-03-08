@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistema Midiático Híbrido on Condado Lab</title>
+    <link>http://localhost:1313/tags/sistema-midi%C3%A1tico-h%C3%ADbrido/</link>
+    <description>Recent content in Sistema Midiático Híbrido on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sistema-midi%C3%A1tico-h%C3%ADbrido/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plataformização da comunicação política</title>
+      <link>http://localhost:1313/publications/2020-plataformizao-da-comunicao-poltica/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-plataformizao-da-comunicao-poltica/</guid>
+      <description>&lt;p&gt;A plataformização da comunicação política introduz um modelo de governança algorítmica da circulação de informações que afeta os sistemas midiáticos nacionais. A investigação empírica se baseia em uma amostra original de 1.513.780 posts coletados entre 2013 e 2018 de 500 páginas do Facebook. O objetivo é avaliar se há algum tipo de disrupção no caráter dominante da visibilidade da imprensa jornalística no Facebook. Os resultados apontaram para o que se denomina &amp;ldquo;disrupção de visibilidade&amp;rdquo; — o declínio nos compartilhamentos de veículos jornalísticos e a captura da atenção por políticos e criadores digitais.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

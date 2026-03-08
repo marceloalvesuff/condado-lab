@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capitalismo digital, plataformização da mídia e crise epistêmica | Condado Lab</title>
+    <meta name="description" content="Grupo de Pesquisa em Comunicação, Dados e Tecnologia">
+
+    
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+    
+    <meta property="og:title" content="Capitalismo digital, plataformização da mídia e crise epistêmica | Condado Lab">
+    <meta property="og:description" content="Grupo de Pesquisa em Comunicação, Dados e Tecnologia">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://localhost:1313/disciplinas/com2212-2022-2/">
+    <meta property="og:site_name" content="Condado Lab">
+
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Capitalismo digital, plataformização da mídia e crise epistêmica | Condado Lab">
+    <meta name="twitter:description" content="Grupo de Pesquisa em Comunicação, Dados e Tecnologia">
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>tailwind.config = { darkMode: 'class' }</script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/css/custom.css">
+</head>
+<body class="selection:bg-purple-100 selection:text-purple-900">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-white focus:text-purple-600 focus:rounded-lg focus:font-bold focus:text-sm focus:shadow-lg">
+        Pular para o conteúdo
+    </a>
+    <nav class="fixed w-full z-50 bg-purple-600/95 backdrop-blur-xl">
+    <div class="max-w-6xl mx-auto px-6">
+        <div class="flex justify-between h-20 items-center">
+            <a href="/" class="flex items-center space-x-3 group">
+                <div class="w-9 h-9 bg-white rounded-xl flex items-center justify-center group-hover:rotate-6 transition-transform">
+                    <span class="text-purple-600 font-bold text-xl italic">C</span>
+                </div>
+                <span class="brand-font text-xl font-bold tracking-tight text-white">Condado Lab</span>
+            </a>
+
+            <div class="hidden md:flex space-x-8">
+                
+                <a href="/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Home
+                </a>
+                
+                <a href="/projects/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Pesquisa
+                </a>
+                
+                <a href="/people/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Pessoas
+                </a>
+                
+                <a href="/publications/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Publicações
+                </a>
+                
+                <a href="/disciplinas/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Disciplinas
+                </a>
+                
+                <a href="/leituras/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Leituras
+                </a>
+                
+                <a href="/blog/"
+                   class="nav-link text-sm text-purple-100 font-medium py-1 hover:text-white">
+                    Blog
+                </a>
+                
+            </div>
+
+            <div class="hidden md:flex items-center space-x-4">
+                <button onclick="openSearch()" class="flex items-center gap-2 text-purple-200 hover:text-white transition-colors text-sm" aria-label="Buscar">
+                    <i class="fas fa-search text-xs"></i>
+                    <span class="text-purple-300 text-xs border border-purple-400/30 rounded px-1.5 py-0.5">Ctrl K</span>
+                </button>
+                <button id="dark-toggle" class="text-purple-200 hover:text-white transition-colors" aria-label="Alternar modo escuro">
+                    <i class="fas fa-moon" id="dark-toggle-icon"></i>
+                </button>
+                
+                <a href="https://github.com/condado-lab" target="_blank" class="text-purple-200 hover:text-white transition-colors">
+                    <i class="fab fa-github text-lg"></i>
+                </a>
+                
+            </div>
+
+            <div class="flex md:hidden items-center space-x-2">
+                <button onclick="openSearch()" class="text-white p-2" aria-label="Buscar">
+                    <i class="fas fa-search"></i>
+                </button>
+                <button id="dark-toggle-mobile" class="text-white p-2" aria-label="Alternar modo escuro">
+                    <i class="fas fa-moon" id="dark-toggle-icon-mobile"></i>
+                </button>
+                    <button id="mobile-menu-button" class="text-white p-2" aria-label="Menu" aria-expanded="false">
+                    <i class="fas fa-bars" id="mobile-menu-icon"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="mobile-menu" class="hidden md:hidden bg-purple-700 p-8 space-y-6">
+        
+        <a href="/" class="block text-lg font-bold text-purple-100 hover:text-white">Home</a>
+        
+        <a href="/projects/" class="block text-lg font-bold text-purple-100 hover:text-white">Pesquisa</a>
+        
+        <a href="/people/" class="block text-lg font-bold text-purple-100 hover:text-white">Pessoas</a>
+        
+        <a href="/publications/" class="block text-lg font-bold text-purple-100 hover:text-white">Publicações</a>
+        
+        <a href="/disciplinas/" class="block text-lg font-bold text-purple-100 hover:text-white">Disciplinas</a>
+        
+        <a href="/leituras/" class="block text-lg font-bold text-purple-100 hover:text-white">Leituras</a>
+        
+        <a href="/blog/" class="block text-lg font-bold text-purple-100 hover:text-white">Blog</a>
+        
+    </div>
+</nav>
+
+<script>
+    (function () {
+        var btn = document.getElementById('mobile-menu-button');
+        var menu = document.getElementById('mobile-menu');
+        var icon = document.getElementById('mobile-menu-icon');
+
+        function closeMenu() {
+            menu.classList.add('hidden');
+            btn.setAttribute('aria-expanded', 'false');
+            icon.classList.add('fa-bars');
+            icon.classList.remove('fa-times');
+        }
+
+        btn.addEventListener('click', function () {
+            var isOpen = !menu.classList.contains('hidden');
+            menu.classList.toggle('hidden');
+            btn.setAttribute('aria-expanded', String(!isOpen));
+            icon.classList.toggle('fa-bars', isOpen);
+            icon.classList.toggle('fa-times', !isOpen);
+
+            if (!isOpen) {
+                var firstLink = menu.querySelector('a');
+                if (firstLink) firstLink.focus();
+            }
+        });
+
+        
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape' && !menu.classList.contains('hidden')) {
+                closeMenu();
+                btn.focus();
+            }
+        });
+
+        
+        menu.addEventListener('keydown', function (e) {
+            if (e.key !== 'Tab') return;
+            var links = menu.querySelectorAll('a');
+            var first = links[0];
+            var last = links[links.length - 1];
+
+            if (e.shiftKey && document.activeElement === first) {
+                e.preventDefault();
+                btn.focus();
+            } else if (!e.shiftKey && document.activeElement === last) {
+                e.preventDefault();
+                btn.focus();
+            }
+        });
+    })();
+
+    
+    (function () {
+        var iconDesktop = document.getElementById('dark-toggle-icon');
+        var iconMobile = document.getElementById('dark-toggle-icon-mobile');
+
+        function updateIcons(isDark) {
+            [iconDesktop, iconMobile].forEach(function (el) {
+                if (!el) return;
+                el.classList.toggle('fa-moon', !isDark);
+                el.classList.toggle('fa-sun', isDark);
+            });
+        }
+
+        function toggleDark() {
+            var isDark = document.documentElement.classList.toggle('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            updateIcons(isDark);
+        }
+
+        
+        var saved = localStorage.getItem('theme');
+        if (saved === 'dark') {
+            document.documentElement.classList.add('dark');
+            updateIcons(true);
+        }
+
+        document.getElementById('dark-toggle').addEventListener('click', toggleDark);
+        document.getElementById('dark-toggle-mobile').addEventListener('click', toggleDark);
+    })();
+</script>
+
+    <main id="main-content">
+        
+<article class="pt-32 pb-24">
+    <div class="max-w-3xl mx-auto px-6">
+        <a href="http://localhost:1313/disciplinas/" class="text-slate-300 hover:text-purple-600 text-xs font-bold uppercase tracking-widest mb-12 flex items-center">
+            <i class="fas fa-arrow-left mr-3"></i> Voltar para Disciplinas
+        </a>
+
+        <div class="flex flex-wrap gap-2 mb-4">
+            <span class="tag">COM2212</span>
+            <span class="tag">2022.2</span>
+        </div>
+
+        
+        <p class="text-slate-400 text-xs font-bold uppercase tracking-widest mb-3">Seminários Avançados III</p>
+        
+
+        <h1 class="text-3xl md:text-4xl font-bold mb-8 leading-tight">Capitalismo digital, plataformização da mídia e crise epistêmica</h1>
+
+        <div class="flex flex-wrap gap-6 text-sm text-slate-500 mb-12 pb-8 border-b border-slate-100">
+            <div>
+                <span class="text-[10px] font-bold uppercase tracking-widest text-slate-300 block mb-1">Carga horária</span>
+                45 horas
+            </div>
+            <div>
+                <span class="text-[10px] font-bold uppercase tracking-widest text-slate-300 block mb-1">Créditos</span>
+                3
+            </div>
+            <div>
+                <span class="text-[10px] font-bold uppercase tracking-widest text-slate-300 block mb-1">Pré-requisitos</span>
+                Nenhum
+            </div>
+            <div>
+                <span class="text-[10px] font-bold uppercase tracking-widest text-slate-300 block mb-1">Professor</span>
+                Marcelo Alves
+            </div>
+        </div>
+
+        <div class="prose max-w-none disciplina-content">
+            <h2 id="objetivos">Objetivos</h2>
+<p>Compreender o contexto político-econômico que condiciona a ascensão da crise epistêmica. Analisar as características dos sistemas midiáticos contemporâneos, particularmente, a plataformização como elemento que afeta as dinâmicas desinformacionais na sociedade. Identificar fatores sociais, culturais e econômicos subjacentes a comunidades epistêmicas antagonistas. Compreender as particularidades de sistemas sociotécnicos, políticas das tecnologias e aspectos materiais da produção e circulação de informação falsas, como mecanismos de recomendação, algoritmização da mídia e mecanismos de detecção de <em>fake news</em>. Revisar a bibliografia mais recente de estudos de caso empíricos sobre a conjuntura brasileira e internacional. Relacionar os desafios da crise epistêmica, mídias sociais e movimentos iliberais que influenciam retrocessos democráticos no Brasil e no mundo. Introduzir debates e proposições diversas sobre as possibilidades de regulação das plataformas digitais. Questionar criticamente o papel das infraestruturas de publicidade programática na criação de modelos financeiros que incentivam a produção de informações falsas. Analisar cenários de desafios para a democracia brasileira tendo em vista os riscos de integridade eleitoral e de suspeição ou não aceitação do resultado eleitoral.</p>
+<h2 id="ementa">Ementa</h2>
+<p>Discussão de temas que configurem perspectivas contemporâneas da problemática da representação, da produção e da experiência no campo da comunicação.</p>
+<h2 id="programa">Programa</h2>
+<p>Quais são as condições para a massificação de informações falsas? Essa disciplina propõe uma análise da crise epistêmica por meio de uma perspectiva que relaciona o avanço do capitalismo digital e a plataformização da mídia. Crise epistêmica, desinformação e fake news. Capitalismo digital e condicionantes da desinformação. Plataformização das mídias. Materialidades da desinformação — Algoritmos, inteligência artificial e recomendação. Indústrias da desinformação: astroturfing, trabalho, publicidade. Segregação informacional: filtros bolha e polarização. Economia das informações falsas. Culturas da desinformação. Normas algorítmicas e vieses de desinformação. Desafios da recomendação no Youtube. Moderação de conteúdo. Plataformas alt-tech. Debates sobre a regulação da desinformação sob perspectiva comparada. Mídias sociais e democracia iliberal: desinformação e contextos eleitorais.</p>
+<h2 id="avaliação">Avaliação</h2>
+<p>A avaliação será realizada levando em consideração três critérios: a) a leitura e participação nos debates da bibliografia recomendada durante as aulas; b) a submissão de um trabalho final articulando os conceitos e estudos de caso vistos na disciplina; e c) uma atividade final de troca de pareceres contendo sugestões e leituras construtivas de textos de colegas de sala.</p>
+<h2 id="bibliografia-principal">Bibliografia principal</h2>
+<ul>
+<li>BENNETT, W. Lance; LIVINGSTON, Steven. <strong>The Disinformation Age</strong>: Politics, Technology, and Disruptive Communication in the United States, 2021.</li>
+<li>BRAUN, Joshua A.; EKLUND, Jessica L. Fake news, real money: Ad tech platforms, profit-driven hoaxes, and the business of journalism. <strong>Digital Journalism</strong>, v. 7, n. 1, p. 1-21, 2019.</li>
+<li>BROWN, Wendy. <strong>In the ruins of neoliberalism</strong>: the rise of antidemocratic politics in the West. Columbia University Press, 2019.</li>
+<li>CAPLAN, Robyn; GILLESPIE, Tarleton. Tiered governance and demonetization: The shifting terms of labor and compensation in the platform economy. <strong>Social Media+ Society</strong>, v. 6, n. 2, 2020.</li>
+<li>CARLSON, Matt. Fake news as an informational moral panic. <strong>Information, Communication &amp; Society</strong>, v. 23, n. 3, p. 374-388, 2020.</li>
+<li>DAHLGREN, Peter. Media, knowledge and trust: The deepening epistemic crisis of democracy. <strong>Javnost-The Public</strong>, v. 25, n. 1-2, p. 20-27, 2018.</li>
+<li>MOORE, Martin; TAMBINI, Damian (Ed.). <strong>Regulating Big tech</strong>: Policy responses to digital dominance. Oxford University Press, 2021.</li>
+<li>POELL, Thomas; NIEBORG, David; VAN DIJCK, José. Platformisation. <strong>Internet Policy Review</strong>, v. 8, n. 4, p. 1-13, 2019.</li>
+<li>SRNICEK, Nick. <strong>Platform capitalism</strong>. John Wiley &amp; Sons, 2017.</li>
+<li>VAN DIJCK, José; POELL, Thomas; DE WAAL, Martijn. <strong>The platform society</strong>: Public values in a connective world. Oxford University Press, 2018.</li>
+</ul>
+<h2 id="bibliografia-complementar">Bibliografia complementar</h2>
+<ul>
+<li>ALBUQUERQUE, Afonso; QUINAN, Rodrigo. Crise epistemológica e teorias da conspiração: o discurso anti-ciência do canal &ldquo;Professor Terra Plana&rdquo;. <strong>Revista Mídia e Cotidiano</strong>, v. 13, n. 3, p. 83-104, 2019.</li>
+<li>BOZARTH, Lia; BUDAK, Ceren. An Analysis of the Partnership between Retailers and Low-credibility News Publishers. <strong>Journal of Quantitative Description: Digital Media</strong>, v. 1, 2021.</li>
+<li>CHAGAS, Viktor. WhatsApp and Digital Astroturfing. <strong>International Journal of Communication</strong>, v. 16, p. 25, 2022.</li>
+<li>CLAYTON, Katherine et al. Real solutions for fake news? <strong>Political Behavior</strong>, v. 42, n. 4, p. 1073-1095, 2020.</li>
+<li>COROMINA, Oscar; MATAMOROS-FERNÁNDEZ, Ariadna; RIEDER, Bernhard. Follow the Money: a Large-scale Investigation of Monetization and Optimization on YouTube. <strong>AoIR Selected Papers of Internet Research</strong>, 2020.</li>
+<li>DE ALMEIDA FONSECA, Gregório; D&rsquo;ANDRÉA, Carlos. Governança e mediações algorítmicas da plataforma YouTube durante a pandemia de COVID-19. <strong>Dispositiva</strong>, v. 9, n. 16, p. 6-26, 2020.</li>
+<li>DE BRITO D&rsquo;ANDRÉA, Carlos Frederico; HENN, Ronaldo. Desinformação, plataformas, pandemia. <strong>Fronteiras-estudos midiáticos</strong>, v. 23, n. 2, 2021.</li>
+<li>DE KEULENAAR, Emillie; BURTON, Anthony Glyn; KISJES, Ivan. Deplatforming, demotion and folk theories of Big Tech persecution. <strong>Fronteiras-estudos midiáticos</strong>, v. 23, n. 2, p. 118-139, 2021.</li>
+<li>DE ZEEUW, Daniel et al. Tracing normiefication: A cross-platform analysis of the QAnon conspiracy theory. <strong>First Monday</strong>, 2020.</li>
+<li>DOS SANTOS, Marcelo Alves. Clones do YouTube: replataformização da irrealidade e infraestruturas de desinformação sobre a Covid-19. <strong>Fronteiras-estudos midiáticos</strong>, v. 23, n. 2, p. 140-159, 2021.</li>
+<li>GUESS, Andrew; NYHAN, Brendan; REIFLER, Jason. Selective exposure to misinformation. <strong>European Research Council</strong>, v. 9, n. 3, p. 4, 2018.</li>
+<li>HAIMSON, Oliver L. et al. Disproportionate removals and differing content moderation experiences. <strong>Proceedings of the ACM on Human-Computer Interaction</strong>, v. 5, n. CSCW2, p. 1-35, 2021.</li>
+<li>HELBERGER, Natali. The political power of platforms. <strong>Digital Journalism</strong>, v. 8, n. 6, p. 842-854, 2020.</li>
+<li>INNES, Helen; INNES, Martin. De-platforming disinformation. <strong>Information, Communication &amp; Society</strong>, p. 1-19, 2021.</li>
+<li>LEWIS, Rebecca. &ldquo;This is what the news won&rsquo;t show you&rdquo;: YouTube creators and the reactionary politics of micro-celebrity. <strong>Television &amp; New Media</strong>, v. 21, n. 2, p. 201-217, 2020.</li>
+<li>LEWIS, Rebecca. Alternative influence: Broadcasting the reactionary right on YouTube. 2018.</li>
+<li>NAPOLI, Philip M. The platform beat: Algorithmic watchdogs in the disinformation age. <strong>European Journal of Communication</strong>, v. 36, n. 4, p. 376-390, 2021.</li>
+<li>NASCIMENTO, Leonardo Fernandes et al. Poder oracular e ecossistemas digitais de comunicação. <strong>Fronteiras-estudos midiáticos</strong>, v. 23, n. 2, p. 190-206, 2021.</li>
+<li>NOBLE, Safiya U. The logics of (digital) distortion. <strong>Interactions</strong>, v. 28, n. 6, p. 41-45, 2021.</li>
+<li>PEETERS, Stijn; WILLAERT, Tom. Telegram and Digital Methods. <strong>M/C Journal</strong>, v. 25, n. 1, 2022.</li>
+<li>REIS, Ruth; ZANETTI, Daniela; FRIZZERA, Luciano. Algoritmos e desinformação: O papel do YouTube no cenário político brasileiro. In: <strong>VIII Congresso da Associação Brasileira de Pesquisadores em Comunicação e Política</strong>, 2019.</li>
+<li>TUTERS, Marc. A Prelude to Insurrection. <strong>Fast Capitalism</strong>, v. 18, n. 1, 2021.</li>
+<li>YESILADA, Muhsin; LEWANDOWSKY, Stephan. Systematic review: YouTube recommendations and problematic content. <strong>Internet Policy Review</strong>, v. 11, n. 1, p. 1-22, 2022.</li>
+</ul>
+
+        </div>
+    </div>
+</article>
+
+    </main>
+    <footer class="bg-purple-600 pt-16 pb-10">
+    <div class="max-w-6xl mx-auto px-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
+            
+            <div>
+                <div class="flex items-center space-x-5 mb-4">
+                    <a href="https://www.puc-rio.br/" target="_blank">
+                        <img src="https://www.com.puc-rio.br/wp-content/uploads/2024/09/brasao-puc-completo-branco-179x300.png" alt="PUC-Rio" class="h-14">
+                    </a>
+                    <a href="https://www.com.puc-rio.br/" target="_blank">
+                        <img src="https://www.com.puc-rio.br/wp-content/uploads/2023/08/logo-com-branco1-Copia-300x131.png" alt="Departamento de Comunicação Social - PUC-Rio" class="h-12">
+                    </a>
+                </div>
+                <p class="text-purple-100 text-sm leading-relaxed mb-3">
+                    Departamento de Comunicação Social
+                </p>
+                <a href="https://www.com.puc-rio.br/" target="_blank" class="text-white text-sm font-bold hover:text-purple-200 transition-colors">
+                    www.com.puc-rio.br
+                </a>
+            </div>
+
+            
+            <div>
+                <div class="flex items-center space-x-3 mb-4">
+                    <div class="w-8 h-8 bg-white rounded-xl flex items-center justify-center">
+                        <span class="text-purple-600 font-bold text-lg italic">C</span>
+                    </div>
+                    <span class="text-white font-bold text-lg tracking-tight">Condado Lab</span>
+                </div>
+                <p class="text-purple-100 text-sm leading-relaxed">
+                    Grupo de Pesquisa em Comunicação, Dados e Tecnologia.
+                </p>
+            </div>
+
+            
+            <div>
+                <h4 class="text-white text-xs font-bold uppercase tracking-widest mb-4">Links</h4>
+                <div class="space-y-2">
+                    
+                    <a href="https://github.com/condado-lab" target="_blank" class="text-purple-100 text-sm hover:text-white transition-colors block">GitHub</a>
+                    
+                    
+                    <a href="mailto:marcelo_alves@puc-rio.br" class="text-purple-100 text-sm hover:text-white transition-colors block">marcelo_alves@puc-rio.br</a>
+                    
+                    <a href="https://www.puc-rio.br/" target="_blank" class="text-purple-100 text-sm hover:text-white transition-colors block">PUC-Rio</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="border-t border-purple-500 pt-8">
+            <p class="text-purple-200 text-[10px] font-bold uppercase tracking-[0.2em] text-center">
+                &copy; 2026 Condado Lab &middot; Departamento de Comunicação Social &middot; PUC-Rio
+            </p>
+        </div>
+    </div>
+</footer>
+
+    
+<div id="search-modal" class="fixed inset-0 z-[100] hidden" role="dialog" aria-modal="true" aria-label="Buscar no site" data-index="/index.json">
+    <div id="search-backdrop" class="absolute inset-0 bg-black/50 backdrop-blur-sm"></div>
+    <div class="relative max-w-2xl mx-auto mt-20 mx-4 sm:mx-auto px-4">
+        <div class="bg-white dark:bg-slate-900 rounded-2xl shadow-2xl overflow-hidden border border-slate-200 dark:border-slate-700">
+            
+            <div class="flex items-center px-5 border-b border-slate-100 dark:border-slate-800">
+                <i class="fas fa-search text-slate-300 dark:text-slate-500 mr-3"></i>
+                <input
+                    id="search-input"
+                    type="text"
+                    placeholder="Buscar publicações, blog, projetos..."
+                    class="w-full py-4 text-base bg-transparent outline-none text-slate-900 dark:text-white placeholder-slate-300 dark:placeholder-slate-500"
+                    autocomplete="off"
+                >
+                <kbd class="hidden sm:inline-flex items-center px-2 py-0.5 text-[10px] font-bold text-slate-300 dark:text-slate-500 border border-slate-200 dark:border-slate-600 rounded">ESC</kbd>
+            </div>
+            
+            <div id="search-results" class="max-h-[60vh] overflow-y-auto">
+                <div id="search-empty" class="py-12 text-center text-slate-300 dark:text-slate-500 text-sm">
+                    Digite para buscar...
+                </div>
+                <div id="search-list" class="hidden divide-y divide-slate-100 dark:divide-slate-800"></div>
+                <div id="search-no-results" class="hidden py-12 text-center text-slate-400 dark:text-slate-500 text-sm">
+                    Nenhum resultado encontrado.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+(function () {
+    var modal = document.getElementById('search-modal');
+    var backdrop = document.getElementById('search-backdrop');
+    var input = document.getElementById('search-input');
+    var listEl = document.getElementById('search-list');
+    var emptyEl = document.getElementById('search-empty');
+    var noResultsEl = document.getElementById('search-no-results');
+    var fuse = null;
+    var indexLoaded = false;
+
+    var sectionLabels = {
+        publications: 'Publicação',
+        blog: 'Blog',
+        projects: 'Pesquisa',
+        people: 'Pessoa',
+        disciplinas: 'Disciplina',
+        leituras: 'Leitura'
+    };
+
+    var sectionColors = {
+        publications: 'bg-purple-100 text-purple-700 dark:bg-purple-900 dark:text-purple-300',
+        blog: 'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300',
+        projects: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900 dark:text-emerald-300',
+        people: 'bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300',
+        disciplinas: 'bg-rose-100 text-rose-700 dark:bg-rose-900 dark:text-rose-300',
+        leituras: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900 dark:text-cyan-300'
+    };
+
+    function loadIndex() {
+        if (indexLoaded) return Promise.resolve();
+        var indexUrl = modal.getAttribute('data-index');
+        return fetch(indexUrl)
+            .then(function (r) { return r.json(); })
+            .then(function (data) {
+                fuse = new Fuse(data, {
+                    keys: [
+                        { name: 'title', weight: 0.4 },
+                        { name: 'authors', weight: 0.2 },
+                        { name: 'tags', weight: 0.15 },
+                        { name: 'description', weight: 0.1 },
+                        { name: 'content', weight: 0.1 },
+                        { name: 'venue', weight: 0.05 }
+                    ],
+                    threshold: 0.3,
+                    ignoreLocation: true,
+                    minMatchCharLength: 2
+                });
+                indexLoaded = true;
+            });
+    }
+
+    function openSearch() {
+        modal.classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+        loadIndex().then(function () {
+            input.focus();
+        });
+    }
+
+    function closeSearch() {
+        modal.classList.add('hidden');
+        document.body.style.overflow = '';
+        input.value = '';
+        listEl.classList.add('hidden');
+        noResultsEl.classList.add('hidden');
+        emptyEl.classList.remove('hidden');
+    }
+
+    function renderResults(results) {
+        if (!results.length) {
+            listEl.classList.add('hidden');
+            emptyEl.classList.add('hidden');
+            noResultsEl.classList.remove('hidden');
+            return;
+        }
+        noResultsEl.classList.add('hidden');
+        emptyEl.classList.add('hidden');
+        listEl.classList.remove('hidden');
+
+        listEl.innerHTML = results.slice(0, 20).map(function (r) {
+            var item = r.item;
+            var section = item.section || '';
+            var label = sectionLabels[section] || section;
+            var color = sectionColors[section] || 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-300';
+            var desc = item.description || item.content || '';
+            if (desc.length > 120) desc = desc.substring(0, 120) + '...';
+
+            var meta = '';
+            if (item.authors) meta = item.authors;
+            else if (item.date) meta = item.date;
+
+            return '<a href="' + item.permalink + '" class="block px-5 py-4 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors">'
+                + '<div class="flex items-start gap-3">'
+                + '<span class="inline-block px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider rounded-md mt-0.5 flex-shrink-0 ' + color + '">' + label + '</span>'
+                + '<div class="flex-1 min-w-0">'
+                + '<p class="text-sm font-semibold text-slate-900 dark:text-white leading-snug">' + escapeHtml(item.title) + '</p>'
+                + (meta ? '<p class="text-xs text-slate-400 dark:text-slate-500 mt-0.5">' + escapeHtml(meta) + '</p>' : '')
+                + (desc ? '<p class="text-xs text-slate-400 dark:text-slate-500 mt-1 line-clamp-1">' + escapeHtml(desc) + '</p>' : '')
+                + '</div>'
+                + '<i class="fas fa-chevron-right text-slate-200 dark:text-slate-600 text-xs mt-1 flex-shrink-0"></i>'
+                + '</div></a>';
+        }).join('');
+    }
+
+    function escapeHtml(text) {
+        var div = document.createElement('div');
+        div.appendChild(document.createTextNode(text));
+        return div.innerHTML;
+    }
+
+    
+    var debounceTimer;
+    input.addEventListener('input', function () {
+        clearTimeout(debounceTimer);
+        var query = input.value.trim();
+        if (query.length < 2) {
+            listEl.classList.add('hidden');
+            noResultsEl.classList.add('hidden');
+            emptyEl.classList.remove('hidden');
+            return;
+        }
+        debounceTimer = setTimeout(function () {
+            if (fuse) {
+                renderResults(fuse.search(query));
+            }
+        }, 150);
+    });
+
+    backdrop.addEventListener('click', closeSearch);
+
+    document.addEventListener('keydown', function (e) {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+            e.preventDefault();
+            if (modal.classList.contains('hidden')) {
+                openSearch();
+            } else {
+                closeSearch();
+            }
+        }
+        if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+            closeSearch();
+        }
+    });
+
+    
+    window.openSearch = openSearch;
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classificação Ideológica on Condado Lab</title>
+    <link>http://localhost:1313/tags/classifica%C3%A7%C3%A3o-ideol%C3%B3gica/</link>
+    <description>Recent content in Classificação Ideológica on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/classifica%C3%A7%C3%A3o-ideol%C3%B3gica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classificação ideológica de fontes informacionais: o paralelismo político na análise da atenção midiática multipartidária no Brasil</title>
+      <link>http://localhost:1313/publications/2024-opiniao-publica-classificacao/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-opiniao-publica-classificacao/</guid>
+      <description>&lt;p&gt;O artigo propõe uma metodologia de classificação ideológica de fontes informacionais e aplica o framework à análise da atenção midiática ao multipartidarismo brasileiro. A pesquisa extraiu uma base original de 2,95 milhões de tweets publicados entre 2019 e 2020 por 1.346 usuários. Os resultados indicam que a maioria das fontes informacionais distribui atenção entre vários grupos partidários, e que sites insulares são menos citados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Context on Condado Lab</title>
+    <link>http://localhost:1313/tags/political-context/</link>
+    <description>Recent content in Political Context on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/political-context/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The News Sharing Gap: How Political Context Helps to Explain News Routines and Shareworthiness on SNSs</title>
+      <link>http://localhost:1313/publications/2021-the-news-sharing-gap-how-political-context-helps-to-explain-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-the-news-sharing-gap-how-political-context-helps-to-explain-/</guid>
+      <description>&lt;p&gt;The article examines how political context helps explain news routines and shareworthiness on social networking sites, analyzing the gap between what news organizations publish and what audiences share.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

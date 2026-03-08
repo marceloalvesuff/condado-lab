@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pesquisa on Condado Lab</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Pesquisa on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudos de Plataformas Digitais</title>
+      <link>http://localhost:1313/projects/estudos-plataformas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/estudos-plataformas/</guid>
+      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Métodos Digitais</title>
+      <link>http://localhost:1313/projects/metodos-digitais/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/metodos-digitais/</guid>
+      <description>&lt;p&gt;Este eixo explora perspectivas metodológicas combinadas da escola de métodos digitais e das ciências sociais computacionais para a análise de fenômenos na interface entre mídia e tecnologia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desenvolvimento e aplicação de métodos digitais&lt;/li&gt;&#xA;&lt;li&gt;Análise de dados de plataformas e mídias sociais&lt;/li&gt;&#xA;&lt;li&gt;Abordagens computacionais para pesquisa em comunicação&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Práticas e Culturas Extremistas e Radicais</title>
+      <link>http://localhost:1313/projects/praticas-extremistas/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/praticas-extremistas/</guid>
+      <description>&lt;p&gt;Este eixo investiga as práticas e culturas extremistas e radicais no ambiente digital, com atenção especial às disputas pela memória do oito de janeiro de 2023 e os discursos revisionistas e negacionistas elaborados para ressignificar ações antidemocráticas e de violência política.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mapeamento de redes e práticas extremistas online&lt;/li&gt;&#xA;&lt;li&gt;Disputas pela memória e narrativas revisionistas&lt;/li&gt;&#xA;&lt;li&gt;Violência política e radicalização digital&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Governança e Moderação de Conteúdo</title>
+      <link>http://localhost:1313/projects/governanca-moderacao/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/governanca-moderacao/</guid>
+      <description>&lt;p&gt;Este eixo analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise de políticas de moderação de conteúdo&lt;/li&gt;&#xA;&lt;li&gt;Integridade da informação e processos eleitorais&lt;/li&gt;&#xA;&lt;li&gt;Regulação e governança de plataformas digitais&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Economia da Atenção e Sociotécnicas da Monetização</title>
+      <link>http://localhost:1313/projects/economia-atencao/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/economia-atencao/</guid>
+      <description>&lt;p&gt;Este eixo investiga a economia da atenção e as estratégias de monetização das indústrias da desinformação, analisando como modelos de negócio das plataformas incentivam a circulação de conteúdo desinformativo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estratégias de monetização e desinformação&lt;/li&gt;&#xA;&lt;li&gt;Economia da atenção e engajamento&lt;/li&gt;&#xA;&lt;li&gt;Modelos de negócio das plataformas e seus efeitos sociais&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Acervo Digital do 8 de Janeiro</title>
+      <link>http://localhost:1313/projects/acervo-8-janeiro/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/acervo-8-janeiro/</guid>
+      <description>&lt;p&gt;O projeto constrói um acervo digital sobre o 8 de janeiro de 2023. O trabalho envolve a coleta sistemática de dados de plataformas, a preservação de registros digitais e a análise das políticas de moderação que resultaram no apagamento de conteúdo relacionado ao atentado.&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa parte de dois problemas. O primeiro é a remoção e desaparecimento de rastros digitais pelas próprias plataformas. O segundo é a produção de narrativas revisionistas e negacionistas que buscam ressignificar o evento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Financiamento e monetização da desinformação</title>
+      <link>http://localhost:1313/projects/financiamento-desinformacao/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/financiamento-desinformacao/</guid>
+      <description>&lt;p&gt;O projeto investiga como o ecossistema publicitário programático financia a produção e circulação de conteúdo desinformativo. A pesquisa trabalha com dados primários sobre anunciantes, redes de publicidade e websites hiperpartidários no Brasil.&lt;/p&gt;&#xA;&lt;p&gt;O trabalho propõe um framework com três funções da publicidade programática para a desinformação: financiamento, legitimação e engano. Essa formulação foi apresentada no 33o Encontro Anual da Compós (2024) e publicada na E-Compós e na Eptic On-Line.&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa inclui análises do ecossistema de monetização de websites hiperpartidários de direita e de estratégias de interrupção do financiamento da desinformação, apresentadas no evento Empowering Election Integrity in the Global Majority.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

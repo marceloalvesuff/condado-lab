@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicidade on Condado Lab</title>
+    <link>http://localhost:1313/tags/publicidade/</link>
+    <description>Recent content in Publicidade on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/publicidade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professor Marcelo Alves ministra palestra na Academia Infoglobo</title>
+      <link>http://localhost:1313/blog/palestra-infoglobo/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/palestra-infoglobo/</guid>
+      <description>&lt;p&gt;O professor Marcelo Alves dos Santos Junior, do PPGCOM/PUC-Rio, ministrou a palestra &amp;ldquo;Combate à desinformação e bibliotecas de anúncios&amp;rdquo; na Academia Infoglobo, no dia 6 de maio. O objetivo foi apresentar subsídios para o desenvolvimento da cobertura jornalística sobre o tema.&lt;/p&gt;&#xA;&lt;p&gt;A palestra fez parte da série &amp;ldquo;Encontros na Redação&amp;rdquo;, uma colaboração entre o jornal O Globo e o Departamento de Comunicação da PUC-Rio.&lt;/p&gt;&#xA;&lt;p&gt;Fonte: &lt;a href=&#34;https://www.com.puc-rio.br/2025/05/07/professor-marcelo-alves-ministra-palestra-na-academia-infoglobo/&#34;&gt;Departamento de Comunicação PUC-Rio&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

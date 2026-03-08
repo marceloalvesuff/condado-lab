@@ -1,0 +1,48 @@
+{{ define "main" }}
+<article class="pt-32 pb-24">
+    <div class="max-w-3xl mx-auto px-6">
+        <a href="{{ .Parent.Permalink }}" class="text-slate-300 hover:text-purple-600 text-xs font-bold uppercase tracking-widest mb-12 flex items-center">
+            <i class="fas fa-arrow-left mr-3"></i> Voltar para Pesquisa
+        </a>
+
+        {{ with .Params.tags }}
+        <div class="mb-4 flex flex-wrap gap-2">
+            {{ range . }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        <h1 class="text-4xl md:text-5xl font-bold mb-8 leading-tight">{{ .Title }}</h1>
+
+        {{ with .Params.status }}
+        <div class="mb-8">
+            <span class="inline-block px-4 py-1.5 bg-purple-50 text-purple-600 text-[10px] font-black uppercase tracking-[0.2em] rounded-full">
+                {{ . }}
+            </span>
+        </div>
+        {{ end }}
+
+        {{ with .Params.image }}
+        <div class="mb-12 rounded-[2rem] overflow-hidden">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
+        </div>
+        {{ end }}
+
+        <div class="prose max-w-none">
+            {{ .Content }}
+        </div>
+
+        {{ with .Params.people }}
+        <div class="mt-16 pt-8 border-t border-slate-100">
+            <h3 class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-6">Participantes</h3>
+            <div class="flex flex-wrap gap-3">
+                {{ range . }}
+                <span class="px-4 py-2 bg-slate-50 rounded-full text-sm font-medium text-slate-600">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</article>
+{{ end }}

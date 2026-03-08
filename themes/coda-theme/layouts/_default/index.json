@@ -1,0 +1,20 @@
+{{- $index := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- $entry := dict
+    "title" .Title
+    "permalink" .Permalink
+    "section" .Section
+    "date" (.Date.Format "2006-01-02")
+    "description" .Description
+    "content" (.Plain | truncate 300)
+    "tags" .Params.tags
+  -}}
+  {{- if .Params.authors -}}
+    {{- $entry = merge $entry (dict "authors" (delimit .Params.authors ", ")) -}}
+  {{- end -}}
+  {{- if .Params.venue -}}
+    {{- $entry = merge $entry (dict "venue" .Params.venue) -}}
+  {{- end -}}
+  {{- $index = $index | append $entry -}}
+{{- end -}}
+{{- $index | jsonify -}}

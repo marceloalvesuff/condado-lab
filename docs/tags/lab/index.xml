@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab on Condado Lab</title>
+    <link>http://localhost:1313/tags/lab/</link>
+    <description>Recent content in Lab on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bem-vindo ao Blog do CODA Lab</title>
+      <link>http://localhost:1313/blog/primeiro-post/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/primeiro-post/</guid>
+      <description>&lt;p&gt;Este é o primeiro post do blog do CODA Lab. Aqui compartilharemos atualizações sobre nossos projetos de pesquisa, tutoriais sobre técnicas de visualização e reflexões sobre o campo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-esperar&#34;&gt;O que esperar&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Novidades sobre projetos em andamento&lt;/li&gt;&#xA;&lt;li&gt;Tutoriais de ferramentas de visualização&lt;/li&gt;&#xA;&lt;li&gt;Resumos de artigos publicados&lt;/li&gt;&#xA;&lt;li&gt;Convites para eventos e palestras&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Fique ligado para mais conteúdo!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

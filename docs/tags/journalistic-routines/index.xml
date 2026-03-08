@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journalistic Routines on Condado Lab</title>
+    <link>http://localhost:1313/tags/journalistic-routines/</link>
+    <description>Recent content in Journalistic Routines on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/journalistic-routines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The virtuous cycle of news sharing on Facebook: Effects of platform affordances and journalistic routines on news sharing</title>
+      <link>http://localhost:1313/publications/2019-the-virtuous-cycle-of-news-sharing-on-facebook-effects-of-pl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-the-virtuous-cycle-of-news-sharing-on-facebook-effects-of-pl/</guid>
+      <description>&lt;p&gt;The article investigates the effects of platform affordances and journalistic routines on news sharing on Facebook, analyzing how the interplay between these factors creates a virtuous cycle that amplifies news visibility and engagement on the platform.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiperpartidário on Condado Lab</title>
+    <link>http://localhost:1313/tags/hiperpartid%C3%A1rio/</link>
+    <description>Recent content in Hiperpartidário on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hiperpartid%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita</title>
+      <link>http://localhost:1313/publications/2024-ecompos-monetizacao/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ecompos-monetizacao/</guid>
+      <description>&lt;p&gt;O artigo analisa os modelos de monetização de 55 websites hiperpartidários de direita no Brasil. A pesquisa desenvolve um framework analítico com cinco dimensões e aplica a uma amostra de portais. Os resultados indicam dependência de infraestruturas de publicidade programática: 70% dos sites analisados utilizam Google AdSense como fonte de receita.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

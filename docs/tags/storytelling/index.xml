@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling on Condado Lab</title>
+    <link>http://localhost:1313/tags/storytelling/</link>
+    <description>Recent content in Storytelling on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Narrativas Visuais com Dados</title>
+      <link>http://localhost:1313/projects/narrativas-visuais/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/narrativas-visuais/</guid>
+      <description>&lt;p&gt;Este projeto explora como narrativas visuais podem tornar dados complexos mais acessíveis e compreensíveis para públicos diversos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identificar padrões de narrativa visual eficazes&lt;/li&gt;&#xA;&lt;li&gt;Desenvolver ferramentas de autoria de data stories&lt;/li&gt;&#xA;&lt;li&gt;Avaliar o impacto comunicativo das narrativas visuais&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

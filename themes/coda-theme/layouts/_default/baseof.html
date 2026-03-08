@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta name="author" content="{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#6b46c1">
+    {{ with .Params.tags }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ $ogImage := "" }}
+    {{ with .Params.image }}{{ $ogImage = . }}{{ end }}
+    {{ with .Params.photo }}{{ $ogImage = . }}{{ end }}
+    {{ if $ogImage }}
+    <meta property="og:image" content="{{ $ogImage | absURL }}">
+    {{ else }}
+    <meta property="og:image" content="{{ "images/og-default.png" | absURL }}">
+    {{ end }}
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    {{ if $ogImage }}
+    <meta name="twitter:image" content="{{ $ogImage | absURL }}">
+    {{ else }}
+    <meta name="twitter:image" content="{{ "images/og-default.png" | absURL }}">
+    {{ end }}
+
+    <!-- Canonical & Feeds -->
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ with .OutputFormats.Get "RSS" }}
+    <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>tailwind.config = { darkMode: 'class' }</script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+    <!-- JSON-LD Structured Data -->
+    {{ if .IsHome }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ResearchOrganization",
+        "name": "{{ .Site.Title }}",
+        "description": "{{ .Site.Params.description }}",
+        "url": "{{ .Site.BaseURL }}",
+        "parentOrganization": {
+            "@type": "CollegeOrUniversity",
+            "name": "{{ .Site.Params.institution }}"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "{{ .Site.Params.location }}"
+        }
+    }
+    </script>
+    {{ else if eq .Section "publications" }}{{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "{{ .Title }}",
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        {{ with .Params.authors }}"author": [{{ range $i, $a := . }}{{ if $i }},{{ end }}{"@type":"Person","name":"{{ $a }}"}{{ end }}],{{ end }}
+        {{ with .Params.venue }}"publisher": {"@type":"Organization","name":"{{ . }}"},{{ end }}
+        {{ with .Params.doi }}"sameAs": "https://doi.org/{{ . }}",{{ end }}
+        "url": "{{ .Permalink }}"
+    }
+    </script>
+    {{ end }}{{ else if eq .Section "blog" }}{{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ .Title }}",
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        {{ with .Params.author }}"author": {"@type":"Person","name":"{{ . }}"},{{ end }}
+        "url": "{{ .Permalink }}"
+    }
+    </script>
+    {{ end }}{{ else if eq .Section "people" }}{{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ .Title }}",
+        {{ with .Params.position }}"jobTitle": "{{ . }}",{{ end }}
+        "affiliation": {"@type":"CollegeOrUniversity","name":"PUC-Rio"},
+        "url": "{{ .Permalink }}"
+    }
+    </script>
+    {{ end }}{{ end }}
+</head>
+<body class="selection:bg-purple-100 selection:text-purple-900">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-white focus:text-purple-600 focus:rounded-lg focus:font-bold focus:text-sm focus:shadow-lg">
+        Pular para o conteúdo
+    </a>
+    {{ partial "nav.html" . }}
+    <main id="main-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "search.html" . }}
+</body>
+</html>

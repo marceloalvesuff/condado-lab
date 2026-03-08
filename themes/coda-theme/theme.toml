@@ -1,0 +1,8 @@
+name = "CODA Theme"
+license = "MIT"
+licenselink = "https://github.com/coda-lab"
+description = "Custom theme for CODA Lab research group"
+min_version = "0.80.0"
+
+[author]
+  name = "CODA Lab"

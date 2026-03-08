@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleições on Condado Lab</title>
+    <link>http://localhost:1313/tags/elei%C3%A7%C3%B5es/</link>
+    <description>Recent content in Eleições on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/elei%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equalização e normalização nos estados brasileiros: mídias digitais e as eleições para a Câmara dos Deputados em 2022</title>
+      <link>http://localhost:1313/publications/2025-opiniao-publica-equalizacao/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-opiniao-publica-equalizacao/</guid>
+      <description>&lt;p&gt;O artigo analisa as campanhas dos 513 deputados federais eleitos em 2022, com foco em 330 candidatos considerados renovadores políticos (primeiro ou segundo mandato). A pesquisa coletou mais de 20 mil pontos de dados de plataformas como TSE, CrowdTangle, Meta Ads e Google. Em estados como Amazonas, Mato Grosso do Sul, Paraíba e Rio Grande do Sul, há sinais de equalização, com campanhas digitalmente mais bem-sucedidas associadas a políticos do grupo de renovação. Em outros estados, a lógica da normalização prevalece.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abrindo a caixa preta: análise exploratória da rede bolsonarista no WhatsApp</title>
+      <link>http://localhost:1313/publications/2020-abrindo-a-caixa-preta-anlise-exploratria-da-rede-bolsonarist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-abrindo-a-caixa-preta-anlise-exploratria-da-rede-bolsonarist/</guid>
+      <description>&lt;p&gt;A vitória de Jair Bolsonaro nas eleições de 2018 foi marcada por diversos desafios na perspectiva da comunicação política. Com tempo de televisão limitado, sua campanha se caracterizou por forte atividade nas mídias digitais, especialmente no WhatsApp. Os autores analisaram 194.710 mensagens de 21 grupos de apoio a Bolsonaro entre 5 de setembro e 11 de novembro. A análise mostrou que: (i) um pequeno grupo de participantes concentrou a maioria das postagens; (ii) entre os links mais compartilhados, predominaram plataformas digitais como YouTube e Facebook; (iii) houve ações centralizadas de campanha para neutralizar danos à imagem de Bolsonaro e coordenar votos para sua base parlamentar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Twitter como ferramenta de campanha negativa não oficial: uma análise da campanha eleitoral para a Prefeitura do Rio de Janeiro em 2016</title>
+      <link>http://localhost:1313/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</guid>
+      <description>&lt;p&gt;O artigo analisa a adoção da estratégia de campanha negativa não oficial no Twitter na disputa pela Prefeitura do Rio de Janeiro em 2016. Examina mensagens postadas no microblog durante o segundo turno da eleição, analisando redes de apoio e ataque para os candidatos Marcelo Crivella (PRB) e Marcelo Freixo (PSOL). A metodologia utiliza análise de conteúdo, análise de redes sociais e análise estatística de um corpus inicial de 530.000 tweets coletados pela API do Twitter, resultando em uma amostra final de 11.407 publicações classificadas como negativas. Entre as conclusões, os principais agentes da campanha negativa não oficial no Twitter apresentam funções e perfis distintos, divididos entre influenciadores e disseminadores de publicações de ataque.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

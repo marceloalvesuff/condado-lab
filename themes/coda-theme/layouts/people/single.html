@@ -1,0 +1,68 @@
+{{ define "main" }}
+<article class="pt-32 pb-24">
+    <div class="max-w-2xl mx-auto px-6">
+        <a href="{{ .Parent.Permalink }}" class="text-slate-300 hover:text-purple-600 text-xs font-bold uppercase tracking-widest mb-12 flex items-center">
+            <i class="fas fa-arrow-left mr-3"></i> Voltar para Pessoas
+        </a>
+
+        <div class="flex flex-col items-center text-center mb-12">
+            {{ with .Params.photo }}
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-36 h-36 rounded-3xl object-cover mb-6">
+            {{ else }}
+            <div class="w-36 h-36 rounded-3xl bg-purple-50 flex items-center justify-center mb-6">
+                <i class="fas fa-user text-purple-200 text-5xl"></i>
+            </div>
+            {{ end }}
+
+            <h1 class="text-3xl md:text-4xl font-bold mb-2">{{ .Title }}</h1>
+            <p class="text-purple-600 text-xs font-bold uppercase tracking-widest mb-4">{{ .Params.position }}</p>
+
+            <div class="flex items-center gap-4 mt-2">
+                {{ with .Params.lattes }}
+                <a href="{{ . }}" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 bg-purple-600 text-white text-xs font-bold uppercase tracking-widest rounded-full hover:bg-purple-700 transition-all">
+                    <i class="fas fa-external-link-alt"></i> Lattes
+                </a>
+                {{ end }}
+                {{ with .Params.scholar }}
+                <a href="{{ . }}" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-widest rounded-full hover:bg-slate-200 transition-all">
+                    <i class="fas fa-graduation-cap"></i> Scholar
+                </a>
+                {{ end }}
+                {{ with .Params.github }}
+                <a href="{{ . }}" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-widest rounded-full hover:bg-slate-200 transition-all">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+                {{ end }}
+                {{ with .Params.email }}
+                <a href="mailto:{{ . }}" class="inline-flex items-center gap-2 px-4 py-2 bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-widest rounded-full hover:bg-slate-200 transition-all">
+                    <i class="fas fa-envelope"></i> E-mail
+                </a>
+                {{ end }}
+            </div>
+        </div>
+
+        {{ with .Description }}
+        <div class="bg-slate-50 dark:bg-slate-800 rounded-2xl p-8 mb-10">
+            <p class="text-slate-500 leading-relaxed text-sm">{{ . }}</p>
+        </div>
+        {{ end }}
+
+        {{ with .Content }}
+        <div class="prose max-w-none">
+            {{ . }}
+        </div>
+        {{ end }}
+
+        {{ with .Params.tags }}
+        <div class="mt-10 pt-8 border-t border-slate-100">
+            <h3 class="text-xs font-bold uppercase tracking-widest text-slate-300 mb-4">Temas de pesquisa</h3>
+            <div class="flex flex-wrap gap-2">
+                {{ range . }}
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</article>
+{{ end }}

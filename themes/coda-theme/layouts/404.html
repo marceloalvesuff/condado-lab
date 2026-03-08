@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="pt-48 pb-32">
+    <div class="max-w-2xl mx-auto px-6 text-center">
+        <span class="text-purple-600 font-bold opacity-10 block leading-none" style="font-size: 10rem;">404</span>
+        <h1 class="text-4xl font-bold mb-4 -mt-6">Página não encontrada</h1>
+        <p class="text-slate-400 mb-12 leading-relaxed max-w-md mx-auto">
+            A página que você procura não existe ou foi movida. Tente navegar pelo menu acima.
+        </p>
+        <a href="{{ "/" | relURL }}" class="px-8 py-4 bg-purple-600 text-white rounded-2xl font-bold hover:bg-purple-700 transition-all transform hover:-translate-y-1 inline-block">
+            Voltar para o início
+        </a>
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vacinação on Condado Lab</title>
+    <link>http://localhost:1313/tags/vacina%C3%A7%C3%A3o/</link>
+    <description>Recent content in Vacinação on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vacina%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vídeos sobre vacinação removidos do YouTube: análise das fontes, das temáticas e dos posicionamentos</title>
+      <link>http://localhost:1313/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</guid>
+      <description>&lt;p&gt;O artigo analisa vídeos sobre vacinação que foram removidos do YouTube, investigando as fontes, temáticas e posicionamentos do conteúdo removido pela moderação da plataforma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

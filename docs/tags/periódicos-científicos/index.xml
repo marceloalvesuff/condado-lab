@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Periódicos Científicos on Condado Lab</title>
+    <link>http://localhost:1313/tags/peri%C3%B3dicos-cient%C3%ADficos/</link>
+    <description>Recent content in Periódicos Científicos on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/peri%C3%B3dicos-cient%C3%ADficos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Periódicos científicos na área Comunicação e Informação: consolidação do índice h e as questões éticas sobre sua utilização</title>
+      <link>http://localhost:1313/publications/2024-peridicos-cientficos-na-rea-comunicao-e-informao-consolidao-/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-peridicos-cientficos-na-rea-comunicao-e-informao-consolidao-/</guid>
+      <description>&lt;p&gt;O artigo aborda os periódicos científicos na área de Comunicação e Informação, discutindo a consolidação do índice h como métrica de avaliação e as questões éticas relacionadas à sua utilização no contexto acadêmico brasileiro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

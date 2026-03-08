@@ -1,0 +1,60 @@
+{{ define "main" }}
+<section class="pt-32 pb-24">
+    <div class="max-w-4xl mx-auto px-6">
+        <h1 class="text-4xl font-bold mb-4 text-center">Temas</h1>
+        <p class="text-slate-400 text-center mb-16">{{ len .Data.Terms }} palavras-chave em {{ len .Site.RegularPages }} publicações</p>
+
+        <!-- Search/filter -->
+        <div class="relative mb-12 max-w-md mx-auto">
+            <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-slate-300"></i>
+            <input
+                id="tag-filter"
+                type="text"
+                placeholder="Filtrar temas..."
+                class="w-full pl-11 pr-4 py-3 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-sm outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-100 dark:focus:ring-purple-900 transition-all"
+            >
+        </div>
+
+        <!-- Tags cloud -->
+        <div id="tags-cloud" class="flex flex-wrap justify-center gap-3">
+            {{ $maxCount := 1 }}
+            {{ range .Data.Terms.Alphabetical }}
+                {{ if gt .Count $maxCount }}{{ $maxCount = .Count }}{{ end }}
+            {{ end }}
+
+            {{ range .Data.Terms.Alphabetical }}
+            {{ $ratio := div (float .Count) (float $maxCount) }}
+            <a href="{{ .Page.Permalink }}"
+               class="tag-item inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-slate-200 dark:border-slate-700 hover:border-purple-400 hover:bg-purple-50 dark:hover:bg-purple-900/30 transition-all group"
+               data-name="{{ .Page.Title | lower }}"
+               style="font-size: {{ if gt $ratio 0.7 }}0.95rem{{ else if gt $ratio 0.4 }}0.8rem{{ else }}0.7rem{{ end }}">
+                <span class="font-semibold text-slate-700 dark:text-slate-300 group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors">{{ .Page.Title }}</span>
+                <span class="text-[10px] font-bold text-slate-300 dark:text-slate-500">{{ .Count }}</span>
+            </a>
+            {{ end }}
+        </div>
+
+        <p id="tags-no-results" class="hidden text-center text-slate-400 mt-8 text-sm">Nenhum tema encontrado.</p>
+    </div>
+</section>
+
+<script>
+(function () {
+    var input = document.getElementById('tag-filter');
+    var items = document.querySelectorAll('.tag-item');
+    var noResults = document.getElementById('tags-no-results');
+
+    input.addEventListener('input', function () {
+        var query = input.value.trim().toLowerCase();
+        var visible = 0;
+        items.forEach(function (el) {
+            var name = el.getAttribute('data-name');
+            var match = !query || name.indexOf(query) !== -1;
+            el.style.display = match ? '' : 'none';
+            if (match) visible++;
+        });
+        noResults.classList.toggle('hidden', visible > 0);
+    });
+})();
+</script>
+{{ end }}

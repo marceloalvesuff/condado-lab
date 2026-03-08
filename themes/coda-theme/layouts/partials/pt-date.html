@@ -1,0 +1,4 @@
+{{/* Formats a Hugo date in Portuguese: "01 de janeiro de 2024"
+     Usage: {{ partial "pt-date.html" .Date }} */}}
+{{ $months := slice "" "janeiro" "fevereiro" "março" "abril" "maio" "junho" "julho" "agosto" "setembro" "outubro" "novembro" "dezembro" -}}
+{{ .Format "2" }} de {{ index $months (.Month | int) }} de {{ .Format "2006" }}

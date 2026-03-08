@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agendamento on Condado Lab</title>
+    <link>http://localhost:1313/tags/agendamento/</link>
+    <description>Recent content in Agendamento on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/agendamento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O agendamento do factoide Farc no Estado de Minas durante a eleição presidencial</title>
+      <link>http://localhost:1313/publications/2012-o-agendamento-do-factoide-farc-no-estado-de-minas-durante-a-/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2012-o-agendamento-do-factoide-farc-no-estado-de-minas-durante-a-/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

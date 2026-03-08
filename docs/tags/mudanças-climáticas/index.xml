@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mudanças Climáticas on Condado Lab</title>
+    <link>http://localhost:1313/tags/mudan%C3%A7as-clim%C3%A1ticas/</link>
+    <description>Recent content in Mudanças Climáticas on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mudan%C3%A7as-clim%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is the Public Sphere Still Alive? Longitudinal Analysis of Climate Change Issue Attention Across Newspapers and Social Media Platforms (2014-2022)</title>
+      <link>http://localhost:1313/publications/2025-bpsr-public-sphere/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-bpsr-public-sphere/</guid>
+      <description>&lt;p&gt;O artigo analisa a evolução da atenção ao tema das mudanças climáticas em jornais impressos e plataformas digitais ao longo de oito anos (2014-2022). Os resultados indicam que a força comunicativa da esfera pública mantém potencial empírico mesmo em sociedades com sinais de disfunção do sistema deliberativo, como no caso brasileiro durante o governo Bolsonaro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoções e mudanças climáticas no Instagram: um estudo em contexto brasileiro</title>
+      <link>http://localhost:1313/publications/2025-emoes-e-mudanas-climticas-no-instagram-um-estudo-em-contexto/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-emoes-e-mudanas-climticas-no-instagram-um-estudo-em-contexto/</guid>
+      <description>&lt;p&gt;O estudo teve como objetivo identificar e analisar emoções expressas em torno de mudanças climáticas a partir de conteúdo público produzido no Instagram entre 2021 e 2022, no contexto brasileiro. Um número relativamente pequeno de publicações com expressão emocional foi encontrado no corpus (18,5%), e emoções negativas foram prevalentes (61,2%), com destaque para preocupação (23,7%) e desaprovação, corroborando estudos anteriores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>(Un)certainty in Science and Climate Change: a Longitudinal Analysis (2014-2022) of Narratives About Climate Science on Social Media in Brazil</title>
+      <link>http://localhost:1313/publications/2024-ssrn-climate/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ssrn-climate/</guid>
+      <description>&lt;p&gt;O artigo realiza uma análise longitudinal (2014-2022) das narrativas sobre ciência climática no Instagram, Facebook e Twitter no Brasil. A pesquisa empregou TF-IDF para extração de features, análise de sentimento com VADER e Named Entity Recognition. Os resultados não indicam aumento de ceticismo explícito, mas mostram um deslocamento no uso da incerteza como ferramenta retórica para minar a confiança no discurso científico.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A construção do conhecimento sobre mudanças climáticas em grupos negacionistas do Telegram no Brasil</title>
+      <link>http://localhost:1313/publications/2024-a-construo-do-conhecimento-sobre-mudanas-climticas-em-grupos/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-a-construo-do-conhecimento-sobre-mudanas-climticas-em-grupos/</guid>
+      <description>&lt;p&gt;O artigo examina o conteúdo de mensagens negacionistas no Telegram sobre mudanças climáticas, com características interdisciplinares (socioambientais e político-econômicas). Mensagens coletadas e filtradas de 2017 a 2023 foram categorizadas com base na proposta de Mann (2021). O corpus final consistiu em 1.067 mensagens divididas em 4 categorias: minimizar a ameaça; desviar o foco; semear discórdia; e promover desânimo para atrasar a ação. As teorias de apoio indicam que essas construções narrativas se relacionam com uma perspectiva cultural: indivíduos interpretam evidências científicas com base em crenças, valores e ideologias.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
