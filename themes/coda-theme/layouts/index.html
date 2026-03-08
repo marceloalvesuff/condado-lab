@@ -105,8 +105,32 @@
     </div>
 </section>
 
-<!-- Pessoas destaque -->
+<!-- Blog recente -->
 <section class="py-24 bg-slate-50">
+    <div class="max-w-4xl mx-auto px-6">
+        <div class="flex justify-between items-center mb-16">
+            <h2 class="text-3xl font-bold">Blog</h2>
+            <a href="{{ "blog/" | relURL }}" class="text-xs font-bold uppercase tracking-widest text-purple-600 hover:text-purple-800 transition-colors">
+                Ver todos <i class="fas fa-arrow-right ml-2"></i>
+            </a>
+        </div>
+        {{ $posts := (site.GetPage "blog").Pages.ByDate.Reverse }}
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {{ range first 3 $posts }}
+            <a href="{{ .Permalink }}" class="group block p-8 bg-white rounded-[2rem] border border-slate-100 hover:border-purple-200 card-hover">
+                <span class="text-xs font-black text-purple-600 tracking-widest block mb-4">{{ partial "pt-date.html" .Date }}</span>
+                <h3 class="text-base font-bold group-hover:text-purple-600 transition-colors mb-3 leading-snug">{{ .Title }}</h3>
+                {{ with .Description }}
+                <p class="text-slate-500 text-xs leading-relaxed line-clamp-3">{{ . }}</p>
+                {{ end }}
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Pessoas destaque -->
+<section class="py-24 bg-white">
     <div class="max-w-6xl mx-auto px-6 text-center">
         <h2 class="text-3xl font-bold mb-4">Nossa Equipe</h2>
         <p class="text-slate-400 max-w-xl mx-auto mb-16">
@@ -138,7 +162,7 @@
 </section>
 
 <!-- Parcerias -->
-<section class="py-24 bg-white">
+<section class="py-24 bg-slate-50">
     <div class="max-w-4xl mx-auto px-6 text-center">
         <h2 class="text-3xl font-bold mb-4">Parcerias</h2>
         <p class="text-slate-400 max-w-xl mx-auto mb-16">
