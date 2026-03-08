@@ -20,7 +20,7 @@
         {{ with .Params.tags }}
         <div class="mb-10 flex flex-wrap gap-2">
             {{ range . }}
-            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
+            <a href="{{ $.Site.Home.RelPermalink }}tags/{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
             {{ end }}
         </div>
         {{ end }}

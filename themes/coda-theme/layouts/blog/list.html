@@ -62,7 +62,7 @@
                                     </span>
                                     {{ with .Params.tags }}
                                     {{ range . }}
-                                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
+                                    <a href="{{ $.Site.Home.RelPermalink }}tags/{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
                                     {{ end }}
                                     {{ end }}
                                 </div>
