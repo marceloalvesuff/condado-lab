@@ -23,6 +23,26 @@
         </div>
         {{ end }}
 
+        {{ if or .Params.website .Params.instagram .Params.link }}
+        <div class="flex flex-wrap gap-3 mb-10">
+            {{ with .Params.website }}
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center px-5 py-2.5 bg-purple-600 text-white text-xs font-bold uppercase tracking-widest rounded-full hover:bg-purple-700 transition-all">
+                <i class="fas fa-globe mr-2"></i> Site do projeto
+            </a>
+            {{ end }}
+            {{ with .Params.instagram }}
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center px-5 py-2.5 bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-full hover:from-purple-600 hover:to-pink-600 transition-all">
+                <i class="fab fa-instagram mr-2"></i> Instagram
+            </a>
+            {{ end }}
+            {{ with .Params.link }}
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center px-5 py-2.5 bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-widest rounded-full hover:bg-slate-200 transition-all">
+                <i class="fas fa-external-link-alt mr-2"></i> Acessar
+            </a>
+            {{ end }}
+        </div>
+        {{ end }}
+
         {{ with .Params.image }}
         <div class="mb-12 rounded-[2rem] overflow-hidden">
             <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
@@ -39,6 +59,39 @@
             <div class="flex flex-wrap gap-3">
                 {{ range . }}
                 <span class="px-4 py-2 bg-slate-50 rounded-full text-sm font-medium text-slate-600">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        {{/* Related publications by tag overlap */}}
+        {{ $projectTags := .Params.tags }}
+        {{ $pubs := where .Site.RegularPages "Section" "publications" }}
+        {{ $related := slice }}
+        {{ range $pub := $pubs }}
+            {{ range $tag := $pub.Params.tags }}
+                {{ if and (in $projectTags $tag) (not (in $related $pub)) }}
+                    {{ $related = $related | append $pub }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        {{ with $related }}
+        <div class="mt-16 pt-8 border-t border-slate-100">
+            <h3 class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-8">Publicações relacionadas</h3>
+            <div class="space-y-5">
+                {{ range sort . "Date" "desc" }}
+                <a href="{{ .Permalink }}" class="group block py-4 border-b border-slate-100 last:border-0 hover:pl-2 transition-all">
+                    <div class="flex items-start gap-3">
+                        <span class="text-[11px] font-bold text-slate-300 uppercase tracking-widest whitespace-nowrap mt-1">{{ .Date.Format "2006" }}</span>
+                        <div class="flex-1 min-w-0">
+                            <h4 class="text-sm font-bold leading-snug group-hover:text-purple-600 transition-colors">{{ .Title }}</h4>
+                            {{ with .Params.authors }}
+                            <p class="text-xs text-slate-400 italic mt-1 truncate">{{ delimit . ", " }}</p>
+                            {{ end }}
+                        </div>
+                        <i class="fas fa-chevron-right text-slate-200 group-hover:text-purple-400 transition-colors flex-shrink-0 text-xs mt-1"></i>
+                    </div>
+                </a>
                 {{ end }}
             </div>
         </div>

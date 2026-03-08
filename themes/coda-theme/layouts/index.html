@@ -137,4 +137,25 @@
     </div>
 </section>
 
+<!-- Parcerias -->
+<section class="py-24 bg-white">
+    <div class="max-w-4xl mx-auto px-6 text-center">
+        <h2 class="text-3xl font-bold mb-4">Parcerias</h2>
+        <p class="text-slate-400 max-w-xl mx-auto mb-16">
+            Redes e laboratórios parceiros em pesquisa sobre comunicação, democracia e tecnologia.
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
+            <a href="https://inctdsi.uff.br/" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-center p-8 bg-white rounded-[2rem] border border-slate-100 hover:border-purple-200 transition-all card-hover h-40">
+                <img src="{{ "images/parceiros/inct-dsi-logo.png" | relURL }}" alt="INCT-DSI" class="max-h-20 max-w-full object-contain group-hover:scale-105 transition-transform">
+            </a>
+            <a href="https://institutodx.org/" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-center p-8 bg-slate-900 rounded-[2rem] border border-slate-800 hover:border-purple-400 transition-all card-hover h-40">
+                <img src="{{ "images/parceiros/dx-logo.png" | relURL }}" alt="Instituto Democracia em Xeque" class="max-h-12 max-w-full object-contain group-hover:scale-105 transition-transform">
+            </a>
+            <a href="https://laboratoriodehumanidadesdigitais.usuarios.rdc.puc-rio.br/" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-center p-8 bg-white rounded-[2rem] border border-slate-100 hover:border-purple-200 transition-all card-hover h-40">
+                <img src="{{ "images/parceiros/labhd-pucrio-logo.png" | relURL }}" alt="Laboratório de Humanidades Digitais PUC-Rio" class="max-h-20 max-w-full object-contain group-hover:scale-105 transition-transform">
+            </a>
+        </div>
+    </div>
+</section>
+
 {{ end }}

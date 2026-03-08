@@ -7,6 +7,8 @@ status: "Em andamento"
 people: ["Marcelo Alves dos Santos Junior", "Lorrana Melo", "Beatriz Montenegro"]
 image: ""
 weight: 6
+website: "https://www.acervodigital08janeiro.com.puc-rio.br/"
+instagram: "https://www.instagram.com/acervo8jan/"
 ---
 
 O projeto constrói um acervo digital sobre o 8 de janeiro de 2023. O trabalho envolve a coleta sistemática de dados de plataformas, a preservação de registros digitais e a análise das políticas de moderação que resultaram no apagamento de conteúdo relacionado ao atentado.
