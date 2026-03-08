@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bolsonaro on Condado Lab</title>
-    <link>http://localhost:1313/tags/bolsonaro/</link>
+    <link>https://condado-lab.github.io/tags/bolsonaro/</link>
     <description>Recent content in Bolsonaro on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bolsonaro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/bolsonaro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entre a militância e a fabricação: uma análise de redes não oficiais de apoio a Bolsonaro e Moro</title>
-      <link>http://localhost:1313/publications/2023-entre-a-militncia-e-a-fabricao-uma-anlise-de-redes-no-oficia/</link>
+      <link>https://condado-lab.github.io/publications/2023-entre-a-militncia-e-a-fabricao-uma-anlise-de-redes-no-oficia/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023-entre-a-militncia-e-a-fabricao-uma-anlise-de-redes-no-oficia/</guid>
+      <guid>https://condado-lab.github.io/publications/2023-entre-a-militncia-e-a-fabricao-uma-anlise-de-redes-no-oficia/</guid>
       <description>&lt;p&gt;O artigo analisa redes não oficiais de apoio a Bolsonaro e Moro nas mídias sociais, investigando a linha tênue entre militância orgânica e fabricação coordenada de apoio político no ambiente digital.&lt;/p&gt;</description>
     </item>
   </channel>

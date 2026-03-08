@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Câmara Dos Deputados on Condado Lab</title>
-    <link>http://localhost:1313/tags/c%C3%A2mara-dos-deputados/</link>
+    <link>https://condado-lab.github.io/tags/c%C3%A2mara-dos-deputados/</link>
     <description>Recent content in Câmara Dos Deputados on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/c%C3%A2mara-dos-deputados/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/c%C3%A2mara-dos-deputados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Equalização e normalização nos estados brasileiros: mídias digitais e as eleições para a Câmara dos Deputados em 2022</title>
-      <link>http://localhost:1313/publications/2025-opiniao-publica-equalizacao/</link>
+      <link>https://condado-lab.github.io/publications/2025-opiniao-publica-equalizacao/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025-opiniao-publica-equalizacao/</guid>
+      <guid>https://condado-lab.github.io/publications/2025-opiniao-publica-equalizacao/</guid>
       <description>&lt;p&gt;O artigo analisa as campanhas dos 513 deputados federais eleitos em 2022, com foco em 330 candidatos considerados renovadores políticos (primeiro ou segundo mandato). A pesquisa coletou mais de 20 mil pontos de dados de plataformas como TSE, CrowdTangle, Meta Ads e Google. Em estados como Amazonas, Mato Grosso do Sul, Paraíba e Rio Grande do Sul, há sinais de equalização, com campanhas digitalmente mais bem-sucedidas associadas a políticos do grupo de renovação. Em outros estados, a lógica da normalização prevalece.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Telegram on Condado Lab</title>
-    <link>http://localhost:1313/tags/telegram/</link>
+    <link>https://condado-lab.github.io/tags/telegram/</link>
     <description>Recent content in Telegram on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A construção do conhecimento sobre mudanças climáticas em grupos negacionistas do Telegram no Brasil</title>
-      <link>http://localhost:1313/publications/2024-a-construo-do-conhecimento-sobre-mudanas-climticas-em-grupos/</link>
+      <link>https://condado-lab.github.io/publications/2024-a-construo-do-conhecimento-sobre-mudanas-climticas-em-grupos/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024-a-construo-do-conhecimento-sobre-mudanas-climticas-em-grupos/</guid>
+      <guid>https://condado-lab.github.io/publications/2024-a-construo-do-conhecimento-sobre-mudanas-climticas-em-grupos/</guid>
       <description>&lt;p&gt;O artigo examina o conteúdo de mensagens negacionistas no Telegram sobre mudanças climáticas, com características interdisciplinares (socioambientais e político-econômicas). Mensagens coletadas e filtradas de 2017 a 2023 foram categorizadas com base na proposta de Mann (2021). O corpus final consistiu em 1.067 mensagens divididas em 4 categorias: minimizar a ameaça; desviar o foco; semear discórdia; e promover desânimo para atrasar a ação. As teorias de apoio indicam que essas construções narrativas se relacionam com uma perspectiva cultural: indivíduos interpretam evidências científicas com base em crenças, valores e ideologias.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comunidades de pertencimento, desinformação e antagonismo: processos interacionais em grupos antivacina no Telegram no Brasil</title>
-      <link>http://localhost:1313/publications/2024-comunidades-de-pertencimento-desinformao-e-antagonismo-proce/</link>
+      <link>https://condado-lab.github.io/publications/2024-comunidades-de-pertencimento-desinformao-e-antagonismo-proce/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024-comunidades-de-pertencimento-desinformao-e-antagonismo-proce/</guid>
+      <guid>https://condado-lab.github.io/publications/2024-comunidades-de-pertencimento-desinformao-e-antagonismo-proce/</guid>
       <description>&lt;p&gt;Utilizando o método da Grounded Theory, foi realizada uma análise qualitativa de conversas em grupos antivacina do Telegram no Brasil. Os resultados mostram que as interações são centradas em três eixos principais: (1) a formação de um senso de comunidade, envolvendo processos de ajuda mútua, reconhecimento entre pares, deliberações sobre o grupo e a rede antivacina, depoimentos e apoio afetivo; (2) o processo de desenvolvimento de uma identidade marcada pela diferença em relação à alteridade; e (3) a gestão de processos de hesitação e dissenso, que podem resultar em rupturas do grupo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contestação às vacinas contra Covid-19 em grupos do Telegram no Brasil</title>
-      <link>http://localhost:1313/publications/2023-contestao-s-vacinas-contra-covid19-em-grupos-do-telegram-no-/</link>
+      <link>https://condado-lab.github.io/publications/2023-contestao-s-vacinas-contra-covid19-em-grupos-do-telegram-no-/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023-contestao-s-vacinas-contra-covid19-em-grupos-do-telegram-no-/</guid>
+      <guid>https://condado-lab.github.io/publications/2023-contestao-s-vacinas-contra-covid19-em-grupos-do-telegram-no-/</guid>
       <description>&lt;p&gt;O artigo analisa as características do discurso de contestação às vacinas contra a Covid-19 no Telegram no Brasil. Quatro grupos que abordavam questões de vacinação foram identificados de dezembro de 2020 a fevereiro de 2022, utilizando a metodologia da Grounded Theory para conduzir uma análise qualitativa dos principais argumentos apresentados contra as vacinas. Os resultados revelam três linhas argumentativas utilizadas na contestação dos imunizantes: (1) temores sobre segurança e eficácia; (2) alegações de que há interesses obscuros na gestão da pandemia e no desenvolvimento de vacinas; e (3) defesa da liberdade e privacidade.&lt;/p&gt;</description>
     </item>
   </channel>

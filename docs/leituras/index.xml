@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leituras on Condado Lab</title>
-    <link>http://localhost:1313/leituras/</link>
+    <link>https://condado-lab.github.io/leituras/</link>
     <description>Recent content in Leituras on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/leituras/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/leituras/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026.1</title>
-      <link>http://localhost:1313/leituras/2026-1/</link>
+      <link>https://condado-lab.github.io/leituras/2026-1/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/leituras/2026-1/</guid>
+      <guid>https://condado-lab.github.io/leituras/2026-1/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;SRNICEK, Nick. &lt;strong&gt;Silicon Empires&lt;/strong&gt;: The Fight for the Future of AI. John Wiley &amp;amp; Sons, 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;LEWIS, Seth C. et al. Generative AI and its disruptive challenge to journalism: An institutional analysis. &lt;strong&gt;Communication and Change&lt;/strong&gt;, v. 1, n. 1, p. 9, 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;DIGITAL METHODS INITIATIVE. &lt;strong&gt;Winter School 2026: POV, Slopaganda, Compression &amp;amp; Vernaculars&lt;/strong&gt;. Amsterdam: University of Amsterdam, 2026.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;DIGITAL METHODS INITIATIVE. &lt;strong&gt;Winter School 2026: Slopaganda &amp;amp; Genre Genealogy&lt;/strong&gt;. Amsterdam: University of Amsterdam, 2026.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025.2</title>
-      <link>http://localhost:1313/leituras/2025-2/</link>
+      <link>https://condado-lab.github.io/leituras/2025-2/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/leituras/2025-2/</guid>
+      <guid>https://condado-lab.github.io/leituras/2025-2/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;MARTINO, Luís Mauro Sá. &lt;strong&gt;Métodos de Pesquisa em Comunicação&lt;/strong&gt;: projetos, ideias, práticas. Editora Vozes Limitada, 2018.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;MARCONI, Marina de Andrade et al. &lt;strong&gt;Técnicas de pesquisa&lt;/strong&gt;. São Paulo: Atlas, 2002.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;SAMPAIO, Rafael Cardoso; LYCARIÃO, Diógenes. &lt;strong&gt;Análise de conteúdo categorial&lt;/strong&gt;: manual de aplicação. Enap: Brasília, 2021.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;RECUERO, Raquel; BASTOS, Marco; ZAGO, Gabriela. &lt;strong&gt;Análise de redes para mídia social&lt;/strong&gt;. Editora Sulina, 2015.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;BECKER, Howard S. &lt;strong&gt;Truques da escrita&lt;/strong&gt;. Editora Schwarcz-Companhia das Letras, 2015.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025.1</title>
-      <link>http://localhost:1313/leituras/2025-1/</link>
+      <link>https://condado-lab.github.io/leituras/2025-1/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/leituras/2025-1/</guid>
+      <guid>https://condado-lab.github.io/leituras/2025-1/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;JIN, Dal Yong. &lt;strong&gt;Digital platforms, imperialism and political culture&lt;/strong&gt;. Routledge, 2015.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;GIBLIN, Rebecca; DOCTOROW, Cory. &lt;strong&gt;Chokepoint Capitalism&lt;/strong&gt;: How Big Tech and Big Content Captured Creative Labor Markets and How We&amp;rsquo;ll Win Them Back. Beacon Press, 2022.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;SCHAAKE, Marietje. &lt;strong&gt;The Tech Coup&lt;/strong&gt;: How to Save Democracy from Silicon Valley. Princeton University Press, 2024.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;MCQUILLAN, Dan. &lt;strong&gt;Resisting AI&lt;/strong&gt;: An anti-fascist approach to artificial intelligence. Policy Press, 2022.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;MEJIAS, Ulises A.; COULDRY, Nick. &lt;strong&gt;Data grab&lt;/strong&gt;: The new colonialism of big tech and how to fight back. University of Chicago Press, 2024.&lt;/p&gt;</description>
     </item>
   </channel>

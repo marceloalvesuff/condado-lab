@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoções on Condado Lab</title>
-    <link>http://localhost:1313/tags/emo%C3%A7%C3%B5es/</link>
+    <link>https://condado-lab.github.io/tags/emo%C3%A7%C3%B5es/</link>
     <description>Recent content in Emoções on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/emo%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/emo%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoções e mudanças climáticas no Instagram: um estudo em contexto brasileiro</title>
-      <link>http://localhost:1313/publications/2025-emoes-e-mudanas-climticas-no-instagram-um-estudo-em-contexto/</link>
+      <link>https://condado-lab.github.io/publications/2025-emoes-e-mudanas-climticas-no-instagram-um-estudo-em-contexto/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025-emoes-e-mudanas-climticas-no-instagram-um-estudo-em-contexto/</guid>
+      <guid>https://condado-lab.github.io/publications/2025-emoes-e-mudanas-climticas-no-instagram-um-estudo-em-contexto/</guid>
       <description>&lt;p&gt;O estudo teve como objetivo identificar e analisar emoções expressas em torno de mudanças climáticas a partir de conteúdo público produzido no Instagram entre 2021 e 2022, no contexto brasileiro. Um número relativamente pequeno de publicações com expressão emocional foi encontrado no corpus (18,5%), e emoções negativas foram prevalentes (61,2%), com destaque para preocupação (23,7%) e desaprovação, corroborando estudos anteriores.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The COVID-19 vaccine on the short-video platform Kwai: A study of the emotions expressed in Brazilian content</title>
-      <link>http://localhost:1313/publications/2024-cultures-science-kwai/</link>
+      <link>https://condado-lab.github.io/publications/2024-cultures-science-kwai/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024-cultures-science-kwai/</guid>
+      <guid>https://condado-lab.github.io/publications/2024-cultures-science-kwai/</guid>
       <description>&lt;p&gt;O artigo analisa as emoções expressas em 355 vídeos sobre vacinas contra COVID-19 publicados na plataforma Kwai no Brasil entre 2020 e 2022. Emoções positivas, como contentamento e confiança, predominam no corpus. Emoções negativas, como desaprovação e dúvida, aparecem em conteúdos de humor, informativos e de infoentretenimento.&lt;/p&gt;</description>
     </item>
   </channel>

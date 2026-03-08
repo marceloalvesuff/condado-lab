@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chile on Condado Lab</title>
-    <link>http://localhost:1313/tags/chile/</link>
+    <link>https://condado-lab.github.io/tags/chile/</link>
     <description>Recent content in Chile on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/chile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/chile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Professor Marcelo Alves apresenta pesquisa em universidade do Chile</title>
-      <link>http://localhost:1313/blog/pesquisa-chile/</link>
+      <link>https://condado-lab.github.io/blog/pesquisa-chile/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pesquisa-chile/</guid>
+      <guid>https://condado-lab.github.io/blog/pesquisa-chile/</guid>
       <description>&lt;p&gt;O professor e pesquisador Marcelo Alves dos Santos Junior, do Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM), apresentou o projeto de pesquisa &amp;ldquo;A vanguarda da intervenção: 8 de janeiro e o movimento antidemocrático nas mídias digitais&amp;rdquo; na Faculdade de Comunicação e Letras da Universidade Diego Portales, no Chile.&lt;/p&gt;&#xA;&lt;p&gt;A apresentação abordou a investigação sobre o papel das mídias digitais na articulação do movimento antidemocrático que culminou nos atos de 8 de janeiro de 2023 no Brasil.&lt;/p&gt;</description>
     </item>
   </channel>

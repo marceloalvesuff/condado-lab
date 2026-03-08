@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media on Condado Lab</title>
-    <link>http://localhost:1313/tags/social-media/</link>
+    <link>https://condado-lab.github.io/tags/social-media/</link>
     <description>Recent content in Social Media on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The COVID-19 vaccine on Facebook: A study of emotions expressed by the Brazilian public</title>
-      <link>http://localhost:1313/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</link>
+      <link>https://condado-lab.github.io/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</guid>
+      <guid>https://condado-lab.github.io/publications/2023-the-covid19-vaccine-on-facebook-a-study-of-emotions-expresse/</guid>
       <description>&lt;p&gt;The objective was to identify and reflect on the emotions evoked in the Brazilian public with respect to the COVID-19 vaccine during 2020 and 2021 on Facebook. The study used the CrowdTangle graphical interface to extract posts made by public Facebook profiles, from which a random sample of 1,067 posts was selected for analysis. Identification of emotions was performed using the HUMAINE descriptors as a baseline reference. Emotions were frequently directed towards aspects only tangentially related to the vaccine or vaccination, such as relevant decisions taken (or not taken) by public officials.&lt;/p&gt;</description>
     </item>
   </channel>

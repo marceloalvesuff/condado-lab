@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economia Da Atenção on Condado Lab</title>
-    <link>http://localhost:1313/tags/economia-da-aten%C3%A7%C3%A3o/</link>
+    <link>https://condado-lab.github.io/tags/economia-da-aten%C3%A7%C3%A3o/</link>
     <description>Recent content in Economia Da Atenção on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/economia-da-aten%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/economia-da-aten%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economia da Atenção e Sociotécnicas da Monetização</title>
-      <link>http://localhost:1313/projects/economia-atencao/</link>
+      <link>https://condado-lab.github.io/projects/economia-atencao/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/economia-atencao/</guid>
+      <guid>https://condado-lab.github.io/projects/economia-atencao/</guid>
       <description>&lt;p&gt;Este eixo investiga a economia da atenção e as estratégias de monetização das indústrias da desinformação, analisando como modelos de negócio das plataformas incentivam a circulação de conteúdo desinformativo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estratégias de monetização e desinformação&lt;/li&gt;&#xA;&lt;li&gt;Economia da atenção e engajamento&lt;/li&gt;&#xA;&lt;li&gt;Modelos de negócio das plataformas e seus efeitos sociais&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Plataformização da comunicação política</title>
-      <link>http://localhost:1313/publications/2020-plataformizao-da-comunicao-poltica/</link>
+      <link>https://condado-lab.github.io/publications/2020-plataformizao-da-comunicao-poltica/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020-plataformizao-da-comunicao-poltica/</guid>
+      <guid>https://condado-lab.github.io/publications/2020-plataformizao-da-comunicao-poltica/</guid>
       <description>&lt;p&gt;A plataformização da comunicação política introduz um modelo de governança algorítmica da circulação de informações que afeta os sistemas midiáticos nacionais. A investigação empírica se baseia em uma amostra original de 1.513.780 posts coletados entre 2013 e 2018 de 500 páginas do Facebook. O objetivo é avaliar se há algum tipo de disrupção no caráter dominante da visibilidade da imprensa jornalística no Facebook. Os resultados apontaram para o que se denomina &amp;ldquo;disrupção de visibilidade&amp;rdquo; — o declínio nos compartilhamentos de veículos jornalísticos e a captura da atenção por políticos e criadores digitais.&lt;/p&gt;</description>
     </item>
   </channel>

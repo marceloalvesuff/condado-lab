@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extremismo on Condado Lab</title>
-    <link>http://localhost:1313/tags/extremismo/</link>
+    <link>https://condado-lab.github.io/tags/extremismo/</link>
     <description>Recent content in Extremismo on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/extremismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condado-lab.github.io/tags/extremismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Práticas e Culturas Extremistas e Radicais</title>
-      <link>http://localhost:1313/projects/praticas-extremistas/</link>
+      <link>https://condado-lab.github.io/projects/praticas-extremistas/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/praticas-extremistas/</guid>
+      <guid>https://condado-lab.github.io/projects/praticas-extremistas/</guid>
       <description>&lt;p&gt;Este eixo investiga as práticas e culturas extremistas e radicais no ambiente digital, com atenção especial às disputas pela memória do oito de janeiro de 2023 e os discursos revisionistas e negacionistas elaborados para ressignificar ações antidemocráticas e de violência política.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mapeamento de redes e práticas extremistas online&lt;/li&gt;&#xA;&lt;li&gt;Disputas pela memória e narrativas revisionistas&lt;/li&gt;&#xA;&lt;li&gt;Violência política e radicalização digital&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
