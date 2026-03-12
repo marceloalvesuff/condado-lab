@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Network Analysis on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/social-network-analysis/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/social-network-analysis/</link>
     <description>Recent content in Social Network Analysis on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/social-network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/social-network-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bridging semantic and social network analyses: the case of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter</title>
-      <link>http://localhost:1313/condado-lab/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</guid>
       <description>&lt;p&gt;The article bridges semantic and social network analyses through a case study of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter, examining how discourse and network structure interact in online public debate.&lt;/p&gt;</description>
     </item>
   </channel>

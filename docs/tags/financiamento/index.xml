@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financiamento on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/financiamento/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/financiamento/</link>
     <description>Recent content in Financiamento on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/financiamento/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/financiamento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estudo exploratório do financiamento da desinformação na web: fraudes, apostas, trading e clickbaits</title>
-      <link>http://localhost:1313/condado-lab/publications/2024-contracampo-financiamento/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2024-contracampo-financiamento/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2024-contracampo-financiamento/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2024-contracampo-financiamento/</guid>
       <description>&lt;p&gt;O artigo mapeia os modelos de financiamento que sustentam a circulação de conteúdo desinformativo na web brasileira. A análise identifica categorias de anunciantes que operam em nichos fraudulentos ou de alto risco, como apostas, trading e clickbaits. Os resultados mostram como o ecossistema publicitário programático viabiliza economicamente a produção de desinformação.&lt;/p&gt;</description>
     </item>
   </channel>

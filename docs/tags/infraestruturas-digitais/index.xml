@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infraestruturas Digitais on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/infraestruturas-digitais/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/infraestruturas-digitais/</link>
     <description>Recent content in Infraestruturas Digitais on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/infraestruturas-digitais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/infraestruturas-digitais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clones do YouTube: replataformização da irrealidade e infraestruturas de desinformação sobre a Covid-19</title>
-      <link>http://localhost:1313/condado-lab/publications/2021-clones-do-youtube-replataformizao-da-irrealidade-e-infraestr/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2021-clones-do-youtube-replataformizao-da-irrealidade-e-infraestr/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2021-clones-do-youtube-replataformizao-da-irrealidade-e-infraestr/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2021-clones-do-youtube-replataformizao-da-irrealidade-e-infraestr/</guid>
       <description>&lt;p&gt;O artigo analisa o fenômeno dos clones do YouTube como infraestruturas de desinformação sobre a Covid-19, investigando como a replataformização da irrealidade ocorre por meio de plataformas alternativas de vídeo que replicam conteúdo removido por moderação.&lt;/p&gt;</description>
     </item>
   </channel>

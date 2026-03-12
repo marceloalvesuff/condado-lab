@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Métodos Digitais on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/m%C3%A9todos-digitais/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/m%C3%A9todos-digitais/</link>
     <description>Recent content in Métodos Digitais on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/m%C3%A9todos-digitais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/m%C3%A9todos-digitais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marcelo Alves dos Santos Junior</title>
-      <link>http://localhost:1313/condado-lab/people/coordenador/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/people/coordenador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/people/coordenador/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/people/coordenador/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior é doutor em Comunicação pela Universidade Federal Fluminense (UFF), com estágio de pós-doutorado no Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT-DD/UFBA). É professor assistente do Departamento de Comunicação Social da PUC-Rio, onde coordena a ênfase de Comunicação e Tecnologia na graduação em Estudos de Mídia e o Núcleo de Tecnologia e Comunicação (NuTeC).&lt;/p&gt;&#xA;&lt;p&gt;Sua pesquisa investiga problemas na interface entre comunicação, cultura digital e política, com ênfase em plataformização, desinformação, monetização de conteúdo, governança de plataformas e métodos digitais. Atualmente, desenvolve projetos sobre o financiamento da desinformação por meio da publicidade programática e sobre o papel das plataformas de mensageria na circulação de discurso extremista.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Métodos Digitais</title>
-      <link>http://localhost:1313/condado-lab/projects/metodos-digitais/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/projects/metodos-digitais/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/projects/metodos-digitais/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/projects/metodos-digitais/</guid>
       <description>&lt;p&gt;Este eixo explora perspectivas metodológicas combinadas da escola de métodos digitais e das ciências sociais computacionais para a análise de fenômenos na interface entre mídia e tecnologia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desenvolvimento e aplicação de métodos digitais&lt;/li&gt;&#xA;&lt;li&gt;Análise de dados de plataformas e mídias sociais&lt;/li&gt;&#xA;&lt;li&gt;Abordagens computacionais para pesquisa em comunicação&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Leituras 2026.1: IA, geopolítica e slopaganda</title>
-      <link>http://localhost:1313/condado-lab/blog/leituras-2026-1/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/blog/leituras-2026-1/</link>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/blog/leituras-2026-1/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/blog/leituras-2026-1/</guid>
       <description>&lt;p&gt;O grupo de leituras do Condado Lab inicia o primeiro semestre de 2026 com uma pauta centrada nos impactos da inteligência artificial sobre a comunicação. A seleção de textos parte de uma premissa: não é possível compreender a IA generativa sem situá-la nas disputas geopolíticas e nas assimetrias de poder que organizam o desenvolvimento tecnológico global.&lt;/p&gt;&#xA;&lt;h2 id=&#34;imperialismo-e-infraestrutura&#34;&gt;Imperialismo e infraestrutura&lt;/h2&gt;&#xA;&lt;p&gt;A leitura central do semestre é o livro &lt;em&gt;Silicon Empires&lt;/em&gt;, de Nick Srnicek. O autor argumenta que a corrida pela IA não é apenas uma disputa tecnológica, mas um conflito entre impérios digitais que reorganiza relações de poder entre Estados e corporações. Srnicek mostra como a concentração de infraestrutura computacional, dados e talento em poucas empresas e países produz novas formas de dependência e subordinação, com implicações diretas para o Sul Global.&lt;/p&gt;</description>
     </item>
   </channel>

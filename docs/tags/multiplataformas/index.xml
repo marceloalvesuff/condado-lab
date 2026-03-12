@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multiplataformas on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/multiplataformas/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/multiplataformas/</link>
     <description>Recent content in Multiplataformas on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/multiplataformas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/multiplataformas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desinformação multiplataformas</title>
-      <link>http://localhost:1313/condado-lab/publications/2022-desinformao-multiplataformas/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2022-desinformao-multiplataformas/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2022-desinformao-multiplataformas/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2022-desinformao-multiplataformas/</guid>
       <description>&lt;p&gt;O artigo analisa o fenômeno da desinformação em um contexto multiplataformas, investigando como conteúdo desinformativo circula e se adapta a diferentes plataformas digitais no ecossistema informacional contemporâneo.&lt;/p&gt;</description>
     </item>
   </channel>

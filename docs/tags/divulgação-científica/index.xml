@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Divulgação Científica on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/divulga%C3%A7%C3%A3o-cient%C3%ADfica/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/divulga%C3%A7%C3%A3o-cient%C3%ADfica/</link>
     <description>Recent content in Divulgação Científica on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/divulga%C3%A7%C3%A3o-cient%C3%ADfica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/divulga%C3%A7%C3%A3o-cient%C3%ADfica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artigo no The Conversation Brasil sobre moderação no YouTube</title>
-      <link>http://localhost:1313/condado-lab/blog/the-conversation-youtube/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/blog/the-conversation-youtube/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/blog/the-conversation-youtube/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/blog/the-conversation-youtube/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior publicou o artigo &amp;ldquo;Déficit de transparência: uma análise sobre a remoção de vídeos políticos no YouTube&amp;rdquo; no The Conversation Brasil.&lt;/p&gt;&#xA;&lt;p&gt;O texto apresenta para o público geral os resultados da pesquisa sobre práticas de moderação e remoção de conteúdo político no YouTube. O artigo trata dos déficits de transparência algorítmica e institucional da plataforma na remoção de vídeos entre a eleição de 2022 e o atentado de 8 de janeiro de 2023.&lt;/p&gt;</description>
     </item>
   </channel>

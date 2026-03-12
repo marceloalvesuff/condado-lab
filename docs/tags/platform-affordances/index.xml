@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platform Affordances on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/platform-affordances/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/platform-affordances/</link>
     <description>Recent content in Platform Affordances on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/platform-affordances/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/platform-affordances/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The virtuous cycle of news sharing on Facebook: Effects of platform affordances and journalistic routines on news sharing</title>
-      <link>http://localhost:1313/condado-lab/publications/2019-the-virtuous-cycle-of-news-sharing-on-facebook-effects-of-pl/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2019-the-virtuous-cycle-of-news-sharing-on-facebook-effects-of-pl/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2019-the-virtuous-cycle-of-news-sharing-on-facebook-effects-of-pl/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2019-the-virtuous-cycle-of-news-sharing-on-facebook-effects-of-pl/</guid>
       <description>&lt;p&gt;The article investigates the effects of platform affordances and journalistic routines on news sharing on Facebook, analyzing how the interplay between these factors creates a virtuous cycle that amplifies news visibility and engagement on the platform.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online Media on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/online-media/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/online-media/</link>
     <description>Recent content in Online Media on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/online-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/online-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online communication studies in Brazil: origins and state of the art</title>
-      <link>http://localhost:1313/condado-lab/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2023-online-communication-studies-in-brazil-origins-and-state-of-/</guid>
       <description>&lt;p&gt;The article discusses the origins and development of research on online media and online political communication studies in Brazil. It presents an overview of how Communication education and research organized in Brazil, and identifies three stages of online media research development: (a) incipient, (b) consolidation, and (c) new frontiers.&lt;/p&gt;</description>
     </item>
   </channel>

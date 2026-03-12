@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bolsista De Produtividade on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/bolsista-de-produtividade/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/bolsista-de-produtividade/</link>
     <description>Recent content in Bolsista De Produtividade on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/bolsista-de-produtividade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/bolsista-de-produtividade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Indicadores altmétricos da produção de pesquisadores brasileiros: análise dos bolsistas de produtividade do CNPq</title>
-      <link>http://localhost:1313/condado-lab/publications/2019-indicadores-altmtricos-da-produo-de-pesquisadores-brasileiro/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/publications/2019-indicadores-altmtricos-da-produo-de-pesquisadores-brasileiro/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/publications/2019-indicadores-altmtricos-da-produo-de-pesquisadores-brasileiro/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2019-indicadores-altmtricos-da-produo-de-pesquisadores-brasileiro/</guid>
       <description>&lt;p&gt;O estudo analisa o desempenho altmétrico de publicações brasileiras cujos autores receberam bolsas de produtividade em pesquisa (PQ) concedidas pelo CNPq. O universo de pesquisa incluiu pesquisadores com bolsas PQ ativas em outubro de 2017 (n = 14.609). A produção científica registrada no Currículo Lattes desses autores foi coletada pelo GetLattesData, um pacote da linguagem R, e filtrada para artigos publicados entre 2016 e outubro de 2017 que possuíam DOI (n = 99.064).&lt;/p&gt;</description>
     </item>
   </channel>

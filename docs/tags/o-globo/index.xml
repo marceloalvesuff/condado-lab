@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>O Globo on Condado Lab</title>
-    <link>http://localhost:1313/condado-lab/tags/o-globo/</link>
+    <link>https://marceloalvesuff.github.io/condado-lab/tags/o-globo/</link>
     <description>Recent content in O Globo on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/condado-lab/tags/o-globo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/o-globo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Professor Marcelo Alves participa de encontro no jornal O Globo</title>
-      <link>http://localhost:1313/condado-lab/blog/encontro-oglobo/</link>
+      <link>https://marceloalvesuff.github.io/condado-lab/blog/encontro-oglobo/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/condado-lab/blog/encontro-oglobo/</guid>
+      <guid>https://marceloalvesuff.github.io/condado-lab/blog/encontro-oglobo/</guid>
       <description>&lt;p&gt;O professor Marcelo Alves dos Santos Junior, do PPGCOM/PUC-Rio, participou de encontro na redação do jornal O Globo. A atividade faz parte da parceria entre o Departamento de Comunicação da PUC-Rio e o Grupo Globo, que promove diálogos entre pesquisadores e jornalistas sobre temas de interesse comum.&lt;/p&gt;&#xA;&lt;p&gt;Fonte: &lt;a href=&#34;https://www.com.puc-rio.br/2025/05/02/professor-marcelo-alves-participa-de-encontro-no-jornal-o-globo/&#34;&gt;Departamento de Comunicação PUC-Rio&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
