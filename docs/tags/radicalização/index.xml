@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Radicalização on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/radicaliza%C3%A7%C3%A3o/</link>
+    <link>http://localhost:1313/condado-lab/tags/radicaliza%C3%A7%C3%A3o/</link>
     <description>Recent content in Radicalização on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/radicaliza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/radicaliza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Práticas e Culturas Extremistas e Radicais</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/projects/praticas-extremistas/</link>
+      <link>http://localhost:1313/condado-lab/projects/praticas-extremistas/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/projects/praticas-extremistas/</guid>
+      <guid>http://localhost:1313/condado-lab/projects/praticas-extremistas/</guid>
       <description>&lt;p&gt;Este eixo investiga as práticas e culturas extremistas e radicais no ambiente digital, com atenção especial às disputas pela memória do oito de janeiro de 2023 e os discursos revisionistas e negacionistas elaborados para ressignificar ações antidemocráticas e de violência política.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mapeamento de redes e práticas extremistas online&lt;/li&gt;&#xA;&lt;li&gt;Disputas pela memória e narrativas revisionistas&lt;/li&gt;&#xA;&lt;li&gt;Violência política e radicalização digital&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Autoritarismo e mobilização on-line: Polarização, Radicalização, Normalização</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2024-autoritarismo-e-mobilizao-online-polarizao-radicalizao-norma/</link>
+      <link>http://localhost:1313/condado-lab/publications/2024-autoritarismo-e-mobilizao-online-polarizao-radicalizao-norma/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2024-autoritarismo-e-mobilizao-online-polarizao-radicalizao-norma/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2024-autoritarismo-e-mobilizao-online-polarizao-radicalizao-norma/</guid>
       <description>&lt;p&gt;Editorial do dossiê temático sobre autoritarismo e mobilização on-line na revista Mídia e Cotidiano, abordando os eixos de polarização, radicalização e normalização no contexto digital.&lt;/p&gt;</description>
     </item>
   </channel>

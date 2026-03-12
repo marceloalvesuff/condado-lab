@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anonimização on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/anonimiza%C3%A7%C3%A3o/</link>
+    <link>http://localhost:1313/condado-lab/tags/anonimiza%C3%A7%C3%A3o/</link>
     <description>Recent content in Anonimização on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/anonimiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/anonimiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desinstitucionalização e anonimização na comunicação política nas mídias sociais</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2022-desinstitucionalizao-e-anonimizao-na-comunicao-poltica-nas-m/</link>
+      <link>http://localhost:1313/condado-lab/publications/2022-desinstitucionalizao-e-anonimizao-na-comunicao-poltica-nas-m/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2022-desinstitucionalizao-e-anonimizao-na-comunicao-poltica-nas-m/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2022-desinstitucionalizao-e-anonimizao-na-comunicao-poltica-nas-m/</guid>
       <description>&lt;p&gt;O artigo analisa os processos de desinstitucionalização e anonimização na comunicação política nas mídias sociais, investigando como atores políticos operam fora de estruturas institucionais tradicionais no ambiente digital.&lt;/p&gt;</description>
     </item>
   </channel>

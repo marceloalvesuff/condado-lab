@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Civic Participation on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/civic-participation/</link>
+    <link>http://localhost:1313/condado-lab/tags/civic-participation/</link>
     <description>Recent content in Civic Participation on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/civic-participation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/civic-participation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fighting Corruption Alone: Civic Participation in OGP Anti-Corruption Commitments</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2017-fighting-corruption-alone-civic-participation-in-ogp-anticor/</link>
+      <link>http://localhost:1313/condado-lab/publications/2017-fighting-corruption-alone-civic-participation-in-ogp-anticor/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2017-fighting-corruption-alone-civic-participation-in-ogp-anticor/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2017-fighting-corruption-alone-civic-participation-in-ogp-anticor/</guid>
       <description>&lt;p&gt;The paper found that 17% of all OGP commitments address anti-corruption themes and analyzed whether those tend to be more starred, more delivered, and more ambitious than other OGP commitments. The researchers coded all anti-corruption commitments looking for mentions to civil society actors, coding as &amp;ldquo;civil society participation included&amp;rdquo; any explicit mention to citizens, CSOs, individuals, general public, or other references to civil society.&lt;/p&gt;</description>
     </item>
   </channel>

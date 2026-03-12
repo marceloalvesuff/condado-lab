@@ -1,28 +1,38 @@
 :root {
-    --primary-purple: #6b46c1;
-    --accent-purple: #9f7aea;
+    --primary: #DD5B5B;
+    --primary-light: #f5a0a0;
+    --accent-sky: #80DBFF;
+    --accent-pink: #E971C8;
     --bg-grey: #f8fafc;
     --text-main: #1e293b;
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     background-color: #ffffff;
     color: var(--text-main);
     scroll-behavior: smooth;
+    line-height: 1.5;
 }
 
 h1, h2, h3, h4, .brand-font {
-    font-family: 'Outfit', sans-serif;
-    letter-spacing: -0.02em;
+    font-family: 'Source Serif 4', serif;
+    line-height: 1.15;
+}
+
+/* Secondary font for small labels, tags, footer */
+.tag,
+footer,
+.font-secondary {
+    font-family: 'Work Sans', sans-serif;
 }
 
 /* Hero title: style the <em> tag from config param */
 .hero-title em {
     font-style: italic;
-    color: var(--primary-purple);
+    color: var(--primary);
     text-decoration: underline;
-    text-decoration-color: #e9d5ff;
+    text-decoration-color: #fce9e9;
     text-underline-offset: 8px;
 }
 
@@ -78,7 +88,7 @@ h1, h2, h3, h4, .brand-font {
 ::-webkit-scrollbar { width: 5px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
-::-webkit-scrollbar-thumb:hover { background: var(--primary-purple); }
+::-webkit-scrollbar-thumb:hover { background: var(--primary); }
 
 .card-hover {
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
@@ -86,7 +96,7 @@ h1, h2, h3, h4, .brand-font {
 
 .card-hover:hover {
     transform: translateY(-4px);
-    box-shadow: 0 20px 40px rgba(107, 70, 193, 0.08);
+    box-shadow: 0 20px 40px rgba(221, 91, 91, 0.08);
 }
 
 .prose p {
@@ -104,7 +114,7 @@ h1, h2, h3, h4, .brand-font {
 }
 
 .prose a {
-    color: var(--primary-purple);
+    color: var(--primary);
     text-decoration: underline;
     text-underline-offset: 3px;
 }
@@ -117,8 +127,8 @@ h1, h2, h3, h4, .brand-font {
 .tag {
     display: inline-block;
     padding: 0.25rem 0.75rem;
-    background: #f3f0ff;
-    color: var(--primary-purple);
+    background: #fef5f5;
+    color: var(--primary);
     font-size: 0.625rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -130,7 +140,7 @@ h1, h2, h3, h4, .brand-font {
 }
 
 .tag:hover {
-    background: #e9d5ff;
+    background: #f9c4c4;
 }
 
 /* Leituras reference list */
@@ -209,14 +219,14 @@ html.dark {
         color: #f1f5f9 !important;
     }
 
-    /* Nav stays as-is (already dark purple) */
+    /* Nav stays as-is (already dark with primary color) */
 
     /* Main backgrounds */
     .bg-white { background-color: #1e293b !important; }
     .bg-slate-50 { background-color: #0f172a !important; }
-    .bg-purple-50 { background-color: rgba(107, 70, 193, 0.15) !important; }
-    .bg-indigo-50 { background-color: rgba(99, 102, 241, 0.15) !important; }
-    .bg-emerald-50 { background-color: rgba(16, 185, 129, 0.15) !important; }
+    .bg-purple-50 { background-color: rgba(221, 91, 91, 0.15) !important; }
+    .bg-indigo-50 { background-color: rgba(128, 219, 255, 0.15) !important; }
+    .bg-emerald-50 { background-color: rgba(233, 113, 200, 0.15) !important; }
 
     /* Borders */
     .border-slate-100 { border-color: #334155 !important; }
@@ -247,15 +257,15 @@ html.dark {
     /* Prose / article content */
     .prose p { color: #94a3b8; }
     .prose h2 { color: #f1f5f9; }
-    .prose a { color: #a78bfa; }
+    .prose a { color: #f5a0a0; }
 
     /* Tags */
     .tag {
-        background: rgba(107, 70, 193, 0.2);
-        color: #a78bfa;
+        background: rgba(221, 91, 91, 0.2);
+        color: #f5a0a0;
     }
     .tag:hover {
-        background: rgba(107, 70, 193, 0.35);
+        background: rgba(221, 91, 91, 0.35);
     }
 
     /* Leituras list */
@@ -272,14 +282,14 @@ html.dark {
 
     /* Selection */
     ::selection {
-        background: rgba(107, 70, 193, 0.4) !important;
+        background: rgba(221, 91, 91, 0.4) !important;
         color: #f1f5f9 !important;
     }
 
     /* Hero title em */
     .hero-title em {
-        color: #a78bfa;
-        text-decoration-color: rgba(107, 70, 193, 0.3);
+        color: #f5a0a0;
+        text-decoration-color: rgba(221, 91, 91, 0.3);
     }
 
     /* Stats numbers */

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pesquisa on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/pesquisa/</link>
+    <link>http://localhost:1313/condado-lab/tags/pesquisa/</link>
     <description>Recent content in Pesquisa on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/pesquisa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agenda de pesquisa sobre o 8 de janeiro</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/blog/pesquisa-8-janeiro/</link>
+      <link>http://localhost:1313/condado-lab/blog/pesquisa-8-janeiro/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/blog/pesquisa-8-janeiro/</guid>
+      <guid>http://localhost:1313/condado-lab/blog/pesquisa-8-janeiro/</guid>
       <description>&lt;p&gt;Entre 2024 e 2025, o grupo consolidou uma agenda de pesquisa sobre o atentado golpista de 8 de janeiro de 2023. Os trabalhos produzidos tratam de dois eixos: as dimensões sociomateriais do apagamento de registros digitais e as práticas de revisionismo nas plataformas.&lt;/p&gt;&#xA;&lt;p&gt;Três trabalhos foram apresentados em eventos. Na Compós 2025 (UFPR, Curitiba), a pesquisa analisou os desafios de preservar rastros digitais do 8 de janeiro diante das políticas de plataformas. Na Compolítica 2025 (Recife), o foco foi o apagamento e a revisão histórica no ambiente digital. No III Simpósio Anual do INCT/DSI (Niterói), foram apresentados resultados parciais do Acervo Digital do 8 de Janeiro, projeto desenvolvido com Lorrana Melo e Beatriz Montenegro.&lt;/p&gt;</description>
     </item>
   </channel>

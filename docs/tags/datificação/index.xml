@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datificação on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/datifica%C3%A7%C3%A3o/</link>
+    <link>http://localhost:1313/condado-lab/tags/datifica%C3%A7%C3%A3o/</link>
     <description>Recent content in Datificação on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/datifica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/datifica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datificação e redes na comunicação política: mapeamento de redes e fluxos no Facebook</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2019-datificao-e-redes-na-comunicao-poltica-mapeamento-de-redes-e/</link>
+      <link>http://localhost:1313/condado-lab/publications/2019-datificao-e-redes-na-comunicao-poltica-mapeamento-de-redes-e/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2019-datificao-e-redes-na-comunicao-poltica-mapeamento-de-redes-e/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2019-datificao-e-redes-na-comunicao-poltica-mapeamento-de-redes-e/</guid>
       <description>&lt;p&gt;O artigo discute o uso de métodos de datificação e análise de redes na comunicação política, realizando mapeamento de redes e fluxos de informação no Facebook.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activism on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/activism/</link>
+    <link>http://localhost:1313/condado-lab/tags/activism/</link>
     <description>Recent content in Activism on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/activism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/activism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brazilian Blogosfera Progressista: Digital Vanguards in Dark Times</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</link>
+      <link>http://localhost:1313/condado-lab/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2020-brazilian-blogosfera-progressista-digital-vanguards-in-dark-/</guid>
       <description>&lt;p&gt;The article explores the Brazilian Blogosfera Progressista (Progressive Blogosphere), a leftist political communication initiative aiming to conciliate an institutionalized model of organization with a networked model of action. The BP proved able to counter effectively the mainstream media&amp;rsquo;s political framings, thanks to wise networking strategies which explored the communicative opportunities offered by social media.&lt;/p&gt;</description>
     </item>
   </channel>

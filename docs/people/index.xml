@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pessoas on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/people/</link>
+    <link>http://localhost:1313/condado-lab/people/</link>
     <description>Recent content in Pessoas on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/people/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marcelo Alves dos Santos Junior</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/coordenador/</link>
+      <link>http://localhost:1313/condado-lab/people/coordenador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/coordenador/</guid>
+      <guid>http://localhost:1313/condado-lab/people/coordenador/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior é doutor em Comunicação pela Universidade Federal Fluminense (UFF), com estágio de pós-doutorado no Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT-DD/UFBA). É professor assistente do Departamento de Comunicação Social da PUC-Rio, onde coordena a ênfase de Comunicação e Tecnologia na graduação em Estudos de Mídia e o Núcleo de Tecnologia e Comunicação (NuTeC).&lt;/p&gt;&#xA;&lt;p&gt;Sua pesquisa investiga problemas na interface entre comunicação, cultura digital e política, com ênfase em plataformização, desinformação, monetização de conteúdo, governança de plataformas e métodos digitais. Atualmente, desenvolve projetos sobre o financiamento da desinformação por meio da publicidade programática e sobre o papel das plataformas de mensageria na circulação de discurso extremista.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eliana Pegorim Abreu e Silva</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/eliana-pegorim/</link>
+      <link>http://localhost:1313/condado-lab/people/eliana-pegorim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/eliana-pegorim/</guid>
+      <guid>http://localhost:1313/condado-lab/people/eliana-pegorim/</guid>
       <description>&lt;p&gt;Doutoranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM), sob orientação do professor Marcelo Alves dos Santos Junior.&lt;/p&gt;&#xA;&lt;p&gt;Sua pesquisa investiga a governança pelas plataformas, com foco em informação e desinformação sobre saúde no YouTube. Apresentou o trabalho &amp;ldquo;Governance by platforms: health information and disinformation on YouTube&amp;rdquo; no Colóquio Doutoral do AoIR 2025 (Association of Internet Researchers).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Douglas da Silva Ferreira</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/douglas-ferreira/</link>
+      <link>http://localhost:1313/condado-lab/people/douglas-ferreira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/douglas-ferreira/</guid>
+      <guid>http://localhost:1313/condado-lab/people/douglas-ferreira/</guid>
       <description>&lt;p&gt;Doutorando no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM). Mestre em História das Ciências e das Técnicas e Epistemologia e bacharel em Ciências Sociais pela Universidade Federal do Rio de Janeiro (UFRJ).&lt;/p&gt;&#xA;&lt;p&gt;Sua pesquisa investiga juventude e radicalização, extremismo de direita e os impactos das tecnologias algorítmicas sobre a política, com ênfase em plataformas digitais. É pesquisador do Instituto Democracia em Xeque, onde contribui nas áreas de Metodologia e Tecnologia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Isabela Duarte Pimentel</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/isabela-pimentel/</link>
+      <link>http://localhost:1313/condado-lab/people/isabela-pimentel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/isabela-pimentel/</guid>
+      <guid>http://localhost:1313/condado-lab/people/isabela-pimentel/</guid>
       <description>&lt;p&gt;Doutoranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM), com ênfase em Tecnologia, Mídias Digitais e Dados. Mestre em Criação e Produção de Conteúdos Digitais pelo Programa de Pós-Graduação em Linguagens e Tecnologias da Comunicação (PPGLTCOM) da UFRJ. Especialista em Comunicação Organizacional Integrada pela ESPM e graduada em Jornalismo e História pela UFRJ e Unirio.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gabriela Pavão Pereira</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/gabriela-pavao/</link>
+      <link>http://localhost:1313/condado-lab/people/gabriela-pavao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/gabriela-pavao/</guid>
+      <guid>http://localhost:1313/condado-lab/people/gabriela-pavao/</guid>
       <description>&lt;p&gt;Mestranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM). Sua pesquisa investiga as conexões entre a desinformação político-eleitoral e a moderação de conteúdo no Brasil. Apresentou no XVII Póscom (2025).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lorrana Melo Cordeiro</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/lorrana-cordeiro/</link>
+      <link>http://localhost:1313/condado-lab/people/lorrana-cordeiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/lorrana-cordeiro/</guid>
+      <guid>http://localhost:1313/condado-lab/people/lorrana-cordeiro/</guid>
       <description>&lt;p&gt;Mestranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM). Desenvolve pesquisa sobre a plataformização dos jogos de azar, na interface entre bets e tigrinho. Coautora de trabalhos apresentados na Compós 2025 sobre mimetismo jornalístico na publicidade nativa de saúde e sobre a disputa discursiva em torno da mineração em terras indígenas e negacionismo ambiental no Twitter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fernanda Fialho</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/fernanda-fialho/</link>
+      <link>http://localhost:1313/condado-lab/people/fernanda-fialho/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/fernanda-fialho/</guid>
+      <guid>http://localhost:1313/condado-lab/people/fernanda-fialho/</guid>
       <description>&lt;p&gt;Mestranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM). Desenvolve pesquisa sobre o uso de campanha negativa pela direita radical na América Latina, com análise comparada de postagens no Instagram entre Bolsonaro, Kast e Hernández.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beatriz Montenegro</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/beatriz-montenegro/</link>
+      <link>http://localhost:1313/condado-lab/people/beatriz-montenegro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/beatriz-montenegro/</guid>
+      <guid>http://localhost:1313/condado-lab/people/beatriz-montenegro/</guid>
       <description>&lt;p&gt;Mestranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM). Sua pesquisa investiga a fabricação de citações em chatbots de inteligência artificial (&amp;ldquo;Referências Artificiais&amp;rdquo;). Participou do AoIR 2025 e apresentou no XVII Póscom (2025).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Giselia Amanyara</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/giselia-amanyara/</link>
+      <link>http://localhost:1313/condado-lab/people/giselia-amanyara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/giselia-amanyara/</guid>
+      <guid>http://localhost:1313/condado-lab/people/giselia-amanyara/</guid>
       <description>&lt;p&gt;Mestranda no Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM). Jornalista formada pela PUC-Rio, onde foi bolsista PIBITI CNPq no Grupo de Pesquisa em Interações Digitais (GRiD/PUC-Rio). Após a graduação, participou como colaboradora voluntária no projeto de pesquisa NuTecLab (PUC-Rio). Tem interesse em mídias digitais e dados.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beatriz Silva</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/beatriz-silva/</link>
+      <link>http://localhost:1313/condado-lab/people/beatriz-silva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/beatriz-silva/</guid>
+      <guid>http://localhost:1313/condado-lab/people/beatriz-silva/</guid>
       <description>&lt;p&gt;Bolsista de iniciação científica (PIBIC) no Condado Lab, Departamento de Comunicação Social da PUC-Rio. Graduanda em Jornalismo com domínio adicional em Política Internacional pela PUC-Rio. Atuou no NuTecLab entre 2023 e 2024. Desenvolveu, em coautoria com Maria Bourgeois, pesquisa sobre desinformação no período eleitoral e moderação e remoção de vídeos no YouTube.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maria Eduarda</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/maria-eduarda/</link>
+      <link>http://localhost:1313/condado-lab/people/maria-eduarda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/maria-eduarda/</guid>
+      <guid>http://localhost:1313/condado-lab/people/maria-eduarda/</guid>
       <description>&lt;p&gt;Bolsista de iniciação científica (PIBIC) no Condado Lab, Departamento de Comunicação Social da PUC-Rio.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maria Bourgeois</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/people/maria-bourgeois/</link>
+      <link>http://localhost:1313/condado-lab/people/maria-bourgeois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/people/maria-bourgeois/</guid>
+      <guid>http://localhost:1313/condado-lab/people/maria-bourgeois/</guid>
       <description>&lt;p&gt;Bolsista de iniciação científica (PIBIC) no Condado Lab, Departamento de Comunicação Social da PUC-Rio. Desenvolveu, em coautoria com Beatriz Silva, pesquisa sobre desinformação no período eleitoral e a moderação e remoção de vídeos no YouTube. Apresentou no XXXII Seminário de Iniciação Científica e Tecnológica da PUC-Rio (2024).&lt;/p&gt;</description>
     </item>
   </channel>

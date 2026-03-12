@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Política Cotidiana on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/pol%C3%ADtica-cotidiana/</link>
+    <link>http://localhost:1313/condado-lab/tags/pol%C3%ADtica-cotidiana/</link>
     <description>Recent content in Política Cotidiana on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/pol%C3%ADtica-cotidiana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/pol%C3%ADtica-cotidiana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estratégias de referencialidade à política cotidiana no Facebook</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2015-estratgias-de-referencialidade-poltica-cotidiana-no-facebook/</link>
+      <link>http://localhost:1313/condado-lab/publications/2015-estratgias-de-referencialidade-poltica-cotidiana-no-facebook/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2015-estratgias-de-referencialidade-poltica-cotidiana-no-facebook/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2015-estratgias-de-referencialidade-poltica-cotidiana-no-facebook/</guid>
       <description>&lt;p&gt;O artigo discute estratégias de referencialidade à política cotidiana no Facebook, analisando como usuários se apropriam das mídias sociais para expressão política no dia a dia.&lt;/p&gt;</description>
     </item>
   </channel>

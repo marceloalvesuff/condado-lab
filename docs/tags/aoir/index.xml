@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AoIR on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/aoir/</link>
+    <link>http://localhost:1313/condado-lab/tags/aoir/</link>
     <description>Recent content in AoIR on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/aoir/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/aoir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duas apresentações no AoIR 2025</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/blog/aoir-2025/</link>
+      <link>http://localhost:1313/condado-lab/blog/aoir-2025/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/blog/aoir-2025/</guid>
+      <guid>http://localhost:1313/condado-lab/blog/aoir-2025/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior apresentou dois trabalhos no congresso de 2025 da Association of Internet Researchers (AoIR), o principal evento mundial de estudos de internet.&lt;/p&gt;&#xA;&lt;p&gt;O primeiro trabalho, &amp;ldquo;Is AI hype overstated? A global perspective on AI, disinformation and extreme speech&amp;rdquo;, discutiu os riscos de exagero no debate sobre inteligência artificial e seus efeitos sobre a desinformação e o discurso extremista em perspectiva global.&lt;/p&gt;&#xA;&lt;p&gt;O segundo, &amp;ldquo;(Good) governance of platform monetisation&amp;rdquo;, propôs uma análise sobre governança da monetização de plataformas digitais, articulando dimensões regulatórias, técnicas e de interesse público.&lt;/p&gt;</description>
     </item>
   </channel>

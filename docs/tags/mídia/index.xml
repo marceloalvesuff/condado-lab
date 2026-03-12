@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mídia on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/m%C3%ADdia/</link>
+    <link>http://localhost:1313/condado-lab/tags/m%C3%ADdia/</link>
     <description>Recent content in Mídia on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/m%C3%ADdia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/m%C3%ADdia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estudos de Plataformas Digitais</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/projects/estudos-plataformas/</link>
+      <link>http://localhost:1313/condado-lab/projects/estudos-plataformas/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/projects/estudos-plataformas/</guid>
+      <guid>http://localhost:1313/condado-lab/projects/estudos-plataformas/</guid>
       <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Classificação ideológica de fontes informacionais: o paralelismo político na análise da atenção midiática multipartidária no Brasil</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2024-opiniao-publica-classificacao/</link>
+      <link>http://localhost:1313/condado-lab/publications/2024-opiniao-publica-classificacao/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2024-opiniao-publica-classificacao/</guid>
+      <guid>http://localhost:1313/condado-lab/publications/2024-opiniao-publica-classificacao/</guid>
       <description>&lt;p&gt;O artigo propõe uma metodologia de classificação ideológica de fontes informacionais e aplica o framework à análise da atenção midiática ao multipartidarismo brasileiro. A pesquisa extraiu uma base original de 2,95 milhões de tweets publicados entre 2019 e 2020 por 1.346 usuários. Os resultados indicam que a maioria das fontes informacionais distribui atenção entre vários grupos partidários, e que sites insulares são menos citados.&lt;/p&gt;</description>
     </item>
   </channel>

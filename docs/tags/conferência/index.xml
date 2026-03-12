@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferência on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/confer%C3%AAncia/</link>
+    <link>http://localhost:1313/condado-lab/tags/confer%C3%AAncia/</link>
     <description>Recent content in Conferência on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/confer%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/condado-lab/tags/confer%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duas apresentações no AoIR 2025</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/blog/aoir-2025/</link>
+      <link>http://localhost:1313/condado-lab/blog/aoir-2025/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/blog/aoir-2025/</guid>
+      <guid>http://localhost:1313/condado-lab/blog/aoir-2025/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior apresentou dois trabalhos no congresso de 2025 da Association of Internet Researchers (AoIR), o principal evento mundial de estudos de internet.&lt;/p&gt;&#xA;&lt;p&gt;O primeiro trabalho, &amp;ldquo;Is AI hype overstated? A global perspective on AI, disinformation and extreme speech&amp;rdquo;, discutiu os riscos de exagero no debate sobre inteligência artificial e seus efeitos sobre a desinformação e o discurso extremista em perspectiva global.&lt;/p&gt;&#xA;&lt;p&gt;O segundo, &amp;ldquo;(Good) governance of platform monetisation&amp;rdquo;, propôs uma análise sobre governança da monetização de plataformas digitais, articulando dimensões regulatórias, técnicas e de interesse público.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Professor Marcelo Alves apresenta pesquisa em universidade do Chile</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/blog/pesquisa-chile/</link>
+      <link>http://localhost:1313/condado-lab/blog/pesquisa-chile/</link>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/blog/pesquisa-chile/</guid>
+      <guid>http://localhost:1313/condado-lab/blog/pesquisa-chile/</guid>
       <description>&lt;p&gt;O professor e pesquisador Marcelo Alves dos Santos Junior, do Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM), apresentou o projeto de pesquisa &amp;ldquo;A vanguarda da intervenção: 8 de janeiro e o movimento antidemocrático nas mídias digitais&amp;rdquo; na Faculdade de Comunicação e Letras da Universidade Diego Portales, no Chile.&lt;/p&gt;&#xA;&lt;p&gt;A apresentação abordou a investigação sobre o papel das mídias digitais na articulação do movimento antidemocrático que culminou nos atos de 8 de janeiro de 2023 no Brasil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apresentação em simpósio em Munique sobre WhatsApp e discurso extremista</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/blog/simposio-munique/</link>
+      <link>http://localhost:1313/condado-lab/blog/simposio-munique/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/blog/simposio-munique/</guid>
+      <guid>http://localhost:1313/condado-lab/blog/simposio-munique/</guid>
       <description>&lt;p&gt;Marcelo Alves dos Santos Junior foi convidado a apresentar no simpósio &amp;ldquo;Messaging Apps, Encryption and the Enticement of Extreme Speech&amp;rdquo;, realizado em Munique, Alemanha.&lt;/p&gt;&#xA;&lt;p&gt;A apresentação, intitulada &amp;ldquo;WhatsApp and the extreme speech ecosystem: considerations about January 8&amp;rdquo;, analisou o papel do WhatsApp no ecossistema de discurso extremista no contexto do atentado golpista de 8 de janeiro de 2023 no Brasil.&lt;/p&gt;&#xA;&lt;p&gt;O simpósio reuniu pesquisadores que investigam a relação entre aplicativos de mensagens, criptografia e a circulação de discurso extremista em diferentes contextos nacionais.&lt;/p&gt;</description>
     </item>
   </channel>
