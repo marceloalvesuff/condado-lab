@@ -133,9 +133,7 @@
 <section class="py-24 bg-white">
     <div class="max-w-6xl mx-auto px-6 text-center">
         <h2 class="text-3xl font-bold mb-4">Nossa Equipe</h2>
-        <p class="text-slate-400 max-w-xl mx-auto mb-16">
-            Pesquisadores, estudantes e colaboradores em comunicação, mídia e tecnologia.
-        </p>
+
         {{ $team := first 4 (site.GetPage "people").Pages.ByWeight }}
         {{ with $team }}
         <div class="flex flex-wrap justify-center gap-6 mb-12">
@@ -165,9 +163,7 @@
 <section class="py-24 bg-slate-50">
     <div class="max-w-4xl mx-auto px-6 text-center">
         <h2 class="text-3xl font-bold mb-4">Parcerias</h2>
-        <p class="text-slate-400 max-w-xl mx-auto mb-16">
-            Redes e laboratórios parceiros em pesquisa sobre comunicação, democracia e tecnologia.
-        </p>
+
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
             <a href="https://inctdsi.uff.br/" target="_blank" rel="noopener noreferrer" class="group flex items-center justify-center p-8 bg-white rounded-[2rem] border border-slate-100 hover:border-purple-200 transition-all card-hover h-40">
                 <img src="{{ "images/parceiros/inct-dsi-logo.png" | relURL }}" alt="INCT-DSI" class="max-h-20 max-w-full object-contain group-hover:scale-105 transition-transform">
