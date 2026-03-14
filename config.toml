@@ -1,0 +1,61 @@
+baseURL = "https://marceloalvesuff.github.io/condado-lab/"
+languageCode = "pt-br"
+title = "Condado Lab"
+theme = "coda-theme"
+publishDir = "docs"
+paginate = 10
+enableEmoji = false
+
+[params]
+  description = "Grupo de Pesquisa em Comunicação, Dados e Tecnologia"
+  institution = "PUC-Rio"
+  location = "Rio de Janeiro, Brasil"
+  github = "https://github.com/marceloalvesuff/condado-lab"
+  email = "marcelo_alves@puc-rio.br"
+  heroTitle = "Comunicação, Dados <br>e <em>Tecnologia</em>."
+  heroDescription = "Condado Lab é um grupo de pesquisa que investiga as relações e controvérsias entre mídia e tecnologia a partir de uma abordagem analítica e multidisciplinar fundamentada em métodos digitais."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Pesquisa"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "Pessoas"
+    url = "/people/"
+    weight = 3
+  [[menu.main]]
+    name = "Publicações"
+    url = "/publications/"
+    weight = 4
+  [[menu.main]]
+    name = "Disciplinas"
+    url = "/disciplinas/"
+    weight = 5
+  [[menu.main]]
+    name = "Leituras"
+    url = "/leituras/"
+    weight = 6
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

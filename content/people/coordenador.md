@@ -7,7 +7,7 @@ weight: 1
 email: "marcelo_alves@puc-rio.br"
 github: ""
 lattes: "https://lattes.cnpq.br/7310416640102173"
-scholar: "https://orcid.org/0000-0003-4995-6612"
+scholar: "https://scholar.google.com/citations?user=PdRltloAAAAJ&hl=pt-BR"
 photo: "images/perfil.jpg"
 tags: ["desinformação", "plataformas", "monetização", "métodos digitais", "comunicação política"]
 ---

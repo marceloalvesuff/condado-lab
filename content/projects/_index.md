@@ -3,4 +3,4 @@ title: "Pesquisa"
 description: "Eixos de pesquisa do Condado Lab."
 ---
 
-Investigamos debates teóricos e controvérsias na interface entre mídia e tecnologia a partir de uma abordagem analítica fundamentada nos métodos digitais.
+As pesquisas desenvolvidas pelo grupo buscam compreender criticamente a relação entre a expansão da lógica das plataformas digitais para a web e suas implicações políticas, culturais, econômicas e tecnológicas para os estudos de desinformação, explorando perspectivas metodológicas combinadas da escola de métodos digitais e das ciências sociais computacionais.
