@@ -7,7 +7,7 @@ paginate = 10
 enableEmoji = false
 
 [params]
-  description = "Grupo de Pesquisa em Comunicação, Dados e Tecnologia"
+  description = "Grupo de Pesquisa em Comunicação, Dados e Tecnologia da PUC-Rio"
   institution = "PUC-Rio"
   location = "Rio de Janeiro, Brasil"
   github = "https://github.com/marceloalvesuff/condado-lab"
