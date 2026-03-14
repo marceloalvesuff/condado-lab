@@ -1,4 +1,4 @@
-baseURL = "https://marceloalvesuff.github.io/condado-lab/"
+baseURL = "https://condadolab.org/"
 languageCode = "pt-br"
 title = "Condado Lab"
 theme = "coda-theme"

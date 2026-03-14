@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Narrativas on Condado Lab</title>
-    <link>https://marceloalvesuff.github.io/condado-lab/tags/narrativas/</link>
+    <link>https://condadolab.org/tags/narrativas/</link>
     <description>Recent content in Narrativas on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://marceloalvesuff.github.io/condado-lab/tags/narrativas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://condadolab.org/tags/narrativas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Un)certainty in Science and Climate Change: a Longitudinal Analysis (2014-2022) of Narratives About Climate Science on Social Media in Brazil</title>
-      <link>https://marceloalvesuff.github.io/condado-lab/publications/2024-ssrn-climate/</link>
+      <link>https://condadolab.org/publications/2024-ssrn-climate/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://marceloalvesuff.github.io/condado-lab/publications/2024-ssrn-climate/</guid>
+      <guid>https://condadolab.org/publications/2024-ssrn-climate/</guid>
       <description>&lt;p&gt;O artigo realiza uma análise longitudinal (2014-2022) das narrativas sobre ciência climática no Instagram, Facebook e Twitter no Brasil. A pesquisa empregou TF-IDF para extração de features, análise de sentimento com VADER e Named Entity Recognition. Os resultados não indicam aumento de ceticismo explícito, mas mostram um deslocamento no uso da incerteza como ferramenta retórica para minar a confiança no discurso científico.&lt;/p&gt;</description>
     </item>
   </channel>
