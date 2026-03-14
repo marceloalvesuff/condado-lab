@@ -22,6 +22,11 @@
                 <button id="dark-toggle" class="text-purple-200 hover:text-white transition-colors" aria-label="Alternar modo escuro">
                     <i class="fas fa-moon" id="dark-toggle-icon"></i>
                 </button>
+                {{ with .Site.Params.instagram }}
+                <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-purple-200 hover:text-white transition-colors">
+                    <i class="fab fa-instagram text-lg"></i>
+                </a>
+                {{ end }}
                 {{ with .Site.Params.github }}
                 <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-purple-200 hover:text-white transition-colors">
                     <i class="fab fa-github text-lg"></i>

@@ -36,6 +36,9 @@
             <div>
                 <h4 class="text-white text-xs font-bold uppercase tracking-widest mb-4">Links</h4>
                 <div class="space-y-2">
+                    {{ with .Site.Params.instagram }}
+                    <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-purple-100 text-sm hover:text-white transition-colors block">Instagram</a>
+                    {{ end }}
                     {{ with .Site.Params.github }}
                     <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-purple-100 text-sm hover:text-white transition-colors block">GitHub</a>
                     {{ end }}
