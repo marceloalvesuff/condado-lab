@@ -16,7 +16,7 @@
         <div class="flex justify-center mb-24">
             <div class="max-w-xl w-full">
                 {{ range . }}
-                <a href="{{ .Permalink }}" class="block bg-white p-10 rounded-[3rem] border border-slate-100 card-hover text-center">
+                <a href="{{ .RelPermalink }}" class="block bg-white p-10 rounded-[3rem] border border-slate-100 card-hover text-center">
                     {{ with .Params.photo }}
                     <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-32 h-32 rounded-3xl object-cover mx-auto mb-6">
                     {{ else }}
@@ -40,7 +40,7 @@
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 mb-24">
             {{ range . }}
             {{ $person := . }}
-            <a href="{{ .Permalink }}" class="block text-center card-hover group">
+            <a href="{{ .RelPermalink }}" class="block text-center card-hover group">
                 {{ with .Params.photo }}
                 <img src="{{ . | relURL }}" alt="{{ $person.Title }}" class="w-20 h-20 rounded-2xl mx-auto mb-4 object-cover">
                 {{ else }}
@@ -62,7 +62,7 @@
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-8">
             {{ range . }}
             {{ $person := . }}
-            <a href="{{ .Permalink }}" class="block text-center card-hover group">
+            <a href="{{ .RelPermalink }}" class="block text-center card-hover group">
                 {{ with .Params.photo }}
                 <img src="{{ . | relURL }}" alt="{{ $person.Title }}" class="w-20 h-20 rounded-2xl mx-auto mb-4 object-cover">
                 {{ else }}

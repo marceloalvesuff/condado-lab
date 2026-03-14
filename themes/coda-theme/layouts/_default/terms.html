@@ -24,7 +24,7 @@
 
             {{ range .Data.Terms.Alphabetical }}
             {{ $ratio := div (float .Count) (float $maxCount) }}
-            <a href="{{ .Page.Permalink }}"
+            <a href="{{ .Page.RelPermalink }}"
                class="tag-item inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-slate-200 dark:border-slate-700 hover:border-purple-400 hover:bg-purple-50 dark:hover:bg-purple-900/30 transition-all group"
                data-name="{{ .Page.Title | lower }}"
                style="font-size: {{ if gt $ratio 0.7 }}0.95rem{{ else if gt $ratio 0.4 }}0.8rem{{ else }}0.7rem{{ end }}">

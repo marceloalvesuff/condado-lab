@@ -90,7 +90,7 @@
         {{ $pubs := (site.GetPage "publications").Pages.ByDate.Reverse }}
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{ range first 3 $pubs }}
-            <a href="{{ .Permalink }}" class="group block p-8 bg-slate-50 rounded-[2rem] border border-slate-100 hover:border-purple-200 card-hover">
+            <a href="{{ .RelPermalink }}" class="group block p-8 bg-slate-50 rounded-[2rem] border border-slate-100 hover:border-purple-200 card-hover">
                 <span class="text-xs font-black text-purple-600 tracking-widest block mb-4">{{ .Date.Format "2006" }}</span>
                 {{ with .Params.venue }}
                 <p class="text-slate-400 text-xs font-bold uppercase tracking-widest mb-3">{{ . }}</p>
@@ -117,7 +117,7 @@
         {{ $posts := (site.GetPage "blog").Pages.ByDate.Reverse }}
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{ range first 3 $posts }}
-            <a href="{{ .Permalink }}" class="group block p-8 bg-white rounded-[2rem] border border-slate-100 hover:border-purple-200 card-hover">
+            <a href="{{ .RelPermalink }}" class="group block p-8 bg-white rounded-[2rem] border border-slate-100 hover:border-purple-200 card-hover">
                 <span class="text-xs font-black text-purple-600 tracking-widest block mb-4">{{ partial "pt-date.html" .Date }}</span>
                 <h3 class="text-base font-bold group-hover:text-purple-600 transition-colors mb-3 leading-snug">{{ .Title }}</h3>
                 {{ with .Description }}
