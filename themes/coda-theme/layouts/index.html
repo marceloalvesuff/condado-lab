@@ -139,7 +139,7 @@
         <div class="flex flex-wrap justify-center gap-6 mb-12">
             {{ range . }}
             {{ $person := . }}
-            <div class="bg-white p-6 rounded-[2rem] border border-slate-100 text-center card-hover w-44">
+            <a href="{{ .RelPermalink }}" class="block bg-white p-6 rounded-[2rem] border border-slate-100 text-center card-hover w-44 group">
                 {{ with .Params.photo }}
                 <img src="{{ . | relURL }}" alt="{{ $person.Title }}" class="w-16 h-16 rounded-xl mx-auto mb-3 object-cover">
                 {{ else }}
@@ -147,9 +147,9 @@
                     <i class="fas fa-user text-purple-200 text-xl"></i>
                 </div>
                 {{ end }}
-                <h3 class="font-bold text-sm leading-tight">{{ .Title }}</h3>
+                <h3 class="font-bold text-sm leading-tight group-hover:text-purple-600 transition-colors">{{ .Title }}</h3>
                 <p class="text-[9px] text-purple-600 uppercase tracking-widest font-bold mt-1">{{ .Params.position }}</p>
-            </div>
+            </a>
             {{ end }}
         </div>
         {{ end }}

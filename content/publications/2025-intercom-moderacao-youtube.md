@@ -4,7 +4,7 @@ date: 2025-07-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Intercom (São Paulo)"
 tags: ["YouTube", "moderação de conteúdo", "eleições 2022", "8 de janeiro", "transparência"]
-link: ""
+link: "https://revistas.intercom.org.br/index.php/revistaintercom/article/view/4706"
 pdf: ""
 doi: ""
 ---
