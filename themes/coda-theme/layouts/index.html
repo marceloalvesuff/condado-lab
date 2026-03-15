@@ -33,16 +33,19 @@
     <div class="max-w-4xl mx-auto px-6">
         <div class="grid grid-cols-3 divide-x divide-slate-100 text-center">
             <div class="px-4 md:px-8">
-                <span class="text-3xl md:text-5xl font-bold text-slate-900 block">{{ len (site.GetPage "publications").Pages }}</span>
-                <p class="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em] mt-2">Publicações</p>
+                <i class="fas fa-file-alt text-xl md:text-2xl text-[#283984] mb-2 block"></i>
+                <span class="text-3xl md:text-5xl font-bold text-[#283984] block">{{ len (site.GetPage "publications").Pages }}</span>
+                <p class="text-[10px] font-black text-[#283984] uppercase tracking-[0.2em] mt-2">Publicações</p>
             </div>
             <div class="px-4 md:px-8">
-                <span class="text-3xl md:text-5xl font-bold text-slate-900 block">{{ len (site.GetPage "projects").Pages }}</span>
-                <p class="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em] mt-2">Eixos de Pesquisa</p>
+                <i class="fas fa-project-diagram text-xl md:text-2xl text-[#283984] mb-2 block"></i>
+                <span class="text-3xl md:text-5xl font-bold text-[#283984] block">{{ len (site.GetPage "projects").Pages }}</span>
+                <p class="text-[10px] font-black text-[#283984] uppercase tracking-[0.2em] mt-2">Eixos de Pesquisa</p>
             </div>
             <div class="px-4 md:px-8">
-                <span class="text-3xl md:text-5xl font-bold text-slate-900 block">{{ sub now.Year 2012 }}+</span>
-                <p class="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em] mt-2">Anos de Pesquisa</p>
+                <i class="fas fa-calendar-alt text-xl md:text-2xl text-[#283984] mb-2 block"></i>
+                <span class="text-3xl md:text-5xl font-bold text-[#283984] block">{{ sub now.Year 2012 }}+</span>
+                <p class="text-[10px] font-black text-[#283984] uppercase tracking-[0.2em] mt-2">Anos de Pesquisa</p>
             </div>
         </div>
     </div>
