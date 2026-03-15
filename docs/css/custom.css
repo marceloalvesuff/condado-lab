@@ -282,7 +282,7 @@ html.dark {
 
     /* Selection */
     ::selection {
-        background: rgba(221, 91, 91, 0.4) !important;
+        background: rgba(128, 219, 255, 0.5) !important;
         color: #f1f5f9 !important;
     }
 
