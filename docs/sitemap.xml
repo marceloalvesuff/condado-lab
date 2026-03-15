@@ -140,6 +140,31 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://condadolab.org/tags/am%C3%A9rica-latina/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/blog/iamcr-latam-2026/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/comunica%C3%A7%C3%A3o-pol%C3%ADtica/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/iamcr/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/puc-rio/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://condadolab.org/blog/podcast-tecnopolitica/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -766,11 +791,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://condadolab.org/tags/compartilhamento/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://condadolab.org/tags/comunica%C3%A7%C3%A3o-pol%C3%ADtica/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
