@@ -70,6 +70,11 @@
                                 <p class="text-slate-400 text-sm leading-relaxed mt-1.5 line-clamp-1">{{ . }}</p>
                                 {{ end }}
                             </div>
+                            {{ with .Params.image }}
+                            <a href="{{ $.RelPermalink }}" class="flex-shrink-0">
+                                <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-20 h-20 md:w-24 md:h-24 object-cover rounded-xl group-hover:scale-105 transition-transform">
+                            </a>
+                            {{ end }}
                         </div>
                         {{ end }}
                         {{ end }}
