@@ -1,4 +1,4 @@
-<nav class="fixed w-full z-50 bg-[#283984]/95 backdrop-blur-xl">
+<nav class="fixed w-full z-50 bg-[#dd5b5b]/95 backdrop-blur-xl">
     <div class="max-w-6xl mx-auto px-6">
         <div class="flex justify-between h-20 items-center">
             <div class="flex items-center gap-3 flex-shrink-0">
@@ -13,24 +13,24 @@
             <div class="hidden md:flex space-x-8">
                 {{ range .Site.Menus.main }}
                 <a href="{{ .URL | relURL }}"
-                   class="nav-link text-sm text-blue-100 font-medium py-1 hover:text-white{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
+                   class="nav-link text-sm text-red-100 font-medium py-1 hover:text-white{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
                     {{ .Name }}
                 </a>
                 {{ end }}
             </div>
 
             <div class="hidden md:flex items-center space-x-4">
-                <button onclick="openSearch()" class="flex items-center gap-2 text-blue-200 hover:text-white transition-colors text-sm" aria-label="Buscar">
+                <button onclick="openSearch()" class="flex items-center gap-2 text-red-200 hover:text-white transition-colors text-sm" aria-label="Buscar">
                     <i class="fas fa-search text-xs"></i>
-                    <span class="text-blue-300 text-xs border border-blue-400/30 rounded px-1.5 py-0.5">Ctrl K</span>
+                    <span class="text-red-300 text-xs border border-red-400/30 rounded px-1.5 py-0.5">Ctrl K</span>
                 </button>
                 {{ with .Site.Params.instagram }}
-                <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-blue-200 hover:text-white transition-colors">
+                <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-red-200 hover:text-white transition-colors">
                     <i class="fab fa-instagram text-lg"></i>
                 </a>
                 {{ end }}
                 {{ with .Site.Params.github }}
-                <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-blue-200 hover:text-white transition-colors">
+                <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="text-red-200 hover:text-white transition-colors">
                     <i class="fab fa-github text-lg"></i>
                 </a>
                 {{ end }}
@@ -46,9 +46,9 @@
             </div>
         </div>
     </div>
-    <div id="mobile-menu" class="hidden md:hidden bg-[#1e2d6b] p-8 space-y-6">
+    <div id="mobile-menu" class="hidden md:hidden bg-[#c44a4a] p-8 space-y-6">
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}" class="block text-lg font-bold text-blue-100 hover:text-white">{{ .Name }}</a>
+        <a href="{{ .URL | relURL }}" class="block text-lg font-bold text-red-100 hover:text-white">{{ .Name }}</a>
         {{ end }}
     </div>
 </nav>
