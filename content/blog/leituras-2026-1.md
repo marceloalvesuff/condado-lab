@@ -4,8 +4,10 @@ description: "A nova rodada de leituras do grupo aborda os impactos da inteligê
 date: 2026-03-08
 author: "Condado Lab"
 tags: ["IA", "plataformas", "desinformação", "métodos digitais"]
-image: ""
+image: "images/leituras-2026-1.jpg"
 ---
+
+![Leituras 2026.1](/images/leituras-2026-1.jpg)
 
 O grupo de leituras do Condado Lab inicia o primeiro semestre de 2026 com uma pauta centrada nos impactos da inteligência artificial sobre a comunicação. A seleção de textos parte de uma premissa: não é possível compreender a IA generativa sem situá-la nas disputas geopolíticas e nas assimetrias de poder que organizam o desenvolvimento tecnológico global.
 
