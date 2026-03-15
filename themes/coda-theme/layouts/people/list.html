@@ -33,10 +33,33 @@
         </div>
         {{ end }}
 
-        <!-- Estudantes -->
-        {{ $students := where .Pages "Params.role" "student" }}
-        {{ with $students }}
-        <h4 class="text-center text-xs font-black uppercase tracking-[0.3em] text-slate-300 mb-12">Estudantes</h4>
+        <!-- Pesquisa em Andamento -->
+        {{ $allStudents := where .Pages "Params.role" "student" }}
+        {{ $active := where $allStudents "Params.status" "!=" "finished" }}
+        {{ with $active }}
+        <h4 class="text-center text-xs font-black uppercase tracking-[0.3em] text-slate-300 mb-12">Pesquisa em Andamento</h4>
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 mb-24">
+            {{ range . }}
+            {{ $person := . }}
+            <a href="{{ .RelPermalink }}" class="block text-center card-hover group">
+                {{ with .Params.photo }}
+                <img src="{{ . | relURL }}" alt="{{ $person.Title }}" class="w-20 h-20 rounded-2xl mx-auto mb-4 object-cover">
+                {{ else }}
+                <div class="w-20 h-20 rounded-2xl bg-slate-50 flex items-center justify-center mx-auto mb-4 group-hover:bg-purple-50 transition-colors">
+                    <i class="fas fa-user text-slate-200 group-hover:text-purple-300 transition-colors text-2xl"></i>
+                </div>
+                {{ end }}
+                <h5 class="font-bold group-hover:text-purple-600 transition-colors">{{ .Title }}</h5>
+                <p class="text-[10px] text-slate-400 uppercase tracking-widest">{{ .Params.position }}</p>
+            </a>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        <!-- Pesquisa Encerrada -->
+        {{ $finished := where $allStudents "Params.status" "finished" }}
+        {{ with $finished }}
+        <h4 class="text-center text-xs font-black uppercase tracking-[0.3em] text-slate-300 mb-12">Pesquisa Encerrada</h4>
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 mb-24">
             {{ range . }}
             {{ $person := . }}

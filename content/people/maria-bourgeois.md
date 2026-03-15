@@ -2,6 +2,7 @@
 title: "Maria Bourgeois"
 description: "Bolsista PIBIC no Condado Lab, PUC-Rio. Pesquisa sobre desinformação eleitoral e moderação de vídeos no YouTube."
 role: "student"
+status: "finished"
 position: "PIBIC"
 weight: 32
 photo: ""

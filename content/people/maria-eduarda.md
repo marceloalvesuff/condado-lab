@@ -2,6 +2,7 @@
 title: "Maria Eduarda"
 description: "Bolsista PIBIC no Condado Lab, PUC-Rio."
 role: "student"
+status: "finished"
 position: "PIBIC"
 weight: 31
 photo: ""
