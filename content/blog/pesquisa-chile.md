@@ -4,7 +4,7 @@ description: "Marcelo Alves apresentou o projeto 'A vanguarda da intervenção' 
 date: 2025-09-05
 author: "Departamento de Comunicação PUC-Rio"
 tags: ["8 de janeiro", "mídias digitais", "conferência", "Chile"]
-image: ""
+image: "images/pesquisa-chile.jpeg"
 ---
 
 O professor e pesquisador Marcelo Alves dos Santos Junior, do Programa de Pós-Graduação em Comunicação da PUC-Rio (PPGCOM), apresentou o projeto de pesquisa "A vanguarda da intervenção: 8 de janeiro e o movimento antidemocrático nas mídias digitais" na Faculdade de Comunicação e Letras da Universidade Diego Portales, no Chile.

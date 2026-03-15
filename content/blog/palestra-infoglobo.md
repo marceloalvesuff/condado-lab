@@ -4,7 +4,7 @@ description: "Marcelo Alves ministrou palestra sobre combate à desinformação 
 date: 2025-05-07
 author: "Departamento de Comunicação PUC-Rio"
 tags: ["desinformação", "publicidade", "Infoglobo", "palestra"]
-image: ""
+image: "images/palestra-infoglobo.png"
 ---
 
 O professor Marcelo Alves dos Santos Junior, do PPGCOM/PUC-Rio, ministrou a palestra "Combate à desinformação e bibliotecas de anúncios" na Academia Infoglobo, no dia 6 de maio. O objetivo foi apresentar subsídios para o desenvolvimento da cobertura jornalística sobre o tema.

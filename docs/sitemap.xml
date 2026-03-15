@@ -170,6 +170,26 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://condadolab.org/tags/8-de-janeiro/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/blog/acervo-8-janeiro-lancamento/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/mem%C3%B3ria/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/preserva%C3%A7%C3%A3o-digital/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://condadolab.org/tags/aoir/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,11 +202,6 @@
   </url><url>
     <loc>https://condadolab.org/blog/aoir-2025/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://condadolab.org/tags/8-de-janeiro/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -260,6 +275,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://condadolab.org/tags/onu/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/blog/encontro-onu/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://condadolab.org/blog/pesquisa-8-janeiro/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -281,11 +306,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://condadolab.org/publications/2025-opiniao-publica-equalizacao/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://condadolab.org/tags/mem%C3%B3ria/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -516,11 +536,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://condadolab.org/tags/metodologia/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://condadolab.org/tags/preserva%C3%A7%C3%A3o-digital/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
