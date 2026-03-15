@@ -1,6 +1,6 @@
 :root {
-    --primary: #DD5B5B;
-    --primary-light: #f5a0a0;
+    --primary: #283984;
+    --primary-light: #b0b7d2;
     --accent-sky: #80DBFF;
     --accent-pink: #E971C8;
     --bg-grey: #f8fafc;
@@ -32,7 +32,7 @@ footer,
     font-style: italic;
     color: var(--primary);
     text-decoration: underline;
-    text-decoration-color: #fce9e9;
+    text-decoration-color: #d5d9ea;
     text-underline-offset: 8px;
 }
 
@@ -96,7 +96,7 @@ footer,
 
 .card-hover:hover {
     transform: translateY(-4px);
-    box-shadow: 0 20px 40px rgba(221, 91, 91, 0.08);
+    box-shadow: 0 20px 40px rgba(40, 57, 132, 0.08);
 }
 
 .prose p {
@@ -127,7 +127,7 @@ footer,
 .tag {
     display: inline-block;
     padding: 0.25rem 0.75rem;
-    background: #fef5f5;
+    background: #eef0f7;
     color: var(--primary);
     font-size: 0.625rem;
     font-weight: 700;
@@ -140,7 +140,7 @@ footer,
 }
 
 .tag:hover {
-    background: #f9c4c4;
+    background: #d5d9ea;
 }
 
 /* Leituras reference list */
