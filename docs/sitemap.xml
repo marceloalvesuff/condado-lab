@@ -1519,7 +1519,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://condadolab.org/tags/ci%C3%AAncia-de-dados/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://condadolab.org/tags/comunica%C3%A7%C3%A3o-e-sa%C3%BAde/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/comunica%C3%A7%C3%A3o-pol%C3%ADtica-digital/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1536,6 +1544,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://condadolab.org/tags/infodemia/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://condadolab.org/tags/monitoramento-parlamentar/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
