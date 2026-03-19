@@ -6,7 +6,7 @@ tags: ["8 de janeiro", "memória", "plataformas", "preservação digital"]
 status: "Em andamento"
 people: ["Marcelo Alves dos Santos Junior", "Lorrana Melo", "Beatriz Montenegro"]
 image: ""
-weight: 6
+weight: 4
 website: "https://www.acervodigital08janeiro.com.puc-rio.br/"
 instagram: "https://www.instagram.com/acervo8jan/"
 ---
