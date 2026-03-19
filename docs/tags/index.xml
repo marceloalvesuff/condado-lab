@@ -366,17 +366,17 @@
       <description></description>
     </item>
     <item>
-      <title>Mídia</title>
-      <link>https://condadolab.org/tags/m%C3%ADdia/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/tags/m%C3%ADdia/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Plataformização</title>
       <link>https://condadolab.org/tags/plataformiza%C3%A7%C3%A3o/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://condadolab.org/tags/plataformiza%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Replataformização</title>
+      <link>https://condadolab.org/tags/replataformiza%C3%A7%C3%A3o/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/tags/replataformiza%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
@@ -485,6 +485,13 @@
       <description></description>
     </item>
     <item>
+      <title>Mídia</title>
+      <link>https://condadolab.org/tags/m%C3%ADdia/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/tags/m%C3%ADdia/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Multipartidarismo</title>
       <link>https://condadolab.org/tags/multipartidarismo/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
@@ -559,6 +566,13 @@
       <link>https://condadolab.org/tags/negacionismo/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://condadolab.org/tags/negacionismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oposição Radical</title>
+      <link>https://condadolab.org/tags/oposi%C3%A7%C3%A3o-radical/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/tags/oposi%C3%A7%C3%A3o-radical/</guid>
       <description></description>
     </item>
     <item>
@@ -867,13 +881,6 @@
       <link>https://condadolab.org/tags/political-context/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://condadolab.org/tags/political-context/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Replataformização</title>
-      <link>https://condadolab.org/tags/replataformiza%C3%A7%C3%A3o/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/tags/replataformiza%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
@@ -1304,13 +1311,6 @@
       <description></description>
     </item>
     <item>
-      <title>Oposição Radical</title>
-      <link>https://condadolab.org/tags/oposi%C3%A7%C3%A3o-radical/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/tags/oposi%C3%A7%C3%A3o-radical/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Eleição Presidencial</title>
       <link>https://condadolab.org/tags/elei%C3%A7%C3%A3o-presidencial/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -1395,10 +1395,24 @@
       <description></description>
     </item>
     <item>
+      <title>Plataformas Digitais</title>
+      <link>https://condadolab.org/tags/plataformas-digitais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/tags/plataformas-digitais/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Publicidade Digital</title>
       <link>https://condadolab.org/tags/publicidade-digital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://condadolab.org/tags/publicidade-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regulação</title>
+      <link>https://condadolab.org/tags/regula%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/tags/regula%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>

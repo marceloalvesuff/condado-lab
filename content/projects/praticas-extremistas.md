@@ -2,7 +2,7 @@
 title: "Práticas e Culturas Extremistas e Radicais"
 description: "Análise de práticas e culturas extremistas e radicais no ambiente digital, incluindo disputas pela memória e discursos revisionistas e negacionistas."
 date: 2024-01-01
-tags: ["extremismo", "radicalização", "desinformação", "memória"]
+tags: ["extremismo", "radicalização", "oposição radical", "memória"]
 status: "Em andamento"
 people: ["Marcelo Alves"]
 image: ""

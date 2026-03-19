@@ -56,7 +56,11 @@ enableEmoji = false
   section = ["HTML", "RSS"]
   page = ["HTML"]
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5

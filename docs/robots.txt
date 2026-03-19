@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://marceloalvesuff.github.io/condado-lab/sitemap.xml
+Disallow: /tags/
+Disallow: /categories/
+Sitemap: https://condadolab.org/sitemap.xml

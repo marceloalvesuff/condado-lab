@@ -2,7 +2,7 @@
 title: "Acervo Digital do 8 de Janeiro"
 description: "Projeto de coleta, preservação e análise de dados de plataformas digitais sobre o atentado golpista de 8 de janeiro de 2023."
 date: 2024-06-01
-tags: ["8 de janeiro", "memória", "plataformas", "preservação digital"]
+tags: ["8 de janeiro", "preservação digital"]
 status: "Em andamento"
 people: ["Marcelo Alves dos Santos Junior", "Lorrana Melo", "Beatriz Montenegro"]
 image: ""

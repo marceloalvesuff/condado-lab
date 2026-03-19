@@ -2,7 +2,7 @@
 title: "Estudos de Plataformas Digitais"
 description: "Investigação sobre a plataformização das mídias e suas implicações políticas, culturais, econômicas e tecnológicas para os ecossistemas de comunicação."
 date: 2025-01-01
-tags: ["plataformas", "mídia", "plataformização", "governança", "moderação", "democracia", "economia da atenção", "monetização", "desinformação", "publicidade programática"]
+tags: ["plataformização", "replataformização", "economia da atenção", "publicidade programática", "monetização", "moderação de conteúdo", "governança", "democracia"]
 status: "Em andamento"
 people: ["Marcelo Alves", "Marcelo Alves dos Santos Junior"]
 image: ""
