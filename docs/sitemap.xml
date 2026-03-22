@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://condadolab.org/</loc>
+    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://condadolab.org/leituras/2026-1/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -111,14 +117,8 @@
   <url>
     <loc>https://condadolab.org/blog/</loc>
     <lastmod>2026-03-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://condadolab.org/</loc>
-    <lastmod>2026-03-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/blog/leituras-2026-1/</loc>
@@ -129,8 +129,8 @@
   <url>
     <loc>https://condadolab.org/leituras/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/blog/iamcr-latam-2026/</loc>
@@ -171,8 +171,8 @@
   <url>
     <loc>https://condadolab.org/disciplinas/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/disciplinas/com2211-2025-2/</loc>
@@ -195,8 +195,8 @@
   <url>
     <loc>https://condadolab.org/publications/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/blog/encontro-onu/</loc>
@@ -267,8 +267,8 @@
   <url>
     <loc>https://condadolab.org/projects/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</loc>
@@ -668,7 +668,7 @@
   </url>
   <url>
     <loc>https://condadolab.org/people/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
