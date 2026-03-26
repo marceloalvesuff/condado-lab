@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Twitter on Condado Lab</title><link>https://condadolab.org/tags/twitter/</link><description>Recent content in Twitter on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/twitter/index.xml" rel="self" type="application/rss+xml"/><item><title>O Twitter como ferramenta de campanha negativa não oficial: uma análise da campanha eleitoral para a Prefeitura do Rio de Janeiro em 2016</title><link>https://condadolab.org/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</guid><description>&lt;p&gt;O artigo analisa a adoção da estratégia de campanha negativa não oficial no Twitter na disputa pela Prefeitura do Rio de Janeiro em 2016. Examina mensagens postadas no microblog durante o segundo turno da eleição, analisando redes de apoio e ataque para os candidatos Marcelo Crivella (PRB) e Marcelo Freixo (PSOL). A metodologia utiliza análise de conteúdo, análise de redes sociais e análise estatística de um corpus inicial de 530.000 tweets coletados pela API do Twitter, resultando em uma amostra final de 11.407 publicações classificadas como negativas. Entre as conclusões, os principais agentes da campanha negativa não oficial no Twitter apresentam funções e perfis distintos, divididos entre influenciadores e disseminadores de publicações de ataque.&lt;/p&gt;</description></item><item><title>Bridging semantic and social network analyses: the case of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter</title><link>https://condadolab.org/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</guid><description>&lt;p&gt;The article bridges semantic and social network analyses through a case study of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter, examining how discourse and network structure interact in online public debate.&lt;/p&gt;</description></item><item><title>Game of Spoilers: Adapted Works and Fan Consumption Disputes in Brazil</title><link>https://condadolab.org/publications/2017-game-of-spoilers-adapted-works-and-fan-consumption-disputes-/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2017-game-of-spoilers-adapted-works-and-fan-consumption-disputes-/</guid><description>&lt;p&gt;The paper examines spoilers through a case study of 207 tweets generated from conversations on Twitter on June 14, 2015, concerning a specific episode of Game of Thrones. The authors argue that a key variable in conditioning fans&amp;rsquo; reactions to spoilers lies in the difference between original screenplays and adapted works from other media narratives. Results show two major conflicts: one between different perspectives on the production and circulation of spoilers, and another between fans who read the books and those who only watch the show.&lt;/p&gt;</description></item><item><title>Da frustração ao entusiasmo: uma análise da relação entre fãs e spoilers no Twitter</title><link>https://condadolab.org/publications/2015-da-frustrao-ao-entusiasmo-uma-anlise-da-relao-entre-fs-e-spo/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2015-da-frustrao-ao-entusiasmo-uma-anlise-da-relao-entre-fs-e-spo/</guid><description>&lt;p&gt;O estudo analisa a relação entre fãs e spoilers no Twitter, examinando como os spoilers afetam o engajamento e as emoções dos fãs, que variam da frustração ao entusiasmo.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Condado Lab</title>
+    <link>https://condadolab.org/tags/twitter/</link>
+    <description>Recent content in Twitter on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter vai permitir anúncios políticos e de causas sociais</title>
+      <link>https://condadolab.org/midia/twitter-anuncios-politicos-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/twitter-anuncios-politicos-2023/</guid>
+      <description>&lt;p&gt;Entrevista com Marcelo Alves sobre o anúncio do Twitter de que voltaria a permitir anúncios políticos e de causas sociais na plataforma, revertendo política anterior e levantando preocupações sobre o financiamento de desinformação eleitoral.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cultura vira trincheira da esquerda por interação em rede social, diz estudo</title>
+      <link>https://condadolab.org/midia/estadao-cultura-esquerda-2022/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/estadao-cultura-esquerda-2022/</guid>
+      <description>&lt;p&gt;Reportagem do Estadão sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais, com Marcelo Alves comentando os achados sobre a dinâmica de engajamento político-cultural no Twitter brasileiro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cultura vira trincheira da esquerda por interação em rede social, diz estudo</title>
+      <link>https://condadolab.org/midia/uol-cultura-esquerda-2022/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/uol-cultura-esquerda-2022/</guid>
+      <description>&lt;p&gt;Reportagem da Agência Estado/UOL sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais. Marcelo Alves comenta os achados da pesquisa sobre como a esquerda encontrou na cultura e no entretenimento sua principal &amp;ldquo;trincheira&amp;rdquo; digital frente à direita.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Twitter como ferramenta de campanha negativa não oficial: uma análise da campanha eleitoral para a Prefeitura do Rio de Janeiro em 2016</title>
+      <link>https://condadolab.org/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2020-o-twitter-como-ferramenta-de-campanha-negativa-no-oficial-um/</guid>
+      <description>&lt;p&gt;O artigo analisa a adoção da estratégia de campanha negativa não oficial no Twitter na disputa pela Prefeitura do Rio de Janeiro em 2016. Examina mensagens postadas no microblog durante o segundo turno da eleição, analisando redes de apoio e ataque para os candidatos Marcelo Crivella (PRB) e Marcelo Freixo (PSOL). A metodologia utiliza análise de conteúdo, análise de redes sociais e análise estatística de um corpus inicial de 530.000 tweets coletados pela API do Twitter, resultando em uma amostra final de 11.407 publicações classificadas como negativas. Entre as conclusões, os principais agentes da campanha negativa não oficial no Twitter apresentam funções e perfis distintos, divididos entre influenciadores e disseminadores de publicações de ataque.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perfis mais à direita superam em quatro vezes total de contas mais à esquerda suspensas em rede social</title>
+      <link>https://condadolab.org/midia/perfis-direita-esquerda-suspensao-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/perfis-direita-esquerda-suspensao-2020/</guid>
+      <description>&lt;p&gt;Entrevista com Marcelo Alves sobre pesquisa que mostrou que perfis de direita suspensos em redes sociais superam em quatro vezes o total de contas de esquerda suspensas, levantando debate sobre padrões de moderação e o comportamento político nas plataformas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bridging semantic and social network analyses: the case of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter</title>
+      <link>https://condadolab.org/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2017-bridging-semantic-and-social-network-analyses-the-case-of-th/</guid>
+      <description>&lt;p&gt;The article bridges semantic and social network analyses through a case study of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter, examining how discourse and network structure interact in online public debate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Estudo mostra que prisão de Eike Batista despertou simpatia nas redes sociais</title>
+      <link>https://condadolab.org/midia/eike-batista-redes-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/eike-batista-redes-2017/</guid>
+      <description>&lt;p&gt;Comentário de Marcelo Alves sobre estudo que identificou reações predominantemente de simpatia nas redes sociais após a prisão do empresário Eike Batista, revelando dinâmicas inesperadas da opinião pública digital.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game of Spoilers: Adapted Works and Fan Consumption Disputes in Brazil</title>
+      <link>https://condadolab.org/publications/2017-game-of-spoilers-adapted-works-and-fan-consumption-disputes-/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2017-game-of-spoilers-adapted-works-and-fan-consumption-disputes-/</guid>
+      <description>&lt;p&gt;The paper examines spoilers through a case study of 207 tweets generated from conversations on Twitter on June 14, 2015, concerning a specific episode of Game of Thrones. The authors argue that a key variable in conditioning fans&amp;rsquo; reactions to spoilers lies in the difference between original screenplays and adapted works from other media narratives. Results show two major conflicts: one between different perspectives on the production and circulation of spoilers, and another between fans who read the books and those who only watch the show.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Da frustração ao entusiasmo: uma análise da relação entre fãs e spoilers no Twitter</title>
+      <link>https://condadolab.org/publications/2015-da-frustrao-ao-entusiasmo-uma-anlise-da-relao-entre-fs-e-spo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2015-da-frustrao-ao-entusiasmo-uma-anlise-da-relao-entre-fs-e-spo/</guid>
+      <description>&lt;p&gt;O estudo analisa a relação entre fãs e spoilers no Twitter, examinando como os spoilers afetam o engajamento e as emoções dos fãs, que variam da frustração ao entusiasmo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+---
+title: "Quem são os políticos que lideram nas mídias sociais?"
+date: 2016-10-01
+tags: ["políticos", "mídias sociais", "engajamento", "eleições", "redes sociais"]
+---
+
+Entrevista com Marcelo Alves sobre quais políticos brasileiros lideravam o engajamento nas mídias sociais, discutindo as estratégias digitais dos parlamentares e candidatos no período pré-eleitoral de 2016.

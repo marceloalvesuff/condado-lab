@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitoramento on Condado Lab</title>
+    <link>https://condadolab.org/tags/monitoramento/</link>
+    <description>Recent content in Monitoramento on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/monitoramento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big techs têm retrocesso em ferramentas para monitorar redes na eleição</title>
+      <link>https://condadolab.org/midia/jornal-brasilia-bigtech-monitoramento-2024/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/jornal-brasilia-bigtech-monitoramento-2024/</guid>
+      <description>&lt;p&gt;Reportagem sobre como as grandes plataformas tecnológicas retrocederam em ferramentas de monitoramento para pesquisadores e jornalistas às vésperas das eleições municipais de 2024, incluindo o encerramento do CrowdTangle pela Meta e restrições impostas por X, TikTok e Kwai.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ONGs vão ajudar TSE a monitorar redes nas eleições</title>
+      <link>https://condadolab.org/midia/ongs-tse-redes-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/ongs-tse-redes-2024/</guid>
+      <description>&lt;p&gt;Reportagem sobre o papel das ONGs no monitoramento das redes sociais durante as eleições municipais de 2024, com participação de Marcelo Alves.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+---
+title: "A instrumentalização da ciência em grupos antivacina no WhatsApp no Brasil"
+date: 2025-01-01
+tags: ["desinformação", "antivacina", "WhatsApp", "saúde", "ciência"]
+---
+
+Entrevista com Marcelo Alves sobre a instrumentalização de discursos científicos por grupos antivacina em grupos de WhatsApp no Brasil, discutindo como a aparência de legitimidade científica é usada para disseminar desinformação sobre saúde.

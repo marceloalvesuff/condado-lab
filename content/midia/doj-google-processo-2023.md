@@ -1,0 +1,7 @@
+---
+title: "Entenda o processo movido pelo Departamento de Justiça dos EUA contra o Google"
+date: 2023-09-01
+tags: ["Google", "antitruste", "plataformas", "regulação", "EUA"]
+---
+
+Entrevista com Marcelo Alves explicando o processo antitruste movido pelo Departamento de Justiça dos Estados Unidos contra o Google e suas implicações para o ecossistema digital global e para o debate sobre regulação de plataformas no Brasil.

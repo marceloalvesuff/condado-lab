@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Exposição on Condado Lab</title><link>https://condadolab.org/tags/exposi%C3%A7%C3%A3o/</link><description>Recent content in Exposição on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/exposi%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml"/><item><title>Condado Lab inaugura exposição no Centro de Artes UFF sobre o Acervo do 8 de Janeiro</title><link>https://condadolab.org/blog/acervo-8-janeiro/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/acervo-8-janeiro/</guid><description>&lt;p&gt;Imagens e vídeos feitos pelos próprios participantes dos atos de 8 de janeiro de 2023, muitos deles posteriormente apagados das redes, ganham agora sua primeira exibição pública. O material, que circulou nas plataformas digitais entre novembro de 2022 e fevereiro de 2023, é o ponto de partida de &amp;ldquo;Subterrâneos a céu aberto&amp;rdquo;, exposição que será inaugurada no dia 31 de março, no Centro de Artes da Universidade Federal Fluminense (UFF), em Niterói. A mostra transforma registros digitais em uma experiência imersiva, propondo reflexão e debate sobre a preservação das instituições democráticas.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exposição on Condado Lab</title>
+    <link>https://condadolab.org/tags/exposi%C3%A7%C3%A3o/</link>
+    <description>Recent content in Exposição on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/exposi%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Condado Lab inaugura exposição no Centro de Artes UFF sobre o Acervo do 8 de Janeiro</title>
+      <link>https://condadolab.org/blog/acervo-8-janeiro/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/blog/acervo-8-janeiro/</guid>
+      <description>&lt;p&gt;Imagens e vídeos feitos pelos próprios participantes dos atos de 8 de janeiro de 2023, muitos deles posteriormente apagados das redes, ganham agora sua primeira exibição pública. O material, que circulou nas plataformas digitais entre novembro de 2022 e fevereiro de 2023, é o ponto de partida de &amp;ldquo;Subterrâneos a céu aberto&amp;rdquo;, exposição que será inaugurada no dia 31 de março, no Centro de Artes da Universidade Federal Fluminense (UFF), em Niterói. A mostra transforma registros digitais em uma experiência imersiva, propondo reflexão e debate sobre a preservação das instituições democráticas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

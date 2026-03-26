@@ -1,10 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moderação De Conteúdo on Condado Lab</title><link>https://condadolab.org/tags/modera%C3%A7%C3%A3o-de-conte%C3%BAdo/</link><description>Recent content in Moderação De Conteúdo on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/modera%C3%A7%C3%A3o-de-conte%C3%BAdo/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
-&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
-&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
-&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
-&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Moderação de conteúdo no YouTube: análise da remoção de vídeos da eleição de 2022 ao atentado golpista de 08 de janeiro</title><link>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</guid><description>&lt;p&gt;O artigo rastreia as práticas de moderação e remoção de conteúdo do YouTube entre a eleição de 2022 e o atentado golpista de 8 de janeiro de 2023. O YouTube removeu mais de 10 mil vídeos e 2.500 canais por violação de políticas eleitorais brasileiras, mas a maioria das remoções não apresentou justificativa clara. Canais como TV Piauí e Patriota em Ação apagaram ou tornaram privados mais de 99% de seus vídeos.&lt;/p&gt;</description></item><item><title>Vídeos sobre vacinação removidos do YouTube: análise das fontes, das temáticas e dos posicionamentos</title><link>https://condadolab.org/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</guid><description>&lt;p&gt;O artigo analisa vídeos sobre vacinação que foram removidos do YouTube, investigando as fontes, temáticas e posicionamentos do conteúdo removido pela moderação da plataforma.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moderação De Conteúdo on Condado Lab</title>
+    <link>https://condadolab.org/tags/modera%C3%A7%C3%A3o-de-conte%C3%BAdo/</link>
+    <description>Recent content in Moderação De Conteúdo on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/modera%C3%A7%C3%A3o-de-conte%C3%BAdo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudos de Plataformas Digitais</title>
+      <link>https://condadolab.org/projects/estudos-plataformas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
+      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moderação de conteúdo no YouTube: análise da remoção de vídeos da eleição de 2022 ao atentado golpista de 08 de janeiro</title>
+      <link>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</guid>
+      <description>&lt;p&gt;O artigo rastreia as práticas de moderação e remoção de conteúdo do YouTube entre a eleição de 2022 e o atentado golpista de 8 de janeiro de 2023. O YouTube removeu mais de 10 mil vídeos e 2.500 canais por violação de políticas eleitorais brasileiras, mas a maioria das remoções não apresentou justificativa clara. Canais como TV Piauí e Patriota em Ação apagaram ou tornaram privados mais de 99% de seus vídeos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vídeos sobre vacinação removidos do YouTube: análise das fontes, das temáticas e dos posicionamentos</title>
+      <link>https://condadolab.org/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2025-vdeos-sobre-vacinao-removidos-do-youtube-anlise-das-fontes-d/</guid>
+      <description>&lt;p&gt;O artigo analisa vídeos sobre vacinação que foram removidos do YouTube, investigando as fontes, temáticas e posicionamentos do conteúdo removido pela moderação da plataforma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
