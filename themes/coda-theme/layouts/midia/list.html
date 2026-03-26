@@ -58,6 +58,9 @@
                             <h3 class="text-xl font-bold mb-2">
                                 <a href="{{ .RelPermalink }}" class="hover:text-purple-600 transition-colors">{{ .Title }}</a>
                             </h3>
+                            {{ with .Summary }}
+                            <p class="text-slate-500 text-sm leading-relaxed mb-3 line-clamp-2">{{ . }}</p>
+                            {{ end }}
                             {{ with .Params.authors }}
                             <p class="text-slate-500 text-sm italic mb-3">{{ delimit . ", " }}</p>
                             {{ end }}
