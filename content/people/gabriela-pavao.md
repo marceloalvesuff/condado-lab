@@ -4,6 +4,7 @@ description: "Mestranda no PPGCOM/PUC-Rio. Pesquisa sobre desinformação polít
 role: "student"
 position: "Mestranda"
 weight: 20
+status: "finished"
 lattes: "https://lattes.cnpq.br/8903929240496333"
 photo: ""
 ---
