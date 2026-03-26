@@ -1,6 +1,7 @@
 ---
 title: "'Bolhanaro': 97% das interações de apoiadores de Bolsonaro nas redes sociais ocorrem sem sair da própria bolha"
 date: 2022-06-01
+outlet: "InfoAmazônia"
 link: "https://infoamazonia.org/2022/10/26/bolhanaro-97-das-interacoes-de-apoiadores-de-bolsonaro-nas-redes-sociais-ocorrem-sem-sair-da-propria-bolha/"
 tags: ["Bolsonaro", "bolha informacional", "redes sociais", "polarização", "câmara de eco"]
 ---

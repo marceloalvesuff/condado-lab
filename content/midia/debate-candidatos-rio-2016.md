@@ -1,6 +1,7 @@
 ---
 title: "Troca de farpas em debate entre candidatos a prefeito do Rio movimenta as redes"
 date: 2016-10-01
+outlet: "O Globo"
 link: "https://oglobo.globo.com/brasil/troca-de-farpas-em-debate-entre-candidatos-prefeito-do-rio-movimenta-as-redes-20086049"
 tags: ["eleições", "Rio de Janeiro", "debate", "redes sociais", "candidatos"]
 ---

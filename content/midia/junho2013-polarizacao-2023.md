@@ -1,6 +1,7 @@
 ---
 title: "Protestos de Junho de 2013 marcam mudança nas redes sociais com aumento da polarização e nova articulação da direita"
 date: 2023-06-01
+outlet: "O Globo"
 link: "https://oglobo.globo.com/politica/noticia/2023/06/protestos-de-junho-de-2013-marcam-mudanca-nas-redes-sociais-com-aumento-da-polarizacao-e-nova-articulacao-da-direita.ghtml"
 tags: ["Junho de 2013", "polarização", "redes sociais", "extrema-direita", "história"]
 ---

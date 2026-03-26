@@ -1,6 +1,7 @@
 ---
 title: "YouTube vai reduzir transparência e dificultar pesquisas sobre seu sistema de recomendação de vídeos"
 date: 2023-09-01
+outlet: "O Globo"
 link: "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2023/05/youtube-vai-reduzir-transparencia-e-dificultar-pesquisas-sobre-seu-sistema-de-recomendacao-de-videos.ghtml"
 tags: ["YouTube", "algoritmos", "pesquisa", "plataformas", "transparência"]
 ---

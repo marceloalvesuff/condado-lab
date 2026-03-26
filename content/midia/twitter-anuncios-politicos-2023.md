@@ -1,6 +1,7 @@
 ---
 title: "Twitter vai permitir anúncios políticos e de causas sociais"
 date: 2023-01-01
+outlet: "Desinformante"
 link: "https://desinformante.com.br/linha-do-tempo/twitter-vai-permitir-anuncios-politicos-e-de-causas-sociais/"
 tags: ["Twitter", "anúncios políticos", "plataformas", "regulação", "eleições"]
 ---

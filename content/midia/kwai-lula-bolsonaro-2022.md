@@ -1,6 +1,7 @@
 ---
 title: "Lula e Bolsonaro miram rede de vídeos Kwai por voto popular na reta final"
 date: 2022-10-01
+outlet: "Estado de Minas"
 link: "https://www.em.com.br/app/noticia/politica/2022/09/26/interna_politica,1398101/lula-e-bolsonaro-miram-rede-de-videos-kwai-por-voto-popular-na-reta-final.shtml"
 tags: ["Kwai", "eleições", "Lula", "Bolsonaro", "plataformas", "propaganda digital"]
 ---

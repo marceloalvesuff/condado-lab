@@ -1,6 +1,7 @@
 ---
 title: "Convocação para o 7 de Setembro ganha novo discurso nas redes e cresce na última semana"
 date: 2022-09-01
+outlet: "O Globo"
 link: "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2022/09/convocacao-para-o-7-de-setembro-ganha-novo-discurso-nas-redes-e-cresce-na-ultima-semana.ghtml"
 tags: ["7 de Setembro", "redes sociais", "Bolsonaro", "mobilização", "eleições"]
 ---

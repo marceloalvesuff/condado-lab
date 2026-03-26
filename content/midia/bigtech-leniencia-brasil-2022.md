@@ -1,6 +1,7 @@
 ---
 title: "A leniência das Big Techs no Brasil"
 date: 2022-07-01
+outlet: "Estadão"
 link: "https://www.estadao.com.br/opiniao/a-leniencia-das-big-techs-no-brasil/"
 tags: ["big tech", "regulação", "desinformação", "plataformas", "Brasil"]
 ---

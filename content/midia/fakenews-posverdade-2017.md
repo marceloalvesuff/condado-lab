@@ -1,6 +1,7 @@
 ---
 title: "Fake News — Na era da pós-verdade"
 date: 2017-01-01
+outlet: "Canal Saúde / Fiocruz"
 link: "https://www.canalsaude.fiocruz.br/canal/videoAberto/Fake-News-Na-era-da-pos-verdade-UND-0758"
 tags: ["fake news", "pós-verdade", "desinformação", "comunicação", "redes sociais"]
 ---

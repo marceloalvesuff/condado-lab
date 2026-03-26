@@ -1,6 +1,7 @@
 ---
 title: "O que o Brasil pode ensinar sobre o combate à desinformação?"
 date: 2023-01-01
+outlet: "Desinformante"
 link: "https://desinformante.com.br/brasil-combate-desinformacao"
 tags: ["desinformação", "democracia", "plataformas", "Brasil", "regulação"]
 ---

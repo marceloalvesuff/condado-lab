@@ -1,6 +1,7 @@
 ---
 title: "Estudo mostra que prisão de Eike Batista despertou simpatia nas redes sociais"
 date: 2017-01-01
+outlet: "GloboNews"
 link: "https://g1.globo.com/globonews/estudio-i/video/estudo-mostra-que-prisao-de-eike-batista-despertou-simpatia-nas-redes-sociais-5625452.ghtml"
 tags: ["redes sociais", "opinião pública", "Twitter", "análise de sentimento"]
 ---

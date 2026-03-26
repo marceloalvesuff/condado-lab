@@ -1,6 +1,7 @@
 ---
 title: "Big techs mantêm brechas sobre golpismo de Bolsonaro e deixam TSE sem respaldo"
 date: 2022-10-01
+outlet: "Folha de S.Paulo"
 link: "https://www1.folha.uol.com.br/poder/2022/06/big-techs-mantem-brechas-sobre-golpismo-de-bolsonaro-e-deixam-tse-sem-respaldo.shtml"
 tags: ["big tech", "golpismo", "TSE", "Bolsonaro", "eleições", "regulação"]
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Perfis mais à direita superam em quatro vezes total de contas mais à esquerda suspensas em rede social"
 date: 2020-01-01
+outlet: "Folha de S.Paulo"
 link: "https://www1.folha.uol.com.br/poder/2020/07/perfis-mais-a-direita-superam-em-quatro-vezes-total-de-contas-mais-a-esquerda-suspensas-em-rede-social.shtml"
 tags: ["redes sociais", "extrema-direita", "moderação", "suspensão de contas", "Twitter"]
 ---
