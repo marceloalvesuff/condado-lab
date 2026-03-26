@@ -18,17 +18,38 @@ enableEmoji = false
 
 [menu]
   [[menu.main]]
+    identifier = "home"
     name = "Home"
     url = "/"
     weight = 1
+
   [[menu.main]]
-    name = "Pesquisa"
-    url = "/projects/"
+    identifier = "institucional"
+    name = "Institucional"
+    url = "#"
     weight = 2
+
   [[menu.main]]
+    identifier = "quem-somos"
+    name = "Quem Somos"
+    url = "/quem-somos/"
+    parent = "institucional"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "pessoas"
     name = "Pessoas"
     url = "/people/"
+    parent = "institucional"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "linhas-pesquisa"
+    name = "Linhas de Pesquisa"
+    url = "/projects/"
+    parent = "institucional"
     weight = 3
+
   [[menu.main]]
     name = "Publicações"
     url = "/publications/"

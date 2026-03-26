@@ -1,5 +1,5 @@
 ---
-title: "Pesquisa"
+title: "Linhas de Pesquisa"
 description: "Eixos de pesquisa do Condado Lab."
 sitemap:
   priority: 0.8

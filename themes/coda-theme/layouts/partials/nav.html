@@ -10,12 +10,32 @@
                 </a>
             </div>
 
-            <div class="hidden md:flex space-x-8">
+            <div class="hidden md:flex space-x-8 items-center">
                 {{ range .Site.Menus.main }}
-                <a href="{{ .URL | relURL }}"
-                   class="nav-link text-sm text-red-100 font-medium py-1 hover:text-white{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                    {{ .Name }}
-                </a>
+                {{ if not .Parent }}
+                    {{ if .HasChildren }}
+                    <div class="relative group">
+                        <button class="nav-link text-sm text-red-100 font-medium py-1 hover:text-white flex items-center gap-1.5 cursor-default select-none">
+                            {{ .Name }}
+                            <i class="fas fa-chevron-down text-[10px] transition-transform duration-200 group-hover:rotate-180"></i>
+                        </button>
+                        <div class="absolute top-full left-0 pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-150 z-50">
+                            <div class="bg-white rounded-lg shadow-xl py-1.5 min-w-[190px]">
+                                {{ range .Children }}
+                                <a href="{{ .URL | relURL }}" class="block px-4 py-2.5 text-sm text-gray-700 hover:bg-red-50 hover:text-[#dd5b5b] transition-colors">
+                                    {{ .Name }}
+                                </a>
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ else }}
+                    <a href="{{ .URL | relURL }}"
+                       class="nav-link text-sm text-red-100 font-medium py-1 hover:text-white{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
+                        {{ .Name }}
+                    </a>
+                    {{ end }}
+                {{ end }}
                 {{ end }}
             </div>
 
@@ -40,15 +60,32 @@
                 <button onclick="openSearch()" class="text-white p-2" aria-label="Buscar">
                     <i class="fas fa-search"></i>
                 </button>
-                    <button id="mobile-menu-button" class="text-white p-2" aria-label="Menu" aria-expanded="false">
+                <button id="mobile-menu-button" class="text-white p-2" aria-label="Menu" aria-expanded="false">
                     <i class="fas fa-bars" id="mobile-menu-icon"></i>
                 </button>
             </div>
         </div>
     </div>
-    <div id="mobile-menu" class="hidden md:hidden bg-[#c44a4a] p-8 space-y-6">
+
+    <div id="mobile-menu" class="hidden md:hidden bg-[#c44a4a] px-8 py-4 space-y-1">
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relURL }}" class="block text-lg font-bold text-red-100 hover:text-white">{{ .Name }}</a>
+        {{ if not .Parent }}
+            {{ if .HasChildren }}
+            <div class="mobile-accordion">
+                <button class="mobile-accordion-btn flex justify-between items-center w-full text-lg font-bold text-red-100 hover:text-white py-3" aria-expanded="false">
+                    {{ .Name }}
+                    <i class="fas fa-chevron-down text-sm"></i>
+                </button>
+                <div class="mobile-accordion-content hidden pl-4 pb-2 space-y-1">
+                    {{ range .Children }}
+                    <a href="{{ .URL | relURL }}" class="block text-base text-red-200 hover:text-white py-2">{{ .Name }}</a>
+                    {{ end }}
+                </div>
+            </div>
+            {{ else }}
+            <a href="{{ .URL | relURL }}" class="block text-lg font-bold text-red-100 hover:text-white py-3">{{ .Name }}</a>
+            {{ end }}
+        {{ end }}
         {{ end }}
     </div>
 </nav>
@@ -74,12 +111,11 @@
             icon.classList.toggle('fa-times', !isOpen);
 
             if (!isOpen) {
-                var firstLink = menu.querySelector('a');
-                if (firstLink) firstLink.focus();
+                var firstFocusable = menu.querySelector('a, button');
+                if (firstFocusable) firstFocusable.focus();
             }
         });
 
-        // Close on Escape
         document.addEventListener('keydown', function (e) {
             if (e.key === 'Escape' && !menu.classList.contains('hidden')) {
                 closeMenu();
@@ -87,12 +123,24 @@
             }
         });
 
+        // Mobile accordion toggles
+        menu.querySelectorAll('.mobile-accordion-btn').forEach(function (accordionBtn) {
+            accordionBtn.addEventListener('click', function () {
+                var content = this.nextElementSibling;
+                var chevron = this.querySelector('.fas');
+                var isOpen = !content.classList.contains('hidden');
+                content.classList.toggle('hidden', isOpen);
+                this.setAttribute('aria-expanded', String(!isOpen));
+                if (chevron) chevron.style.transform = isOpen ? '' : 'rotate(180deg)';
+            });
+        });
+
         // Trap focus inside mobile menu when open
         menu.addEventListener('keydown', function (e) {
             if (e.key !== 'Tab') return;
-            var links = menu.querySelectorAll('a');
-            var first = links[0];
-            var last = links[links.length - 1];
+            var focusable = menu.querySelectorAll('a, button');
+            var first = focusable[0];
+            var last = focusable[focusable.length - 1];
 
             if (e.shiftKey && document.activeElement === first) {
                 e.preventDefault();
@@ -103,5 +151,4 @@
             }
         });
     })();
-
 </script>
