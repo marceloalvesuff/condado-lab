@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article class="pt-32 pb-24">
+    <div class="max-w-2xl mx-auto px-6">
+        <a href="{{ .Parent.RelPermalink }}" class="text-slate-300 hover:text-purple-600 text-xs font-bold uppercase tracking-widest mb-12 flex items-center">
+            <i class="fas fa-arrow-left mr-3"></i> Voltar para Mídia
+        </a>
+
+        {{ with .Params.outlet }}
+        <p class="text-slate-400 text-xs font-bold uppercase tracking-widest mb-4">{{ . }}</p>
+        {{ end }}
+
+        <h1 class="text-3xl md:text-4xl font-bold mb-8 leading-tight">{{ .Title }}</h1>
+
+        {{ with .Params.authors }}
+        <p class="text-slate-500 text-sm italic mb-8">{{ delimit . ", " }}</p>
+        {{ end }}
+
+        <p class="text-slate-400 text-xs mb-8">{{ .Date.Format "02/01/2006" }}</p>
+
+        {{ with .Params.tags }}
+        <div class="mb-10 flex flex-wrap gap-2">
+            {{ range . }}
+            <a href="{{ $.Site.Home.RelPermalink }}tags/{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Content }}
+        <div class="prose max-w-none mb-12">
+            {{ . }}
+        </div>
+        {{ end }}
+
+        <div class="flex flex-wrap gap-4 pt-8 border-t border-slate-100">
+            {{ with .Params.link }}
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center px-5 py-2.5 bg-purple-600 text-white text-xs font-bold uppercase tracking-widest rounded-full hover:bg-purple-700 transition-all">
+                <i class="fas fa-external-link-alt mr-2"></i> Acessar matéria
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</article>
+{{ end }}

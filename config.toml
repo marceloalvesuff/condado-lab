@@ -63,9 +63,13 @@ enableEmoji = false
     url = "/leituras/"
     weight = 6
   [[menu.main]]
+    name = "Mídia"
+    url = "/midia/"
+    weight = 7
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 7
+    weight = 8
 
 [markup]
   [markup.goldmark]

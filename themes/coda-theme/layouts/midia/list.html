@@ -1,0 +1,109 @@
+{{ define "main" }}
+<section class="pt-32 pb-24">
+    <div class="max-w-6xl mx-auto px-6">
+        <h1 class="text-4xl font-bold mb-6 text-center">{{ .Title }}</h1>
+        {{ with .Content }}
+        <div class="text-xl text-slate-400 font-light mb-20 max-w-2xl mx-auto leading-relaxed text-center">
+            {{ . }}
+        </div>
+        {{ end }}
+
+        {{ $pages := .Pages.ByDate.Reverse }}
+        {{ $years := slice }}
+        {{ range $pages }}
+            {{ $y := .Date.Format "2006" }}
+            {{ if not (in $years $y) }}
+                {{ $years = $years | append $y }}
+            {{ end }}
+        {{ end }}
+
+        <!-- Mobile/tablet horizontal year navigation -->
+        <div class="lg:hidden mb-10 -mx-6 px-6 overflow-x-auto year-scroll-nav">
+            <div class="flex space-x-2 pb-2">
+                {{ range $year := $years }}
+                <a href="#year-{{ $year }}" class="flex-shrink-0 px-3 py-1.5 text-xs font-bold text-slate-400 rounded-lg hover:text-purple-600 hover:bg-purple-50 transition-all whitespace-nowrap border border-slate-100">
+                    {{ $year }}
+                </a>
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="flex gap-12">
+            <!-- Sticky sidebar year nav (desktop) -->
+            <nav id="year-nav" class="hidden lg:block w-20 flex-shrink-0">
+                <div class="sticky top-28 space-y-1">
+                    {{ range $year := $years }}
+                    <a href="#year-{{ $year }}" class="year-link block px-3 py-1.5 text-xs font-bold text-slate-300 rounded-lg hover:text-purple-600 hover:bg-purple-50 transition-all">
+                        {{ $year }}
+                    </a>
+                    {{ end }}
+                </div>
+            </nav>
+
+            <!-- Media list -->
+            <div class="flex-1 space-y-20">
+                {{ range $year := $years }}
+                <div id="year-{{ $year }}">
+                    <div class="flex items-center space-x-4 mb-8">
+                        <h2 class="inline-block px-4 py-2 bg-purple-600 text-white text-xs font-black tracking-widest uppercase rounded-full m-0">{{ $year }}</h2>
+                        <div class="flex-1 h-px bg-slate-200"></div>
+                    </div>
+                    <div class="space-y-12">
+                        {{ range $pages }}
+                        {{ if eq (.Date.Format "2006") $year }}
+                        <div class="group card-hover">
+                            {{ with .Params.outlet }}
+                            <p class="text-slate-400 text-xs font-bold uppercase tracking-widest mb-2">{{ . }}</p>
+                            {{ end }}
+                            <h3 class="text-xl font-bold mb-2">
+                                <a href="{{ .RelPermalink }}" class="hover:text-purple-600 transition-colors">{{ .Title }}</a>
+                            </h3>
+                            {{ with .Params.authors }}
+                            <p class="text-slate-500 text-sm italic mb-3">{{ delimit . ", " }}</p>
+                            {{ end }}
+                            {{ with .Params.tags }}
+                            <div class="flex flex-wrap gap-1.5 mb-3">
+                                {{ range . }}
+                                <a href="{{ $.Site.Home.RelPermalink }}tags/{{ . | urlize }}/" class="tag hover:bg-purple-200 dark:hover:bg-purple-800 transition-colors">{{ . }}</a>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                        </div>
+                        {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+(function() {
+    var links = document.querySelectorAll('.year-link');
+    var sections = document.querySelectorAll('[id^="year-"]');
+
+    function updateActive() {
+        var current = '';
+        sections.forEach(function(section) {
+            if (section.getBoundingClientRect().top <= 150) {
+                current = section.id;
+            }
+        });
+        links.forEach(function(link) {
+            if (link.getAttribute('href') === '#' + current) {
+                link.classList.add('text-purple-600', 'bg-purple-50');
+                link.classList.remove('text-slate-300');
+            } else {
+                link.classList.remove('text-purple-600', 'bg-purple-50');
+                link.classList.add('text-slate-300');
+            }
+        });
+    }
+
+    window.addEventListener('scroll', updateActive);
+    updateActive();
+})();
+</script>
+{{ end }}
