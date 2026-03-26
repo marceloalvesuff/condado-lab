@@ -2,6 +2,7 @@
 title: "Mesa-redonda de Pensares destaca fenômeno das falsas notícias"
 date: 2017-01-01
 outlet: "Pensares"
+link: "https://www.youtube.com/watch?v=I0I_F5oNuFc&ab_channel=MultiRio"
 tags: ["fake news", "desinformação", "comunicação", "pós-verdade"]
 ---
 

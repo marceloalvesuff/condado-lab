@@ -2,6 +2,7 @@
 title: "Da vanguarda do passado à agrura nas redes: como a esquerda perdeu protagonismo na comunicação política nos últimos anos"
 date: 2025-06-06
 outlet: "O Globo"
+link: "https://oglobo.globo.com/politica/noticia/2025/06/04/da-vanguarda-do-passado-a-agrura-nas-redes-como-a-esquerda-perdeu-protagonismo-na-comunicacao-politica-nos-ultimos-anos.ghtml"
 tags: ["esquerda", "comunicação política", "redes sociais", "polarização", "história"]
 ---
 

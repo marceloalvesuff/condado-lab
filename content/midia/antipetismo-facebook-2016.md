@@ -1,6 +1,7 @@
 ---
 title: "A rede do antipetismo no Facebook"
 date: 2016-10-01
+link: "http://blogs.oglobo.globo.com/na-base-dos-dados/post/rede-antipetista-no-facebook.html"
 tags: ["antipetismo", "Facebook", "redes sociais", "polarização", "PT", "extrema-direita"]
 ---
 

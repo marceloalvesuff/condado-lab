@@ -1,6 +1,7 @@
 ---
 title: "YouTube demora em média 9 meses para punir vídeos de Bolsonaro"
 date: 2022-07-01
+link: "https://tecnologia.ig.com.br/2022-07-22/youtube-demora-punir-videos-canal-bolsonaro-desinformacao.html"
 tags: ["YouTube", "moderação", "Bolsonaro", "desinformação", "plataformas"]
 ---
 

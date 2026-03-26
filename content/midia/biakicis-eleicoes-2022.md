@@ -1,6 +1,7 @@
 ---
 title: "Bia Kicis fez ao menos onze posts para contestar resultado das eleições antes de ter perfis suspensos nas redes"
 date: 2022-11-01
+link: "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2022/12/bia-kicis-fez-ao-menos-onze-posts-para-contestar-resultado-das-eleicoes-antes-de-ter-perfis-suspensos-nas-redes.ghtml"
 tags: ["Bia Kicis", "eleições", "desinformação", "redes sociais", "moderação"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Um dia após invasão, posts de bolsonaristas incentivando atos terroristas seguem no ar nas redes"
 date: 2023-01-09
+link: "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2023/01/um-dia-apos-invasao-posts-de-bolsonaristas-incentivando-atos-terroristas-seguem-no-ar-nas-redes.ghtml"
 tags: ["8 de Janeiro", "desinformação", "terrorismo", "redes sociais", "plataformas", "moderação"]
 ---
 

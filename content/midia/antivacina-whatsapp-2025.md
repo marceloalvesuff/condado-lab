@@ -1,6 +1,7 @@
 ---
 title: "A instrumentalização da ciência em grupos antivacina no WhatsApp no Brasil"
 date: 2025-01-01
+link: "https://www.youtube.com/watch?v=JCG7uGnGYNQ"
 tags: ["desinformação", "antivacina", "WhatsApp", "saúde", "ciência"]
 ---
 

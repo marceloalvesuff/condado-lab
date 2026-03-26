@@ -1,7 +1,8 @@
 ---
 title: "Brazil's far right is divided over Trump's threats"
 date: 2025-11-01
-outlet: "Bloomberg"
+outlet: "Le Monde"
+link: "https://www.lemonde.fr/en/international/article/2025/07/14/brazil-s-far-right-is-divided-over-trump-s-threats_6743359_4.html"
 tags: ["extrema-direita", "Trump", "Bolsonaro", "política internacional", "radicalização"]
 ---
 

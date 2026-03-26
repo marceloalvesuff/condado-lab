@@ -1,6 +1,7 @@
 ---
 title: "Força-tarefa de pesquisadores alerta para combate à desinformação às vésperas de 'maratona eleitoral' em 2024"
 date: 2023-12-01
+link: "https://oglobo.globo.com/mundo/noticia/2023/11/27/forca-tarefa-de-pesquisadores-alerta-para-combate-a-desinformacao-as-vesperas-de-maratona-eleitoral-em-2024.ghtml"
 tags: ["desinformação", "eleições", "pesquisa", "plataformas", "democracia"]
 ---
 

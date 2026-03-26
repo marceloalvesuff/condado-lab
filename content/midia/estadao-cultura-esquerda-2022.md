@@ -2,6 +2,7 @@
 title: "Cultura vira trincheira da esquerda por interação em rede social, diz estudo"
 date: 2022-05-29
 outlet: "Estadão"
+link: "https://www.estadao.com.br/politica/timeline-eleicoes-2022/cultura-vira-trincheira-da-esquerda-por-interacao-em-rede-social-diz-estudo/"
 tags: ["esquerda", "cultura", "redes sociais", "polarização", "Twitter"]
 ---
 

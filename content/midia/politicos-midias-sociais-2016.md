@@ -1,6 +1,7 @@
 ---
 title: "Quem são os políticos que lideram nas mídias sociais?"
 date: 2016-10-01
+link: "http://blogs.oglobo.globo.com/na-base-dos-dados/post/quem-sao-os-politicos-que-lideram-nas-midias-sociais.html"
 tags: ["políticos", "mídias sociais", "engajamento", "eleições", "redes sociais"]
 ---
 

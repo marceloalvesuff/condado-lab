@@ -1,6 +1,7 @@
 ---
 title: "Infográfico mostra engajamento dos candidatos à prefeitura do Rio nas redes sociais"
 date: 2016-10-01
+link: "https://oglobo.globo.com/brasil/infografico-mostra-engajamento-dos-candidatos-prefeitura-do-rio-nas-redes-sociais-20150189"
 tags: ["eleições", "Rio de Janeiro", "redes sociais", "engajamento", "candidatos"]
 ---
 

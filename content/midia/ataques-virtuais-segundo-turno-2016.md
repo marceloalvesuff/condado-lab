@@ -1,6 +1,7 @@
 ---
 title: "Ataques virtuais no segundo turno"
 date: 2016-10-01
+link: "https://odia.ig.com.br/rio-de-janeiro/2016-10-09/ataques-virtuais-no-segundo-turno.html"
 tags: ["eleições", "redes sociais", "ataques virtuais", "segundo turno", "Rio de Janeiro"]
 ---
 

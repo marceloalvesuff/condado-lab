@@ -1,6 +1,7 @@
 ---
 title: "Entenda o processo movido pelo Departamento de Justiça dos EUA contra o Google"
 date: 2023-09-01
+link: "https://desinformante.com.br/processo-eua-goole/"
 tags: ["Google", "antitruste", "plataformas", "regulação", "EUA"]
 ---
 

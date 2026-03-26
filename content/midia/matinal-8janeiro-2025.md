@@ -2,6 +2,7 @@
 title: "Os arquivos do 8 de Janeiro: registrar para não esquecer"
 date: 2025-11-01
 outlet: "Matinal Jornalismo"
+link: "https://www.youtube.com/watch?v=GiXH8mAfY1U"
 tags: ["8 de Janeiro", "acervo digital", "memória", "desinformação"]
 ---
 
