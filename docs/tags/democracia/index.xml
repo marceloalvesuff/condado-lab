@@ -1,33 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Democracia on Condado Lab</title>
-    <link>https://condadolab.org/tags/democracia/</link>
-    <description>Recent content in Democracia on Condado Lab</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condadolab.org/tags/democracia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estudos de Plataformas Digitais</title>
-      <link>https://condadolab.org/projects/estudos-plataformas/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
-      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Professor Marcelo Alves debate sobre desinformação com a Presidente do TSE, Carmen Lúcia</title>
-      <link>https://condadolab.org/blog/debate-tse-carmen-lucia/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/blog/debate-tse-carmen-lucia/</guid>
-      <description>&lt;p&gt;O professor do Departamento de Comunicação da PUC-Rio, Marcelo Alves, integrou a comitiva da sociedade civil em agenda com a presidente do Tribunal Superior Eleitoral, Ministra Carmen Lúcia. A reunião teve o objetivo de debater o resultado de pesquisas sobre o enfrentamento à desinformação e os riscos à integridade eleitoral em 2024. Participaram da agenda o Instituto Democracia em Xeque, a Geledés, a Conectas e a Rede Liberdade.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://condadolab.org/images/debate-tse-carmen-lucia.png&#34; alt=&#34;Debate TSE Carmen Lúcia&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Relatório analisa aprendizados e limites do combate à desinformação nas eleições brasileiras</title>
-      <link>https://condadolab.org/blog/relatorio-desinformacao-eleicoes/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/blog/relatorio-desinformacao-eleicoes/</guid>
-      <description>&lt;p&gt;Durante o evento internacional &lt;em&gt;Disinfo and Elections in the Global Majority&lt;/em&gt;, realizado na PUC-Rio, pesquisadores apresentaram um relatório que analisa as experiências brasileiras de enfrentamento à desinformação nas eleições de 2022 e discute os aprendizados que esse processo pode oferecer a outros países. O estudo examina as estratégias adotadas no país para proteger o processo democrático, avaliando avanços institucionais, articulações entre plataformas, sociedade civil e sistema de justiça, além dos limites dessas iniciativas quando observadas em perspectiva internacional.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Democracia on Condado Lab</title><link>https://condadolab.org/tags/democracia/</link><description>Recent content in Democracia on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/democracia/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
+&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
+&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
+&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
+&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Condado Lab inaugura exposição no Centro de Artes UFF sobre o Acervo do 8 de Janeiro</title><link>https://condadolab.org/blog/acervo-8-janeiro/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/acervo-8-janeiro/</guid><description>&lt;p&gt;Imagens e vídeos feitos pelos próprios participantes dos atos de 8 de janeiro de 2023, muitos deles posteriormente apagados das redes, ganham agora sua primeira exibição pública. O material, que circulou nas plataformas digitais entre novembro de 2022 e fevereiro de 2023, é o ponto de partida de &amp;ldquo;Subterrâneos a céu aberto&amp;rdquo;, exposição que será inaugurada no dia 31 de março, no Centro de Artes da Universidade Federal Fluminense (UFF), em Niterói. A mostra transforma registros digitais em uma experiência imersiva, propondo reflexão e debate sobre a preservação das instituições democráticas.&lt;/p&gt;</description></item><item><title>Professor Marcelo Alves debate sobre desinformação com a Presidente do TSE, Carmen Lúcia</title><link>https://condadolab.org/blog/debate-tse-carmen-lucia/</link><pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/debate-tse-carmen-lucia/</guid><description>&lt;p&gt;O professor do Departamento de Comunicação da PUC-Rio, Marcelo Alves, integrou a comitiva da sociedade civil em agenda com a presidente do Tribunal Superior Eleitoral, Ministra Carmen Lúcia. A reunião teve o objetivo de debater o resultado de pesquisas sobre o enfrentamento à desinformação e os riscos à integridade eleitoral em 2024. Participaram da agenda o Instituto Democracia em Xeque, a Geledés, a Conectas e a Rede Liberdade.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://condadolab.org/images/debate-tse-carmen-lucia.png" alt="Debate TSE Carmen Lúcia"&gt;&lt;/p&gt;</description></item><item><title>Relatório analisa aprendizados e limites do combate à desinformação nas eleições brasileiras</title><link>https://condadolab.org/blog/relatorio-desinformacao-eleicoes/</link><pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/relatorio-desinformacao-eleicoes/</guid><description>&lt;p&gt;Durante o evento internacional &lt;em&gt;Disinfo and Elections in the Global Majority&lt;/em&gt;, realizado na PUC-Rio, pesquisadores apresentaram um relatório que analisa as experiências brasileiras de enfrentamento à desinformação nas eleições de 2022 e discute os aprendizados que esse processo pode oferecer a outros países. O estudo examina as estratégias adotadas no país para proteger o processo democrático, avaliando avanços institucionais, articulações entre plataformas, sociedade civil e sistema de justiça, além dos limites dessas iniciativas quando observadas em perspectiva internacional.&lt;/p&gt;</description></item></channel></rss>
