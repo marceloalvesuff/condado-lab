@@ -2,6 +2,7 @@
 title: "Combate à desinformação e bibliotecas de anúncios — Encontros na Redação"
 date: 2025-05-07
 outlet: "O Globo / Academia Infoglobo"
+link: "https://www.com.puc-rio.br/2025/05/07/professor-marcelo-alves-ministra-palestra-na-academia-infoglobo/"
 tags: ["desinformação", "monetização", "plataformas", "jornalismo"]
 ---
 

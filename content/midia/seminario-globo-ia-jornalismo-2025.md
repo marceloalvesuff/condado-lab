@@ -2,6 +2,7 @@
 title: "No Seminário Globo/DCOM, o uso da IA na produção jornalística"
 date: 2025-01-01
 outlet: "Seminário Globo / DCOM"
+link: "https://www.com.puc-rio.br/2025/10/07/no-seminario-globo-dcom-o-uso-da-ia-na-producao-jornalistica/"
 tags: ["inteligência artificial", "jornalismo", "plataformas", "comunicação"]
 ---
 

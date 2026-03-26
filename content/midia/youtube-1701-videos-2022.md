@@ -1,6 +1,7 @@
 ---
 title: "YouTube tem no ar ao menos 1.701 vídeos com ataques ao sistema eleitoral, diz estudo"
 date: 2022-07-01
+link: "https://www.brasil247.com/midia/estudo-aponta-que-youtube-mantem-pelo-menos-1-701-videos-com-ataques-ao-sistema-eleitoral-brasileiro"
 tags: ["YouTube", "desinformação", "urna eletrônica", "eleições", "plataformas", "moderação"]
 ---
 

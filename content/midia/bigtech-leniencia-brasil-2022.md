@@ -1,6 +1,7 @@
 ---
 title: "A leniência das Big Techs no Brasil"
 date: 2022-07-01
+link: "https://www.abap.com.br/a-leniencia-das-big-techs-no-brasil/"
 tags: ["big tech", "regulação", "desinformação", "plataformas", "Brasil"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Ataques às urnas e ao Judiciário continuam no ar e nas redes sociais"
 date: 2023-02-01
+link: "https://www.diariodocentrodomundo.com.br/redes-sociais-ataques-as-urnas-e-ao-judiciario-continuam-no-ar-aponta-monitoramento/"
 tags: ["desinformação", "urna eletrônica", "judiciário", "redes sociais", "plataformas", "moderação"]
 ---
 

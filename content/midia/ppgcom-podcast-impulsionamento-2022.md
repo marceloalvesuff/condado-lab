@@ -2,6 +2,7 @@
 title: "Podcast do PPGCOM/PUC-Rio discute impulsionamento digital na propaganda eleitoral"
 date: 2022-01-01
 outlet: "PPGCOM / PUC-Rio"
+link: "https://revistaalceu.com.puc-rio.br/alceu/article/view/373/"
 tags: ["eleições", "propaganda digital", "impulsionamento", "podcast", "comunicação"]
 ---
 
