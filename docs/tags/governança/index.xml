@@ -1,12 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Governança on Condado Lab</title><link>https://condadolab.org/tags/governan%C3%A7a/</link><description>Recent content in Governança on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/governan%C3%A7a/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
-&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
-&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
-&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
-&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Lorrana Melo Cordeiro</title><link>https://condadolab.org/people/lorrana-cordeiro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://condadolab.org/people/lorrana-cordeiro/</guid><description>&lt;p&gt;Bolsista FAPERJ Mestrado Nota 10, com pesquisa em governança de plataformas digitais e comunicação de jogos de azar online. Integra a equipe editorial da Revista Alceu e a Comissão Discente do PPGCOM da PUC-Rio. Possui experiência nas áreas de Comunicação, Tecnologia e Artes Visuais.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dissertação:&lt;/strong&gt; A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Palavras-chave:&lt;/strong&gt; Jogos de Azar; Governança; Plataformas Digitais; Publicidade Digital; Regulação&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governança on Condado Lab</title>
+    <link>https://condadolab.org/tags/governan%C3%A7a/</link>
+    <description>Recent content in Governança on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/governan%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudos de Plataformas Digitais</title>
+      <link>https://condadolab.org/projects/estudos-plataformas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
+      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lorrana Melo Cordeiro</title>
+      <link>https://condadolab.org/people/lorrana-cordeiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/people/lorrana-cordeiro/</guid>
+      <description>&lt;p&gt;Bolsista FAPERJ Mestrado Nota 10, com pesquisa em governança de plataformas digitais e comunicação de jogos de azar online. Integra a equipe editorial da Revista Alceu e a Comissão Discente do PPGCOM da PUC-Rio. Possui experiência nas áreas de Comunicação, Tecnologia e Artes Visuais.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dissertação:&lt;/strong&gt; A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Palavras-chave:&lt;/strong&gt; Jogos de Azar; Governança; Plataformas Digitais; Publicidade Digital; Regulação&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

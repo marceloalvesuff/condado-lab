@@ -1,2 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transparência on Condado Lab</title><link>https://condadolab.org/tags/transpar%C3%AAncia/</link><description>Recent content in Transparência on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/transpar%C3%AAncia/index.xml" rel="self" type="application/rss+xml"/><item><title>Moderação de conteúdo no YouTube: análise da remoção de vídeos da eleição de 2022 ao atentado golpista de 08 de janeiro</title><link>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</guid><description>&lt;p&gt;O artigo rastreia as práticas de moderação e remoção de conteúdo do YouTube entre a eleição de 2022 e o atentado golpista de 8 de janeiro de 2023. O YouTube removeu mais de 10 mil vídeos e 2.500 canais por violação de políticas eleitorais brasileiras, mas a maioria das remoções não apresentou justificativa clara. Canais como TV Piauí e Patriota em Ação apagaram ou tornaram privados mais de 99% de seus vídeos.&lt;/p&gt;</description></item><item><title>Artigo no The Conversation Brasil sobre moderação no YouTube</title><link>https://condadolab.org/blog/the-conversation-youtube/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/the-conversation-youtube/</guid><description>&lt;p&gt;Marcelo Alves dos Santos Junior publicou o artigo &amp;ldquo;Déficit de transparência: uma análise sobre a remoção de vídeos políticos no YouTube&amp;rdquo; no The Conversation Brasil.&lt;/p&gt;
-&lt;p&gt;O texto apresenta para o público geral os resultados da pesquisa sobre práticas de moderação e remoção de conteúdo político no YouTube. O artigo trata dos déficits de transparência algorítmica e institucional da plataforma na remoção de vídeos entre a eleição de 2022 e o atentado de 8 de janeiro de 2023.&lt;/p&gt;</description></item><item><title>YouTube vai reduzir transparência e dificultar pesquisas sobre seu sistema de recomendação de vídeos</title><link>https://condadolab.org/midia/youtube-transparencia-recomendacao-2023/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/youtube-transparencia-recomendacao-2023/</guid><description>&lt;p&gt;Entrevista com Marcelo Alves sobre a decisão do YouTube de encerrar o acesso à sua API de dados para pesquisadores, reduzindo a transparência sobre o sistema de recomendação e dificultando estudos acadêmicos sobre os algoritmos da plataforma.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transparência on Condado Lab</title>
+    <link>https://condadolab.org/tags/transpar%C3%AAncia/</link>
+    <description>Recent content in Transparência on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/transpar%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moderação de conteúdo no YouTube: análise da remoção de vídeos da eleição de 2022 ao atentado golpista de 08 de janeiro</title>
+      <link>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2025-intercom-moderacao-youtube/</guid>
+      <description>&lt;p&gt;O artigo rastreia as práticas de moderação e remoção de conteúdo do YouTube entre a eleição de 2022 e o atentado golpista de 8 de janeiro de 2023. O YouTube removeu mais de 10 mil vídeos e 2.500 canais por violação de políticas eleitorais brasileiras, mas a maioria das remoções não apresentou justificativa clara. Canais como TV Piauí e Patriota em Ação apagaram ou tornaram privados mais de 99% de seus vídeos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artigo no The Conversation Brasil sobre moderação no YouTube</title>
+      <link>https://condadolab.org/blog/the-conversation-youtube/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/blog/the-conversation-youtube/</guid>
+      <description>&lt;p&gt;Marcelo Alves dos Santos Junior publicou o artigo &amp;ldquo;Déficit de transparência: uma análise sobre a remoção de vídeos políticos no YouTube&amp;rdquo; no The Conversation Brasil.&lt;/p&gt;&#xA;&lt;p&gt;O texto apresenta para o público geral os resultados da pesquisa sobre práticas de moderação e remoção de conteúdo político no YouTube. O artigo trata dos déficits de transparência algorítmica e institucional da plataforma na remoção de vídeos entre a eleição de 2022 e o atentado de 8 de janeiro de 2023.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YouTube vai reduzir transparência e dificultar pesquisas sobre seu sistema de recomendação de vídeos</title>
+      <link>https://condadolab.org/midia/youtube-transparencia-recomendacao-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/youtube-transparencia-recomendacao-2023/</guid>
+      <description>&lt;p&gt;Entrevista com Marcelo Alves sobre a decisão do YouTube de encerrar o acesso à sua API de dados para pesquisadores, reduzindo a transparência sobre o sistema de recomendação e dificultando estudos acadêmicos sobre os algoritmos da plataforma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
