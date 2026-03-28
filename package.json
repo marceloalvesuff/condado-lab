@@ -1,0 +1,10 @@
+{
+  "name": "condado-lab",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i themes/coda-theme/static/css/tailwind-input.css -o themes/coda-theme/static/css/tailwind.min.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3"
+  }
+}
