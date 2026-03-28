@@ -5,7 +5,7 @@ role: "student"
 position: "Mestre"
 weight: 20
 status: "finished"
-lattes: "https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1E0BB22B128289D1C234C0473104E855#"
+lattes: "https://lattes.cnpq.br/8903929240496333"
 photo: "images/gabriela-pavao.jpg"
 tags: ["desinformação", "moderação", "regulação", "plataformas", "política"]
 ---
