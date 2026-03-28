@@ -1,5 +1,6 @@
 ---
 title: "O posicionamento do Estado de Minas na eleição presidencial de 2010"
+description: "O artigo investiga a cobertura do jornal Estado de Minas durante a eleição presidencial de 2010, identificando pseudo-eventos organizados por estrategis..."
 date: 2012-01-01
 authors: ["Luiz Ademir de Oliveira", "Marcelo Alves dos Santos Junior"]
 venue: "Revista Científica da Faminas"

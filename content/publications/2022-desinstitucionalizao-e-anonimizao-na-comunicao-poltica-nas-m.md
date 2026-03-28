@@ -1,5 +1,6 @@
 ---
 title: "Desinstitucionalização e anonimização na comunicação política nas mídias sociais"
+description: "O artigo analisa os processos de desinstitucionalização e anonimização na comunicação política nas mídias sociais, investigando como atores políticos op..."
 date: 2022-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Interin"

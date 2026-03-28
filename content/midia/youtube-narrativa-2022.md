@@ -1,5 +1,6 @@
 ---
 title: "Pesquisa: YouTube usado para definir narrativa"
+description: "Entrevista com Marcelo Alves sobre pesquisa que mostrou como o YouTube foi utilizado como plataforma central para a definição de narrativas políticas no..."
 date: 2022-07-01
 tags: ["YouTube", "narrativa", "eleições", "plataformas", "desinformação"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Plataformização da comunicação política"
+description: "A plataformização da comunicação política introduz um modelo de governança algorítmica da circulação de informações que afeta os sistemas midiáticos nac..."
 date: 2020-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "E-Compós"

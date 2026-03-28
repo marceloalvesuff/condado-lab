@@ -1,5 +1,6 @@
 ---
 title: "The Instrumentalization of Science in Anti-Vaccine Groups on WhatsApp in Brazil"
+description: "O artigo investiga como argumentos científicos são instrumentalizados por grupos antivacina no WhatsApp no Brasil. A análise mostra que, embora apenas u..."
 date: 2025-03-01
 authors: ["Lídia Raquel Herculano Maia", "Luisa Massarani", "Thaiane Oliveira", "Marcelo Alves dos Santos Junior", "Francisco Jadson Silva Maia"]
 venue: "Canadian Journal of Communication"

@@ -1,5 +1,6 @@
 ---
 title: "Mesa-redonda de Pensares destaca fenômeno das falsas notícias"
+description: "Entrevista com Marcelo Alves em mesa-redonda do Pensares sobre o fenômeno das falsas notícias e seus impactos na comunicação política, em contexto de cr..."
 date: 2017-01-01
 outlet: "Pensares"
 link: "https://www.youtube.com/watch?v=I0I_F5oNuFc&ab_channel=MultiRio"

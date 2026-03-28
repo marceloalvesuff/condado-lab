@@ -1,5 +1,6 @@
 ---
 title: "Coxinhas e petralhas: o fandom político como chave de análise da audiência criativa nas mídias sociais"
+description: "As mídias sociais são espaços comunicativos apropriados por audiências para expressão política, performance de identidades e construção de comunidades i..."
 date: 2016-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista Geminis"

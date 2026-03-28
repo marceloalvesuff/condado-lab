@@ -1,5 +1,6 @@
 ---
 title: "Propaganda eleitoral digital no Brasil: estratégias de segmentação de candidaturas à presidência em 2018 no Facebook"
+description: "O artigo examina as transformações da comunicação eleitoral brasileira em 2018, analisando os impactos da autorização para impulsionamento irrestrito de..."
 date: 2023-01-01
 authors: ["Marcelo Alves dos Santos Junior", "Camila Quesada Tavares"]
 venue: "Revista Eco-Pós"

@@ -1,5 +1,6 @@
 ---
 title: "A rede do antipetismo no Facebook"
+description: "Entrevista com Marcelo Alves sobre a rede do antipetismo no Facebook, analisando as características, o alcance e as dinâmicas de engajamento das comunid..."
 date: 2016-10-01
 outlet: "O Globo"
 link: "http://blogs.oglobo.globo.com/na-base-dos-dados/post/rede-antipetista-no-facebook.html"

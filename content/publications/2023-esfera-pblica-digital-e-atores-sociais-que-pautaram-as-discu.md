@@ -1,5 +1,6 @@
 ---
 title: "Esfera pública digital e atores sociais que pautaram as discussões sobre vacinas no Instagram e Facebook no Brasil durante a pandemia de COVID-19 (2020-2021)"
+description: "O artigo identifica e categoriza as vozes que pautaram o debate sobre vacinas na esfera pública digital brasileira durante os dois primeiros anos da pan..."
 date: 2023-01-01
 authors: ["Eleonora de Magalhães", "Marcelo Alves dos Santos Junior", "Vanessa Oliveira Fagundes", "Thaiane Moreira Oliveira", "Luisa Massarani"]
 venue: "Observatorio (OBS*)"

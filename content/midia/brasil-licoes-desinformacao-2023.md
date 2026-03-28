@@ -1,5 +1,6 @@
 ---
 title: "O que o Brasil pode ensinar sobre o combate à desinformação?"
+description: "Entrevista com Marcelo Alves sobre as lições que o Brasil pode oferecer ao mundo no combate à desinformação, dada sua experiência com eleições altamente..."
 date: 2023-01-01
 outlet: "Desinformante"
 link: "https://desinformante.com.br/brasil-combate-desinformacao"

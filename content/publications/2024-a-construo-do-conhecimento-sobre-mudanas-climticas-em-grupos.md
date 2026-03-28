@@ -1,5 +1,6 @@
 ---
 title: "A construção do conhecimento sobre mudanças climáticas em grupos negacionistas do Telegram no Brasil"
+description: "O artigo examina o conteúdo de mensagens negacionistas no Telegram sobre mudanças climáticas, com características interdisciplinares (socioambientais e ..."
 date: 2024-01-01
 authors: ["Vanessa de Cassia Witzki Colatusso", "Luisa Massarani", "Myrian Regina Del Vecchio de Lima", "Marcelo Alves dos Santos Junior", "Thaiane Moreira de Oliveira"]
 venue: "Observatorio (OBS*)"

@@ -1,5 +1,6 @@
 ---
 title: "Game of Spoilers: disputas no consumo da ficção seriada televisiva"
+description: "Versão em português do estudo sobre spoilers. Examina a resposta no Twitter aos spoilers do episódio \"Mother's Mercy\" da quinta temporada de Game of Thr..."
 date: 2018-01-01
 authors: ["Mayka Castellano", "Melina Meimaridis", "Marcelo Alves dos Santos Junior"]
 venue: "Revista Comunicação Midiática"

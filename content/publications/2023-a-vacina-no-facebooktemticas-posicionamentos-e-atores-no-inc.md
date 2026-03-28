@@ -1,5 +1,6 @@
 ---
 title: "A vacina no Facebook: temáticas, posicionamentos e atores no início da imunização contra a Covid-19 no Brasil"
+description: "O artigo analisa perfis organizacionais de publicações, temáticas, posicionamentos e argumentos sobre vacinação mobilizados no Facebook durante o início..."
 date: 2023-01-01
 authors: ["Charlene Carvalho Soares", "Luisa Massarani", "Marcelo Alves dos Santos Junior", "Thaiane Oliveira", "Lídia Raquel Herculano Maia", "Geilson Fernandes de Oliveira"]
 venue: "Lumina"

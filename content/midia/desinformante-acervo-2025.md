@@ -1,5 +1,6 @@
 ---
 title: "Memória da radicalização: acervo registra caminho até o 8 de janeiro"
+description: "Glenda Dantas entrevista Marcelo Alves sobre o Acervo Digital 8 de Janeiro, projeto coordenado pelo Condado Lab (PUC-Rio) em parceria com o INCT-DSI e o..."
 date: 2025-11-04
 outlet: "Desinformante"
 authors: ["Glenda Dantas"]

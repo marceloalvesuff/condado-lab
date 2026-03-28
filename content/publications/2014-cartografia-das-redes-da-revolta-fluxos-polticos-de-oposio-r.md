@@ -1,5 +1,6 @@
 ---
 title: "Cartografia das Redes da Revolta: fluxos políticos de oposição radical no Facebook"
+description: "O artigo investiga redes que disseminam ódio e hostilidade no Facebook por meio da cartografia de redes complexas geradas por métodos combinados de mine..."
 date: 2014-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista Contemporânea (UERJ)"

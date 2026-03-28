@@ -1,5 +1,6 @@
 ---
 title: "Game of Spoilers: Adapted Works and Fan Consumption Disputes in Brazil"
+description: "The paper examines spoilers through a case study of 207 tweets generated from conversations on Twitter on June 14, 2015, concerning a specific episode o..."
 date: 2017-01-01
 authors: ["Mayka Castellano", "Melina Meimaridis", "Marcelo Alves dos Santos Junior"]
 venue: "Intensities: Journal of Cult Media"

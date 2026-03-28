@@ -1,5 +1,6 @@
 ---
 title: "Redes sociais foram motor em golpismo de Bolsonaro e devem manter papel, dizem especialistas"
+description: "Marcelo Alves é citado em reportagem da Folhapress analisando como as redes sociais foram centrais no golpismo de Bolsonaro e devem continuar sendo usad..."
 date: 2025-10-06
 outlet: "Folha de S.Paulo"
 link: "https://www.em.com.br/politica/2025/10/7263717-redes-sociais-foram-motor-em-golpismo-de-bolsonaro-e-devem-manter-papel.html"

@@ -1,5 +1,6 @@
 ---
 title: "Vacinas e redes sociais: o debate em torno das vacinas no Instagram e Facebook durante a pandemia de COVID-19 (2020-2021)"
+description: "A coleta de dados foi realizada por meio da interface gráfica CrowdTangle, utilizando termos de busca em português relacionados às vacinas aprovadas par..."
 date: 2022-01-01
 authors: ["Eleonora de Magalhães Carvalho", "Marcelo Alves dos Santos Junior", "Luiz Felipe Fernandes Neves", "Thaiane Moreira de Oliveira", "Luisa Massarani", "Marilia Sá Carvalho"]
 venue: "Cadernos de Saúde Pública"

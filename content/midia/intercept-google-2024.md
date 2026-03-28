@@ -1,5 +1,6 @@
 ---
 title: "Google sustenta sites de extrema direita que promovem desinformação, revela estudo"
+description: "Laís Martins reporta pesquisa de Marcelo Alves e Bruno Nichols (UFF) que analisou 55 sites hiperpartidários de extrema direita no Brasil e identificou q..."
 date: 2024-06-18
 outlet: "The Intercept Brasil"
 authors: ["Laís Martins"]

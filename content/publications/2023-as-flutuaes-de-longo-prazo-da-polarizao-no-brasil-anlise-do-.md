@@ -1,5 +1,6 @@
 ---
 title: "As flutuações de longo prazo da polarização no Brasil: análise do compartilhamento de informações políticas entre 2011 e 2019"
+description: "O artigo analisa as flutuações de longo prazo da polarização no Brasil por meio do compartilhamento de informações políticas no Facebook entre 2011 e 20..."
 date: 2023-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Dados - Revista de Ciências Sociais"

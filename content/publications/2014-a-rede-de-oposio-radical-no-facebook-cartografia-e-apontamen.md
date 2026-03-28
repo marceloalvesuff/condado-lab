@@ -1,5 +1,6 @@
 ---
 title: "A rede de oposição radical no Facebook: cartografia e apontamentos sobre os haters políticos"
+description: "O artigo mapeia e analisa empiricamente a Rede de Oposição Radical (ROR) no Facebook. Foca-se na formação de grupos nas mídias sociais que reivindicaram..."
 date: 2014-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista de Estudos da Comunicação"

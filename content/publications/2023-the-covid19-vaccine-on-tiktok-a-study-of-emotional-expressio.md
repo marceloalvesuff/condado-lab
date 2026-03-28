@@ -1,5 +1,6 @@
 ---
 title: "The Covid-19 Vaccine on TikTok: A Study of Emotional Expression in the Brazilian Context"
+description: "The objective was to analyze the emotions expressed regarding the Covid-19 vaccine in content published in Brazilian Portuguese on TikTok. The data set ..."
 date: 2023-01-01
 authors: ["Geilson Fernandes-de-Oliveira", "Luisa Massarani", "Thaiane Moreira Oliveira", "Graziele Scalfi", "Marcelo Alves dos Santos Junior"]
 venue: "Evolutionary Studies in Imaginative Culture"

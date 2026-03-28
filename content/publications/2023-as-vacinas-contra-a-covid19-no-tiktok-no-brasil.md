@@ -1,5 +1,6 @@
 ---
 title: "As vacinas contra a Covid-19 no TikTok no Brasil"
+description: "O artigo estuda a produção de vídeos sobre vacinas no TikTok no Brasil. Por meio de hashtags associadas a vacinas, 612 vídeos abordando questões de vaci..."
 date: 2023-01-01
 authors: ["Ben-Hur Bernard Pereira Costa", "Lídia Raquel Herculano Maia", "Marcelo Alves dos Santos Junior", "Thaiane Moreira Oliveira", "Luisa Massarani"]
 venue: "Cuadernos.info"

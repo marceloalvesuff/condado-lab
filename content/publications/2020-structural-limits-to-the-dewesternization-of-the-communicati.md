@@ -1,5 +1,6 @@
 ---
 title: "Structural Limits to the De-Westernization of the Communication Field: The Editorial Board in Clarivate's JCR System"
+description: "Since the 2000s, calls for de-Westernizing international communication research have been common, but their practical result has been very modest. This ..."
 date: 2020-01-01
 authors: ["Sofia Oliveira Firmo de Albuquerque", "Afonso de Albuquerque", "Thaiane Moreira de Oliveira", "Marcelo Alves dos Santos Junior"]
 venue: "Communication Culture & Critique"

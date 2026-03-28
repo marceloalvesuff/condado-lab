@@ -1,5 +1,6 @@
 ---
 title: "Redes de campanha na eleição do Rio de Janeiro em 2016"
+description: "O artigo analisa as redes de campanha na eleição municipal do Rio de Janeiro em 2016, utilizando métodos de análise de redes sociais para mapear as estr..."
 date: 2017-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista Compolítica"

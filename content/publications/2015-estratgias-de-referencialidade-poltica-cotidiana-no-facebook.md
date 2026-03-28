@@ -1,5 +1,6 @@
 ---
 title: "Estratégias de referencialidade à política cotidiana no Facebook"
+description: "O artigo discute estratégias de referencialidade à política cotidiana no Facebook, analisando como usuários se apropriam das mídias sociais para express..."
 date: 2015-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista Eletrônica CoMtempo"

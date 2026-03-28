@@ -1,5 +1,6 @@
 ---
 title: "Campanha não oficial? A rede antipetista na eleição de 2014"
+description: "O estudo investiga articulações entre agentes de campanha não oficial contra Dilma Rousseff e o PT no Facebook em 2014, argumentando que as mídias socia..."
 date: 2017-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista Fronteiras"

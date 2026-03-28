@@ -1,5 +1,6 @@
 ---
 title: "O ciberativismo no Brasil"
+description: "O artigo discute o ciberativismo no Brasil, analisando as Jornadas de Junho de 2013 e manifestações subsequentes. Examina a Blogosfera Progressista e a ..."
 date: 2015-01-01
 authors: ["Afonso Albuquerque", "Eleonora Magalhães", "Marcelo Alves dos Santos Junior"]
 venue: "Cadernos Adenauer"

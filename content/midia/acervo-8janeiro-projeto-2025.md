@@ -1,5 +1,6 @@
 ---
 title: "Projeto reúne 1 milhão de postagens sobre ataques à democracia de 8 de Janeiro"
+description: "Reportagem sobre o projeto Acervo Digital 8 de Janeiro. Marcelo Alves discute a metodologia e o impacto do acervo que documenta as postagens relacionada..."
 date: 2025-10-28
 outlet: "Rádio UFRJ"
 link: "https://radio.ufrj.br/programas/radio-ufrj-informacao-conhecimento/68415222"

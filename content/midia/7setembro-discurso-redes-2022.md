@@ -1,5 +1,6 @@
 ---
 title: "Convocação para o 7 de Setembro ganha novo discurso nas redes e cresce na última semana"
+description: "Entrevista com Marcelo Alves sobre o crescimento da convocação para as manifestações de 7 de Setembro nas redes sociais — com um novo discurso eleitoral..."
 date: 2022-09-01
 outlet: "O Globo"
 link: "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2022/09/convocacao-para-o-7-de-setembro-ganha-novo-discurso-nas-redes-e-cresce-na-ultima-semana.ghtml"

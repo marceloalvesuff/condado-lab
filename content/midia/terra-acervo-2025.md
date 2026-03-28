@@ -1,5 +1,6 @@
 ---
 title: "PUC-Rio abre acervo com mais de um milhão de postagens relacionadas ao 8 de Janeiro"
+description: "Matéria sobre a abertura pública do Acervo Digital 8 de Janeiro, desenvolvido pelo Condado Lab. Marcelo Alves é citado como coordenador do projeto e exp..."
 date: 2025-10-26
 outlet: "Terra / Estadão Conteúdo"
 authors: ["Estadão Conteúdo"]

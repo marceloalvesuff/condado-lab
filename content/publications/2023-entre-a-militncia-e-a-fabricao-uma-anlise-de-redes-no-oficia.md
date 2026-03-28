@@ -1,5 +1,6 @@
 ---
 title: "Entre a militância e a fabricação: uma análise de redes não oficiais de apoio a Bolsonaro e Moro"
+description: "O artigo analisa redes não oficiais de apoio a Bolsonaro e Moro nas mídias sociais, investigando a linha tênue entre militância orgânica e fabricação co..."
 date: 2023-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Culturas Midiáticas"

@@ -1,5 +1,6 @@
 ---
 title: "The COVID-19 vaccine on Facebook: A study of emotions expressed by the Brazilian public"
+description: "The objective was to identify and reflect on the emotions evoked in the Brazilian public with respect to the COVID-19 vaccine during 2020 and 2021 on Fa..."
 date: 2023-01-01
 authors: ["Geilson Fernandes-de-Oliveira", "Luisa Massarani", "Thaiane Oliveira", "Graziele Scalfi", "Marcelo Alves dos Santos Junior"]
 venue: "Comunicar"

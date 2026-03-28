@@ -5,6 +5,7 @@
     "build:css": "tailwindcss -i themes/coda-theme/static/css/tailwind-input.css -o themes/coda-theme/static/css/tailwind.min.css --minify"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0",
     "tailwindcss": "^3"
   }
 }

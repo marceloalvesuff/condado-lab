@@ -1,5 +1,6 @@
 ---
 title: "Bridging semantic and social network analyses: the case of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter"
+description: "The article bridges semantic and social network analyses through a case study of the hashtag precisamosfalarsobreaborto (we need to talk about abortion)..."
 date: 2017-01-01
 authors: ["Diógenes Lycarião Barreto de Sousa", "Marcelo Alves dos Santos Junior"]
 venue: "Information, Communication & Society"

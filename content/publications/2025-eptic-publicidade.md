@@ -1,5 +1,6 @@
 ---
 title: "Funções estruturantes da publicidade plataformizada no ecossistema da desinformação"
+description: "O artigo propõe um framework teórico sobre o papel da publicidade programática no ecossistema da desinformação. A análise identifica três funções das in..."
 date: 2025-05-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Eptic On-Line (UFS)"

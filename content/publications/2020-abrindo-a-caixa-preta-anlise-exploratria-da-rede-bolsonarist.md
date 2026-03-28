@@ -1,5 +1,6 @@
 ---
 title: "Abrindo a caixa preta: análise exploratória da rede bolsonarista no WhatsApp"
+description: "A vitória de Jair Bolsonaro nas eleições de 2018 foi marcada por diversos desafios na perspectiva da comunicação política. Com tempo de televisão limita..."
 date: 2020-01-01
 authors: ["Victor Piaia", "Marcelo Alves dos Santos Junior"]
 venue: "Intercom"

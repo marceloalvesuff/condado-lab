@@ -1,5 +1,6 @@
 ---
 title: "Perfis mais à direita superam em quatro vezes total de contas mais à esquerda suspensas em rede social"
+description: "Entrevista com Marcelo Alves sobre pesquisa que mostrou que perfis de direita suspensos em redes sociais superam em quatro vezes o total de contas de es..."
 date: 2020-01-01
 outlet: "Folha de S.Paulo"
 link: "https://www1.folha.uol.com.br/poder/2020/07/perfis-mais-a-direita-superam-em-quatro-vezes-total-de-contas-mais-a-esquerda-suspensas-em-rede-social.shtml"

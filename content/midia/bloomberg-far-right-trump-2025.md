@@ -1,5 +1,6 @@
 ---
 title: "Brazil's far right is divided over Trump's threats"
+description: "Entrevista com Marcelo Alves para publicação internacional sobre as divisões na extrema direita brasileira diante das ameaças e tarifas de Donald Trump ..."
 date: 2025-11-01
 outlet: "Le Monde"
 link: "https://www.lemonde.fr/en/international/article/2025/07/14/brazil-s-far-right-is-divided-over-trump-s-threats_6743359_4.html"

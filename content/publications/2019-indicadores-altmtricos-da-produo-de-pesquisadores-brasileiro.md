@@ -1,5 +1,6 @@
 ---
 title: "Indicadores altmétricos da produção de pesquisadores brasileiros: análise dos bolsistas de produtividade do CNPq"
+description: "O estudo analisa o desempenho altmétrico de publicações brasileiras cujos autores receberam bolsas de produtividade em pesquisa (PQ) concedidas pelo CNP..."
 date: 2019-01-01
 authors: ["Ronaldo Ferreira Araujo", "Marcelo Alves dos Santos Junior"]
 venue: "Revista Ibero-Americana de Ciência da Informação"

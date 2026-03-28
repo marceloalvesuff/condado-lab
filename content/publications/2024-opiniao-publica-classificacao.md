@@ -1,5 +1,6 @@
 ---
 title: "Classificação ideológica de fontes informacionais: o paralelismo político na análise da atenção midiática multipartidária no Brasil"
+description: "O artigo propõe uma metodologia de classificação ideológica de fontes informacionais e aplica o framework à análise da atenção midiática ao multipartida..."
 date: 2024-03-01
 authors: ["Marcelo Alves dos Santos Junior", "Afonso Albuquerque"]
 venue: "Opinião Pública (UNICAMP)"

@@ -1,5 +1,6 @@
 ---
 title: "Cultura vira trincheira da esquerda por interação em rede social, diz estudo"
+description: "Reportagem do Estadão sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais, com Marcelo Alves comentan..."
 date: 2022-05-29
 outlet: "Estadão"
 link: "https://www.estadao.com.br/politica/timeline-eleicoes-2022/cultura-vira-trincheira-da-esquerda-por-interacao-em-rede-social-diz-estudo/"

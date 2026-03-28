@@ -1,5 +1,6 @@
 ---
 title: "Perda da hegemonia da imprensa - a disputa pela visibilidade na eleição de 2018"
+description: "A pesquisa investiga 82.915 publicações de 30 fan-pages no Facebook durante a eleição de 2018 para compreender o rearranjo do status de visibilidade no ..."
 date: 2019-01-01
 authors: ["Marcelo Alves dos Santos Junior", "Afonso de Albuquerque"]
 venue: "Lumina"

@@ -1,5 +1,6 @@
 ---
 title: "Fighting Corruption Alone: Civic Participation in OGP Anti-Corruption Commitments"
+description: "The paper found that 17% of all OGP commitments address anti-corruption themes and analyzed whether those tend to be more starred, more delivered, and m..."
 date: 2017-01-01
 authors: ["Fabro Steibel", "Marcelo Alves dos Santos Junior", "Marco Konopacki"]
 venue: "Revue Internationale des Gouvernements Ouverts"

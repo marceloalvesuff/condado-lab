@@ -1,5 +1,6 @@
 ---
 title: "¿Desorden de visibilidad? Un análisis comparativo entre las menciones en la prensa tradicional y la difusión digital"
+description: "El artículo realiza un análisis comparativo entre las menciones en la prensa tradicional y la difusión digital, investigando si existe un desorden de vi..."
 date: 2022-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Razón y Palabra"

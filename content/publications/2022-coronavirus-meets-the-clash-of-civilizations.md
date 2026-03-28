@@ -1,5 +1,6 @@
 ---
 title: "Coronavirus meets the clash of civilizations"
+description: "Conspiracy Theories (CTs) are a global phenomenon, but some societies are better equipped than others to resist them. This article discusses the charact..."
 date: 2022-01-01
 authors: ["Afonso de Albuquerque", "Thaiane M. Oliveira", "Marcelo Alves dos Santos Junior", "Rodrigo Quinan", "Daniela Mazur"]
 venue: "Convergence"

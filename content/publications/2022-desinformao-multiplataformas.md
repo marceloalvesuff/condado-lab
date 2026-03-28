@@ -1,5 +1,6 @@
 ---
 title: "Desinformação multiplataformas"
+description: "O artigo analisa o fenômeno da desinformação em um contexto multiplataformas, investigando como conteúdo desinformativo circula e se adapta a diferentes..."
 date: 2022-01-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Revista Famecos"

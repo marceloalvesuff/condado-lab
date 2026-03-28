@@ -1,5 +1,6 @@
 ---
 title: "Brazilian Blogosfera Progressista: Digital Vanguards in Dark Times"
+description: "The article explores the Brazilian Blogosfera Progressista (Progressive Blogosphere), a leftist political communication initiative aiming to conciliate ..."
 date: 2020-01-01
 authors: ["Afonso Albuquerque", "Marcelo Alves dos Santos Junior", "Eleonora de Magalhães Carvalho"]
 venue: "TripleC"

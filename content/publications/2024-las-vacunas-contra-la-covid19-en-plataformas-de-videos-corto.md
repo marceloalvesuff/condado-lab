@@ -1,5 +1,6 @@
 ---
 title: "Las vacunas contra la covid-19 en plataformas de videos cortos en Brasil: el caso del Kwai"
+description: "O artigo analisa as temáticas, posicionamentos, formas expressivas, atores legitimados e recursos visuais e sonoros utilizados na produção de 482 vídeos..."
 date: 2024-01-01
 authors: ["Ben-Hur Bernard Pereira Costa", "Marcelo Alves dos Santos Junior", "Luisa Massarani", "Thaiane Oliveira", "Lídia Raquel Herculano Maia"]
 venue: "Reciis"

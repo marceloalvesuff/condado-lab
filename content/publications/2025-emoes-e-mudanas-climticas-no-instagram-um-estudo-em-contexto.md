@@ -1,5 +1,6 @@
 ---
 title: "Emoções e mudanças climáticas no Instagram: um estudo em contexto brasileiro"
+description: "O estudo teve como objetivo identificar e analisar emoções expressas em torno de mudanças climáticas a partir de conteúdo público produzido no Instagram..."
 date: 2025-01-01
 authors: ["Geilson Fernandes de Oliveira", "Luisa Massarani", "Graziele Scalfi", "Marcelo Alves dos Santos Junior", "Thaiane Oliveira"]
 venue: "Texto Livre"

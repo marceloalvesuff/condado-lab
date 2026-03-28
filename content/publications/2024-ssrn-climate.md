@@ -1,5 +1,6 @@
 ---
 title: "(Un)certainty in Science and Climate Change: a Longitudinal Analysis (2014-2022) of Narratives About Climate Science on Social Media in Brazil"
+description: "O artigo realiza uma análise longitudinal (2014-2022) das narrativas sobre ciência climática no Instagram, Facebook e Twitter no Brasil. A pesquisa empr..."
 date: 2024-09-01
 authors: ["Roberta O. Lima", "André Belem", "Diógenes Lycarião", "Thaiane Oliveira", "Simone Evangelista", "Luisa Massarani", "Marcelo Alves dos Santos Junior"]
 venue: "Journal of Science Communication (JCOM)"

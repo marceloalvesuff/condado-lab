@@ -1,5 +1,6 @@
 ---
 title: "Big techs sugerem não serem responsabilizadas por fake news e anúncios nas eleições em audiência no TSE"
+description: "Cobertura de audiência no TSE em que representantes de Meta, Google e YouTube sugeriram não ser responsabilizadas por desinformação e conteúdo gerado po..."
 date: 2024-01-25
 outlet: "Agência Lupa"
 link: "https://www.agencialupa.org/jornalismo/2024/01/25/no-tse-big-techs-fogem-de-responsabilizacao-por-uso-de-ia-nas-eleicoes/"

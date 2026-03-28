@@ -1,5 +1,6 @@
 ---
 title: "Contestação às vacinas contra Covid-19 em grupos do Telegram no Brasil"
+description: "O artigo analisa as características do discurso de contestação às vacinas contra a Covid-19 no Telegram no Brasil. Quatro grupos que abordavam questões ..."
 date: 2023-01-01
 authors: ["Lídia Raquel Herculano Maia", "Thaiane Oliveira", "Luisa Massarani", "Marcelo Alves dos Santos Junior"]
 venue: "InTexto"

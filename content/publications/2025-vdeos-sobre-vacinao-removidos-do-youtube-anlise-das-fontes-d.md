@@ -1,5 +1,6 @@
 ---
 title: "Vídeos sobre vacinação removidos do YouTube: análise das fontes, das temáticas e dos posicionamentos"
+description: "O artigo analisa vídeos sobre vacinação que foram removidos do YouTube, investigando as fontes, temáticas e posicionamentos do conteúdo removido pela mo..."
 date: 2025-01-01
 authors: ["Andrielle Cristina Moura Mendes Guilherme", "Marcelo Alves dos Santos Junior", "Luisa Massarani", "Thaiane Oliveira"]
 venue: "Contemporânea"

@@ -1,5 +1,6 @@
 ---
 title: "O Twitter como ferramenta de campanha negativa não oficial: uma análise da campanha eleitoral para a Prefeitura do Rio de Janeiro em 2016"
+description: "O artigo analisa a adoção da estratégia de campanha negativa não oficial no Twitter na disputa pela Prefeitura do Rio de Janeiro em 2016. Examina mensag..."
 date: 2020-01-01
 authors: ["Ícaro Joathan", "Marcelo Alves dos Santos Junior"]
 venue: "Galáxia"

@@ -1,5 +1,6 @@
 ---
 title: "Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita"
+description: "O artigo analisa os modelos de monetização de 55 websites hiperpartidários de direita no Brasil. A pesquisa desenvolve um framework analítico com cinco ..."
 date: 2024-05-01
 authors: ["Marcelo Alves dos Santos Junior", "Bruno Washington Nichols"]
 venue: "E-Compós (Brasília)"

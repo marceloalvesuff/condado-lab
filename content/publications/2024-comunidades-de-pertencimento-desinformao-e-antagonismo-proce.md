@@ -1,5 +1,6 @@
 ---
 title: "Comunidades de pertencimento, desinformação e antagonismo: processos interacionais em grupos antivacina no Telegram no Brasil"
+description: "Utilizando o método da Grounded Theory, foi realizada uma análise qualitativa de conversas em grupos antivacina do Telegram no Brasil. Os resultados mos..."
 date: 2024-01-01
 authors: ["Lídia Raquel Herculano Maia", "Luisa Massarani", "Marcelo Alves dos Santos Junior", "Thaiane Oliveira"]
 venue: "Galáxia"

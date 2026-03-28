@@ -1,5 +1,6 @@
 ---
 title: "O debate público sobre vacinação infantil contra a Covid-19 no Facebook e Instagram"
+description: "A campanha de vacinação contra a Covid-19 no Brasil ocorreu em meio à politização da pandemia e controvérsias sobre aquisição e aplicação de vacinas, se..."
 date: 2024-01-01
 authors: ["Lídia Raquel Herculano Maia", "Luisa Massarani", "Marcelo Alves dos Santos Junior", "Thaiane Oliveira", "Francisco Jadson Silva Maia"]
 venue: "Liinc em Revista"

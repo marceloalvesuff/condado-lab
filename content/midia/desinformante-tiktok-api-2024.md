@@ -1,5 +1,6 @@
 ---
 title: "TikTok só tem API gratuita para pesquisadores do Norte Global"
+description: "Reportagem sobre a política do TikTok de disponibilizar API gratuita apenas para pesquisadores de universidades europeias e norte-americanas, excluindo ..."
 date: 2024-03-08
 outlet: "Desinformante"
 link: "https://desinformante.com.br/tiktok-api-norte-global/"

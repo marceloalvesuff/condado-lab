@@ -1,5 +1,6 @@
 ---
 title: "The News Sharing Gap: How Political Context Helps to Explain News Routines and Shareworthiness on SNSs"
+description: "The article examines how political context helps explain news routines and shareworthiness on social networking sites, analyzing the gap between what ne..."
 date: 2021-01-01
 authors: ["Diógenes Lycarião Barreto de Sousa", "Marcelo Alves dos Santos Junior", "Ana Beatriz Leite"]
 venue: "Brazilian Journalism Research"

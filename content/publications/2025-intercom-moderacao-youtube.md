@@ -1,5 +1,6 @@
 ---
 title: "Moderação de conteúdo no YouTube: análise da remoção de vídeos da eleição de 2022 ao atentado golpista de 08 de janeiro"
+description: "O artigo rastreia as práticas de moderação e remoção de conteúdo do YouTube entre a eleição de 2022 e o atentado golpista de 8 de janeiro de 2023. O You..."
 date: 2025-07-01
 authors: ["Marcelo Alves dos Santos Junior"]
 venue: "Intercom (São Paulo)"

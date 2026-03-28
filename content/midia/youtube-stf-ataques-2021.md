@@ -1,5 +1,6 @@
 ---
 title: "No YouTube, ataques ao STF seguem no ar e somam mais de 2,1 milhões de visualizações"
+description: "Comentário de Marcelo Alves sobre pesquisa que identificou vídeos com ataques ao STF (Supremo Tribunal Federal) acumulando mais de 2,1 milhões de visual..."
 date: 2021-01-01
 outlet: "O Globo"
 link: "https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/post/no-youtube-ataques-ao-stf-seguem-no-ar-e-somam-mais-de-21-milhoes-de-visualizacoes.html"

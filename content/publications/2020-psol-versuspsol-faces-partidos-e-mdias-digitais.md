@@ -1,5 +1,6 @@
 ---
 title: "PSOL versus PSOL: facções, partidos e mídias digitais"
+description: "O artigo investiga os desafios que as mídias sociais apresentam em relação ao poder da liderança partidária de definir o discurso majoritário. Em um con..."
 date: 2020-01-01
 authors: ["Marcelo Alves dos Santos Junior", "Afonso de Albuquerque"]
 venue: "Opinião Pública"
