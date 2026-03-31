@@ -3,6 +3,7 @@ title: "Exposição na UFF revisita atos de 8 de Janeiro com acervo inédito de 
 date: 2026-03-22
 outlet: "O Globo"
 link: ""
+photo: "images/midia/oglobo-niteroi-exposicao-uff-8janeiro-2026.jpeg"
 tags: ["8 de Janeiro", "acervo digital", "exposição", "memória", "democracia", "UFF"]
 ---
 
