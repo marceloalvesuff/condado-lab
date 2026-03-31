@@ -1,75 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Monetização on Condado Lab</title>
-    <link>https://condadolab.org/tags/monetiza%C3%A7%C3%A3o/</link>
-    <description>Recent content in Monetização on Condado Lab</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condadolab.org/tags/monetiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estudos de Plataformas Digitais</title>
-      <link>https://condadolab.org/projects/estudos-plataformas/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
-      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Marcelo Alves dos Santos Junior</title>
-      <link>https://condadolab.org/people/coordenador/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/people/coordenador/</guid>
-      <description>&lt;p&gt;Marcelo Alves dos Santos Junior é professor do quadro principal do Departamento de Comunicação Social da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), onde leciona disciplinas na Graduação de Estudos de Mídia e no Programa de Pós-Graduação em Comunicação. Coordena a Ênfase de Comunicação e Tecnologia de Estudo de Mídia da PUC-Rio e o Núcleo de Tecnologia e Comunicação (NuTeC/PUC-Rio). Coordenador do Condado Lab, Grupo de Pesquisa em Comunicação, Dados e Tecnologia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Combate à desinformação e bibliotecas de anúncios — Encontros na Redação</title>
-      <link>https://condadolab.org/midia/oglobo-infoglobo-2025/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/midia/oglobo-infoglobo-2025/</guid>
-      <description>&lt;p&gt;Marcelo Alves é convidado para o ciclo &amp;ldquo;Encontros na Redação&amp;rdquo;, iniciativa do jornal O Globo em colaboração com o Departamento de Comunicação da PUC-Rio e o Instituto Democracia em Xeque. O encontro é seguido de palestra na Academia Infoglobo — braço de formação jornalística da Infoglobo — sobre o tema &amp;ldquo;Combate à desinformação e bibliotecas de anúncios&amp;rdquo;, com ênfase no financiamento de sites desinformativos por meio de publicidade programática.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Desinformação e monetização: produção do biênio 2024-2025</title>
-      <link>https://condadolab.org/blog/desinformacao-monetizacao/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/blog/desinformacao-monetizacao/</guid>
-      <description>&lt;p&gt;A pesquisa sobre financiamento e monetização da desinformação gerou três artigos em periódicos e quatro apresentações em eventos entre 2024 e 2025.&lt;/p&gt;&#xA;&lt;p&gt;Os artigos foram publicados na Contracampo (UFF), na E-Compós e na Eptic On-Line. O trabalho na Contracampo mapeou categorias de anunciantes que operam em nichos fraudulentos ou de alto risco na web. O artigo na E-Compós, em coautoria com Bruno Washington Nichols, analisou a monetização de websites hiperpartidários de direita. O texto na Eptic On-Line propôs um framework com três funções da publicidade programática para a desinformação: financiamento, legitimação e engano.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Funções estruturantes da publicidade plataformizada no ecossistema da desinformação</title>
-      <link>https://condadolab.org/publications/2025-eptic-publicidade/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/publications/2025-eptic-publicidade/</guid>
-      <description>&lt;p&gt;O artigo propõe um framework teórico sobre o papel da publicidade programática no ecossistema da desinformação. A análise identifica três funções das infraestruturas de publicidade programática: financiamento, legitimação e engano. O texto está estruturado em quatro eixos: a relação sociotécnica entre publicidade programática e desinformação, a economia política da desinformação, mecanismos publicitários de legitimação, e a publicidade nativa como estratégia de manipulação informacional.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google sustenta sites de extrema direita que promovem desinformação, revela estudo</title>
-      <link>https://condadolab.org/midia/intercept-google-2024/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/midia/intercept-google-2024/</guid>
-      <description>&lt;p&gt;Laís Martins reporta pesquisa de Marcelo Alves e Bruno Nichols (UFF) que analisou 55 sites hiperpartidários de extrema direita no Brasil e identificou que cerca de 70% de sua receita provém de publicidade programática, principalmente via Google AdSense. A investigação mapeou como esses sites mimetizam o formato jornalístico enquanto dependem de infraestrutura automatizada de anúncios para se financiar.&lt;/p&gt;&#xA;&lt;p&gt;Alves é amplamente citado ao longo da reportagem, argumentando que o debate sobre desinformação precisa incluir a infraestrutura que a sustenta: &amp;ldquo;só é possível debater adequadamente o problema da desinformação quando se começa a debater a infraestrutura&amp;rdquo; — incluindo vieses algorítmicos e mecanismos de monetização.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Novo artigo sobre desinformação na Revista e-Compós</title>
-      <link>https://condadolab.org/blog/artigo-ecompos/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/blog/artigo-ecompos/</guid>
-      <description>&lt;p&gt;O professor Marcelo Alves dos Santos Junior, do PPGCOM/PUC-Rio, publicou em coautoria com Bruno Washington Nichols o artigo &amp;ldquo;Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita&amp;rdquo; na Revista e-Compós.&lt;/p&gt;&#xA;&lt;p&gt;O estudo analisou 55 sites hiperpartidários de direita e demonstrou que 70% deles recebem publicidade programática, principalmente via Google AdSense. Os resultados indicam a dependência dessas infraestruturas publicitárias na sustentação do ecossistema de desinformação.&lt;/p&gt;&#xA;&lt;p&gt;Fonte: &lt;a href=&#34;https://www.pos.com.puc-rio.br/br/texto/362/novo-artigo-de-marcelo-alves-sobre-desinformacao-na-revista-e-compos&#34;&gt;PPGCOM PUC-Rio&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita</title>
-      <link>https://condadolab.org/publications/2024-ecompos-monetizacao/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/publications/2024-ecompos-monetizacao/</guid>
-      <description>&lt;p&gt;O artigo analisa os modelos de monetização de 55 websites hiperpartidários de direita no Brasil. A pesquisa desenvolve um framework analítico com cinco dimensões e aplica a uma amostra de portais. Os resultados indicam dependência de infraestruturas de publicidade programática: 70% dos sites analisados utilizam Google AdSense como fonte de receita.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Estudo exploratório do financiamento da desinformação na web: fraudes, apostas, trading e clickbaits</title>
-      <link>https://condadolab.org/publications/2024-contracampo-financiamento/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/publications/2024-contracampo-financiamento/</guid>
-      <description>&lt;p&gt;O artigo mapeia os modelos de financiamento que sustentam a circulação de conteúdo desinformativo na web brasileira. A análise identifica categorias de anunciantes que operam em nichos fraudulentos ou de alto risco, como apostas, trading e clickbaits. Os resultados mostram como o ecossistema publicitário programático viabiliza economicamente a produção de desinformação.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Monetização on Condado Lab</title><link>https://condadolab.org/tags/monetiza%C3%A7%C3%A3o/</link><description>Recent content in Monetização on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/monetiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
+&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
+&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
+&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
+&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Marcelo Alves dos Santos Junior</title><link>https://condadolab.org/people/coordenador/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://condadolab.org/people/coordenador/</guid><description>&lt;p&gt;Marcelo Alves dos Santos Junior é professor do quadro principal do Departamento de Comunicação Social da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), onde leciona disciplinas na Graduação de Estudos de Mídia e no Programa de Pós-Graduação em Comunicação. Coordena a Ênfase de Comunicação e Tecnologia de Estudo de Mídia da PUC-Rio e o Núcleo de Tecnologia e Comunicação (NuTeC/PUC-Rio). Coordenador do Condado Lab, Grupo de Pesquisa em Comunicação, Dados e Tecnologia.&lt;/p&gt;</description></item><item><title>Combate à desinformação e bibliotecas de anúncios — Encontros na Redação</title><link>https://condadolab.org/midia/oglobo-infoglobo-2025/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/oglobo-infoglobo-2025/</guid><description>&lt;p&gt;Marcelo Alves é convidado para o ciclo &amp;ldquo;Encontros na Redação&amp;rdquo;, iniciativa do jornal O Globo em colaboração com o Departamento de Comunicação da PUC-Rio e o Instituto Democracia em Xeque. O encontro é seguido de palestra na Academia Infoglobo — braço de formação jornalística da Infoglobo — sobre o tema &amp;ldquo;Combate à desinformação e bibliotecas de anúncios&amp;rdquo;, com ênfase no financiamento de sites desinformativos por meio de publicidade programática.&lt;/p&gt;</description></item><item><title>Desinformação e monetização: produção do biênio 2024-2025</title><link>https://condadolab.org/blog/desinformacao-monetizacao/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/desinformacao-monetizacao/</guid><description>&lt;p&gt;A pesquisa sobre financiamento e monetização da desinformação gerou três artigos em periódicos e quatro apresentações em eventos entre 2024 e 2025.&lt;/p&gt;
+&lt;p&gt;Os artigos foram publicados na Contracampo (UFF), na E-Compós e na Eptic On-Line. O trabalho na Contracampo mapeou categorias de anunciantes que operam em nichos fraudulentos ou de alto risco na web. O artigo na E-Compós, em coautoria com Bruno Washington Nichols, analisou a monetização de websites hiperpartidários de direita. O texto na Eptic On-Line propôs um framework com três funções da publicidade programática para a desinformação: financiamento, legitimação e engano.&lt;/p&gt;</description></item><item><title>Funções estruturantes da publicidade plataformizada no ecossistema da desinformação</title><link>https://condadolab.org/publications/2025-eptic-publicidade/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2025-eptic-publicidade/</guid><description>&lt;p&gt;O artigo propõe um framework teórico sobre o papel da publicidade programática no ecossistema da desinformação. A análise identifica três funções das infraestruturas de publicidade programática: financiamento, legitimação e engano. O texto está estruturado em quatro eixos: a relação sociotécnica entre publicidade programática e desinformação, a economia política da desinformação, mecanismos publicitários de legitimação, e a publicidade nativa como estratégia de manipulação informacional.&lt;/p&gt;</description></item><item><title>Google sustenta sites de extrema direita que promovem desinformação, revela estudo</title><link>https://condadolab.org/midia/intercept-google-2024/</link><pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/intercept-google-2024/</guid><description>&lt;p&gt;Laís Martins reporta pesquisa de Marcelo Alves e Bruno Nichols (UFF) que analisou 55 sites hiperpartidários de extrema direita no Brasil e identificou que cerca de 70% de sua receita provém de publicidade programática, principalmente via Google AdSense. A investigação mapeou como esses sites mimetizam o formato jornalístico enquanto dependem de infraestrutura automatizada de anúncios para se financiar.&lt;/p&gt;
+&lt;p&gt;Alves é amplamente citado ao longo da reportagem, argumentando que o debate sobre desinformação precisa incluir a infraestrutura que a sustenta: &amp;ldquo;só é possível debater adequadamente o problema da desinformação quando se começa a debater a infraestrutura&amp;rdquo; — incluindo vieses algorítmicos e mecanismos de monetização.&lt;/p&gt;</description></item><item><title>Novo artigo sobre desinformação na Revista e-Compós</title><link>https://condadolab.org/blog/artigo-ecompos/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/blog/artigo-ecompos/</guid><description>&lt;p&gt;O professor Marcelo Alves dos Santos Junior, do PPGCOM/PUC-Rio, publicou em coautoria com Bruno Washington Nichols o artigo &amp;ldquo;Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita&amp;rdquo; na Revista e-Compós.&lt;/p&gt;
+&lt;p&gt;O estudo analisou 55 sites hiperpartidários de direita e demonstrou que 70% deles recebem publicidade programática, principalmente via Google AdSense. Os resultados indicam a dependência dessas infraestruturas publicitárias na sustentação do ecossistema de desinformação.&lt;/p&gt;
+&lt;p&gt;Fonte: &lt;a href="https://www.pos.com.puc-rio.br/br/texto/362/novo-artigo-de-marcelo-alves-sobre-desinformacao-na-revista-e-compos"&gt;PPGCOM PUC-Rio&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Modelos de financiamento da desinformação: uma análise da monetização de websites hiperpartidários de direita</title><link>https://condadolab.org/publications/2024-ecompos-monetizacao/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2024-ecompos-monetizacao/</guid><description>&lt;p&gt;O artigo analisa os modelos de monetização de 55 websites hiperpartidários de direita no Brasil. A pesquisa desenvolve um framework analítico com cinco dimensões e aplica a uma amostra de portais. Os resultados indicam dependência de infraestruturas de publicidade programática: 70% dos sites analisados utilizam Google AdSense como fonte de receita.&lt;/p&gt;</description></item><item><title>Estudo exploratório do financiamento da desinformação na web: fraudes, apostas, trading e clickbaits</title><link>https://condadolab.org/publications/2024-contracampo-financiamento/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2024-contracampo-financiamento/</guid><description>&lt;p&gt;O artigo mapeia os modelos de financiamento que sustentam a circulação de conteúdo desinformativo na web brasileira. A análise identifica categorias de anunciantes que operam em nichos fraudulentos ou de alto risco, como apostas, trading e clickbaits. Os resultados mostram como o ecossistema publicitário programático viabiliza economicamente a produção de desinformação.&lt;/p&gt;</description></item></channel></rss>
