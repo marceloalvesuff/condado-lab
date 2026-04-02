@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Golpe on Condado Lab</title><link>https://condadolab.org/tags/golpe/</link><description>Recent content in Golpe on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/golpe/index.xml" rel="self" type="application/rss+xml"/><item><title>O golpe pode dar errado</title><link>https://condadolab.org/midia/golpe-pode-dar-errado-2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/golpe-pode-dar-errado-2022/</guid><description>&lt;p&gt;Entrevista com Marcelo Alves sobre os riscos e os limites de uma eventual tentativa de golpe de Estado no contexto da eleição presidencial brasileira de 2022, analisando o papel das redes sociais na mobilização golpista.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golpe on Condado Lab</title>
+    <link>https://condadolab.org/tags/golpe/</link>
+    <description>Recent content in Golpe on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/golpe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O golpe pode dar errado</title>
+      <link>https://condadolab.org/midia/golpe-pode-dar-errado-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/golpe-pode-dar-errado-2022/</guid>
+      <description>&lt;p&gt;Entrevista com Marcelo Alves sobre os riscos e os limites de uma eventual tentativa de golpe de Estado no contexto da eleição presidencial brasileira de 2022, analisando o papel das redes sociais na mobilização golpista.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

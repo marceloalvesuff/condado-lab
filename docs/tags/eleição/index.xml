@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eleição on Condado Lab</title><link>https://condadolab.org/tags/elei%C3%A7%C3%A3o/</link><description>Recent content in Eleição on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/elei%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml"/><item><title>Campanha não oficial? A rede antipetista na eleição de 2014</title><link>https://condadolab.org/publications/2017-campanha-no-oficial-a-rede-antipetista-na-eleio-de-2014/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2017-campanha-no-oficial-a-rede-antipetista-na-eleio-de-2014/</guid><description>&lt;p&gt;O estudo investiga articulações entre agentes de campanha não oficial contra Dilma Rousseff e o PT no Facebook em 2014, argumentando que as mídias sociais constituem uma arena onde atores nativos disputam espaços de comunicação eleitoral, diversificando o ecossistema político-midiático. Utilizando procedimentos de análise de redes sociais para mapear canais que mobilizaram sentimento antipetista no Facebook, o principal resultado identificou a Rede Antipetista, um agregado multifacetado de n=532 fan-pages com 5.954 conexões que alcançou mais de 10 milhões de seguidores durante a eleição.&lt;/p&gt;</description></item><item><title>Redes de campanha na eleição do Rio de Janeiro em 2016</title><link>https://condadolab.org/publications/2017-redes-de-campanha-na-eleio-do-rio-de-janeiro-em-2016/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2017-redes-de-campanha-na-eleio-do-rio-de-janeiro-em-2016/</guid><description>&lt;p&gt;O artigo analisa as redes de campanha na eleição municipal do Rio de Janeiro em 2016, utilizando métodos de análise de redes sociais para mapear as estruturas de comunicação política dos candidatos.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleição on Condado Lab</title>
+    <link>https://condadolab.org/tags/elei%C3%A7%C3%A3o/</link>
+    <description>Recent content in Eleição on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/elei%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campanha não oficial? A rede antipetista na eleição de 2014</title>
+      <link>https://condadolab.org/publications/2017-campanha-no-oficial-a-rede-antipetista-na-eleio-de-2014/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2017-campanha-no-oficial-a-rede-antipetista-na-eleio-de-2014/</guid>
+      <description>&lt;p&gt;O estudo investiga articulações entre agentes de campanha não oficial contra Dilma Rousseff e o PT no Facebook em 2014, argumentando que as mídias sociais constituem uma arena onde atores nativos disputam espaços de comunicação eleitoral, diversificando o ecossistema político-midiático. Utilizando procedimentos de análise de redes sociais para mapear canais que mobilizaram sentimento antipetista no Facebook, o principal resultado identificou a Rede Antipetista, um agregado multifacetado de n=532 fan-pages com 5.954 conexões que alcançou mais de 10 milhões de seguidores durante a eleição.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redes de campanha na eleição do Rio de Janeiro em 2016</title>
+      <link>https://condadolab.org/publications/2017-redes-de-campanha-na-eleio-do-rio-de-janeiro-em-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2017-redes-de-campanha-na-eleio-do-rio-de-janeiro-em-2016/</guid>
+      <description>&lt;p&gt;O artigo analisa as redes de campanha na eleição municipal do Rio de Janeiro em 2016, utilizando métodos de análise de redes sociais para mapear as estruturas de comunicação política dos candidatos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

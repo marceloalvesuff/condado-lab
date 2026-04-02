@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ciência on Condado Lab</title><link>https://condadolab.org/tags/ci%C3%AAncia/</link><description>Recent content in Ciência on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/ci%C3%AAncia/index.xml" rel="self" type="application/rss+xml"/><item><title>A instrumentalização da ciência em grupos antivacina no WhatsApp no Brasil</title><link>https://condadolab.org/midia/antivacina-whatsapp-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/antivacina-whatsapp-2025/</guid><description>&lt;p&gt;Entrevista com Marcelo Alves sobre a instrumentalização de discursos científicos por grupos antivacina em grupos de WhatsApp no Brasil, discutindo como a aparência de legitimidade científica é usada para disseminar desinformação sobre saúde.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciência on Condado Lab</title>
+    <link>https://condadolab.org/tags/ci%C3%AAncia/</link>
+    <description>Recent content in Ciência on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/ci%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A instrumentalização da ciência em grupos antivacina no WhatsApp no Brasil</title>
+      <link>https://condadolab.org/midia/antivacina-whatsapp-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/antivacina-whatsapp-2025/</guid>
+      <description>&lt;p&gt;Entrevista com Marcelo Alves sobre a instrumentalização de discursos científicos por grupos antivacina em grupos de WhatsApp no Brasil, discutindo como a aparência de legitimidade científica é usada para disseminar desinformação sobre saúde.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

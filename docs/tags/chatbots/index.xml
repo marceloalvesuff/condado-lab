@@ -1,3 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chatbots on Condado Lab</title><link>https://condadolab.org/tags/chatbots/</link><description>Recent content in Chatbots on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><atom:link href="https://condadolab.org/tags/chatbots/index.xml" rel="self" type="application/rss+xml"/><item><title>Fernanda Fialho</title><link>https://condadolab.org/people/fernanda-fialho/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://condadolab.org/people/fernanda-fialho/</guid><description>&lt;p&gt;Mestranda em Comunicação na PUC-Rio e jornalista formada pela Uerj em 2023. Como tema de dissertação, pesquisa o uso de IAs agênticas como ferramenta jornalística. Atualmente, trabalha como repórter e editora no portal g1, com passagens pelos telejornais locais da TV Globo e TechTudo.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Resumo da Dissertação:&lt;/strong&gt; Transformações no consumo de informação jornalística por meio do uso de chatbots de inteligência artificial&lt;/p&gt;
-&lt;p&gt;A dissertação investiga o uso de chatbots de inteligência artificial como fonte de informação. O estudo analisa como esses sistemas respondem a perguntas de caráter jornalístico, com foco no Grok, da xAI, examinando o acionamento do robô em respostas a publicações de veículos da imprensa na plataforma de rede social X. A pesquisa adota uma abordagem tecnopolítica ao situar os chatbots no contexto das plataformas digitais, considerando dinâmicas de poder, infraestrutura e mediação algorítmica. Nesse cenário, dialoga com o conceito de plataformização do jornalismo, que visa compreender a crescente dependência dos veículos em relação às plataformas. A análise de como os modelos agênticos de inteligência artificial complexificam esse cenário busca evidenciar as transformações no consumo de informação jornalística.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbots on Condado Lab</title>
+    <link>https://condadolab.org/tags/chatbots/</link>
+    <description>Recent content in Chatbots on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="https://condadolab.org/tags/chatbots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fernanda Fialho</title>
+      <link>https://condadolab.org/people/fernanda-fialho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/people/fernanda-fialho/</guid>
+      <description>&lt;p&gt;Mestranda em Comunicação na PUC-Rio e jornalista formada pela Uerj em 2023. Como tema de dissertação, pesquisa o uso de IAs agênticas como ferramenta jornalística. Atualmente, trabalha como repórter e editora no portal g1, com passagens pelos telejornais locais da TV Globo e TechTudo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Resumo da Dissertação:&lt;/strong&gt; Transformações no consumo de informação jornalística por meio do uso de chatbots de inteligência artificial&lt;/p&gt;&#xA;&lt;p&gt;A dissertação investiga o uso de chatbots de inteligência artificial como fonte de informação. O estudo analisa como esses sistemas respondem a perguntas de caráter jornalístico, com foco no Grok, da xAI, examinando o acionamento do robô em respostas a publicações de veículos da imprensa na plataforma de rede social X. A pesquisa adota uma abordagem tecnopolítica ao situar os chatbots no contexto das plataformas digitais, considerando dinâmicas de poder, infraestrutura e mediação algorítmica. Nesse cenário, dialoga com o conceito de plataformização do jornalismo, que visa compreender a crescente dependência dos veículos em relação às plataformas. A análise de como os modelos agênticos de inteligência artificial complexificam esse cenário busca evidenciar as transformações no consumo de informação jornalística.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
