@@ -9,8 +9,6 @@ photo: "images/lorrana-cordeiro.jpg"
 tags: ["governança", "plataformas digitais", "publicidade digital", "regulação"]
 ---
 
-Bolsista FAPERJ Mestrado Nota 10, com pesquisa em governança de plataformas digitais e comunicação de jogos de azar online. Integra a equipe editorial da Revista Alceu e a Comissão Discente do PPGCOM da PUC-Rio. Possui experiência nas áreas de Comunicação, Tecnologia e Artes Visuais.
-
 **Dissertação:** A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais.
 
 **Palavras-chave:** Jogos de Azar; Governança; Plataformas Digitais; Publicidade Digital; Regulação

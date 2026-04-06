@@ -9,8 +9,6 @@ photo: "images/beatriz-waehneldt.jpeg"
 tags: ["comunicação política digital", "ciência de dados", "redes sociais", "monitoramento parlamentar", "divulgação científica"]
 ---
 
-Estudante de Jornalismo na PUC-Rio, com Domínio Adicional em Política Internacional. Atualmente, pesquisadora no NuTecLab/PUC-Rio e jornalista no Mercado & Eventos.
-
 Tenho experiência em jornalismo, comunicação digital, social media e pesquisa acadêmica, além de vivência internacional como bolsista Erasmus+ na Dinamarca e no Disney College Program, que ampliaram minha visão multicultural e minha capacidade de trabalho em equipe. Interesso-me por projetos que unam comunicação, inovação, tecnologia e sustentabilidade, com foco em soluções criativas que gerem impacto positivo na sociedade.
 
 **Título da pesquisa:** Radar do Congresso nas redes sociais: divulgação científica das temáticas parlamentares nas plataformas digitais
