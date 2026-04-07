@@ -127,16 +127,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://condadolab.org/midia/valor-direita-ia-tse-2026/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <loc>https://condadolab.org/midia/tvbrasil-exposicao-8janeiro-2026/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://condadolab.org/midia/</loc>
-    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://condadolab.org/midia/valor-direita-ia-tse-2026/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://condadolab.org/midia/museu-golpe-exposicao-8janeiro-2026/</loc>

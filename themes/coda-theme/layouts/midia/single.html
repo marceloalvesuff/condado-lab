@@ -37,6 +37,16 @@
         </figure>
         {{ end }}
 
+        {{ with .Params.photos }}
+        <div class="mb-12 flex flex-col gap-6">
+            {{ range . }}
+            <figure>
+                <img src="{{ $.Site.Home.RelPermalink }}{{ . }}" alt="{{ $.Page.Title }}" class="w-full rounded-lg shadow-md">
+            </figure>
+            {{ end }}
+        </div>
+        {{ end }}
+
         <div class="flex flex-wrap gap-4 pt-8 border-t border-slate-100">
             {{ with .Params.link }}
             <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center px-5 py-2.5 bg-purple-600 text-white text-xs font-bold uppercase tracking-widest rounded-full hover:bg-purple-700 transition-all">
