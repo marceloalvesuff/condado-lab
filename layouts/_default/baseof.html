@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+    <meta name="author" content="{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}">
+    {{ if or (.Data.Singular) (eq .Kind "term") (eq .Kind "taxonomy") }}
+    <meta name="robots" content="noindex, follow">
+    {{ else }}
+    <meta name="robots" content="index, follow">
+    {{ end }}
+    <meta name="google-site-verification" content="UAtSw1vtDU1x4WZa7_XM5o5PkZh92BZVzQ3GJrdc4tE">
+    <meta name="theme-color" content="#DD5B5B">
+    {{ with .Params.tags }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ "condadolab-simbolo-preto-03_1.png" | relURL }}" type="image/png">
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="pt_BR">
+    {{ with .Params.title_en }}<meta property="og:locale:alternate" content="en_US">{{ end }}
+    <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ $ogImage := "" }}
+    {{ with .Params.image }}{{ $ogImage = . }}{{ end }}
+    {{ with .Params.photo }}{{ $ogImage = . }}{{ end }}
+    {{ if $ogImage }}
+    <meta property="og:image" content="{{ $ogImage | absURL }}">
+    {{ else }}
+    <meta property="og:image" content="{{ "images/og-default.png" | absURL }}">
+    {{ end }}
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+    {{ if $ogImage }}
+    <meta name="twitter:image" content="{{ $ogImage | absURL }}">
+    {{ else }}
+    <meta name="twitter:image" content="{{ "images/og-default.png" | absURL }}">
+    {{ end }}
+
+    <!-- Canonical & Feeds -->
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ with .OutputFormats.Get "RSS" }}
+    <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- Fonts (self-hosted) -->
+    <link rel="preload" href="/fonts/space-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
+
+    <link rel="stylesheet" href="{{ "css/tailwind.min.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/fontawesome.min.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+    <!-- JSON-LD Structured Data -->
+    {{ if .IsHome }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ResearchOrganization",
+        "name": "{{ .Site.Title }}",
+        "description": "{{ .Site.Params.description }}",
+        "url": "{{ .Site.BaseURL }}",
+        "parentOrganization": {
+            "@type": "CollegeOrUniversity",
+            "name": "{{ .Site.Params.institution }}"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "{{ .Site.Params.location }}"
+        }
+    }
+    </script>
+    {{ else if eq .Section "publications" }}{{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "{{ .Title }}",
+        "inLanguage": "pt-BR",
+        {{ with .Params.description_en }}"abstract": "{{ . }}",{{ end }}
+        {{ with .Params.title_en }}"alternativeHeadline": "{{ . }}",{{ end }}
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        {{ with .Params.authors }}"author": [{{ range $i, $a := . }}{{ if $i }},{{ end }}{"@type":"Person","name":"{{ $a }}"}{{ end }}],{{ end }}
+        {{ with .Params.venue }}"publisher": {"@type":"Organization","name":"{{ . }}"},{{ end }}
+        {{ with .Params.doi }}"sameAs": "https://doi.org/{{ . }}",{{ end }}
+        "url": "{{ .Permalink }}"
+    }
+    </script>
+    {{ end }}{{ else if eq .Section "blog" }}{{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ .Title }}",
+        "inLanguage": "pt-BR",
+        {{ with .Params.title_en }}"alternativeHeadline": "{{ . }}",{{ end }}
+        {{ with .Params.description_en }}"description": "{{ . }}",{{ end }}
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        {{ with .Params.author }}"author": {"@type":"Person","name":"{{ . }}"},{{ end }}
+        "url": "{{ .Permalink }}"
+    }
+    </script>
+    {{ end }}{{ else if eq .Section "people" }}{{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ .Title }}",
+        {{ with .Params.position }}"jobTitle": "{{ . }}",{{ end }}
+        "affiliation": {"@type":"CollegeOrUniversity","name":"PUC-Rio"},
+        "url": "{{ .Permalink }}"
+    }
+    </script>
+    {{ end }}{{ end }}
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="01dde6c8-e6f4-4124-877d-fd19adb7c6b2"></script>
+</head>
+<body class="selection:bg-[#80dbff] selection:text-slate-900">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-white focus:text-purple-600 focus:rounded-lg focus:font-bold focus:text-sm focus:shadow-lg">
+        Pular para o conteúdo
+    </a>
+    {{ partial "nav.html" . }}
+    <main id="main-content">
+        {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "search.html" . }}
+</body>
+</html>
