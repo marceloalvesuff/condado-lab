@@ -1,33 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Plataformização on Condado Lab</title>
-    <link>https://condadolab.org/tags/plataformiza%C3%A7%C3%A3o/</link>
-    <description>Recent content in Plataformização on Condado Lab</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condadolab.org/tags/plataformiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estudos de Plataformas Digitais</title>
-      <link>https://condadolab.org/projects/estudos-plataformas/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
-      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fernanda Fialho</title>
-      <link>https://condadolab.org/people/fernanda-fialho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/people/fernanda-fialho/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Resumo da Dissertação:&lt;/strong&gt; Transformações no consumo de informação jornalística por meio do uso de chatbots de inteligência artificial&lt;/p&gt;&#xA;&lt;p&gt;A dissertação investiga o uso de chatbots de inteligência artificial como fonte de informação. O estudo analisa como esses sistemas respondem a perguntas de caráter jornalístico, com foco no Grok, da xAI, examinando o acionamento do robô em respostas a publicações de veículos da imprensa na plataforma de rede social X. A pesquisa adota uma abordagem tecnopolítica ao situar os chatbots no contexto das plataformas digitais, considerando dinâmicas de poder, infraestrutura e mediação algorítmica. Nesse cenário, dialoga com o conceito de plataformização do jornalismo, que visa compreender a crescente dependência dos veículos em relação às plataformas. A análise de como os modelos agênticos de inteligência artificial complexificam esse cenário busca evidenciar as transformações no consumo de informação jornalística.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Plataformização da comunicação política</title>
-      <link>https://condadolab.org/publications/2020-plataformizao-da-comunicao-poltica/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/publications/2020-plataformizao-da-comunicao-poltica/</guid>
-      <description>&lt;p&gt;A plataformização da comunicação política introduz um modelo de governança algorítmica da circulação de informações que afeta os sistemas midiáticos nacionais. A investigação empírica se baseia em uma amostra original de 1.513.780 posts coletados entre 2013 e 2018 de 500 páginas do Facebook. O objetivo é avaliar se há algum tipo de disrupção no caráter dominante da visibilidade da imprensa jornalística no Facebook. Os resultados apontaram para o que se denomina &amp;ldquo;disrupção de visibilidade&amp;rdquo; — o declínio nos compartilhamentos de veículos jornalísticos e a captura da atenção por políticos e criadores digitais.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plataformização on Condado Lab</title><link>https://condadolab.org/tags/plataformiza%C3%A7%C3%A3o/</link><description>Recent content in Plataformização on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/plataformiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
+&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
+&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
+&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
+&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Fernanda Fialho</title><link>https://condadolab.org/people/fernanda-fialho/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://condadolab.org/people/fernanda-fialho/</guid><description>&lt;p&gt;&lt;strong&gt;Resumo da Dissertação:&lt;/strong&gt; Transformações no consumo de informação jornalística por meio do uso de chatbots de inteligência artificial&lt;/p&gt;
+&lt;p&gt;A dissertação investiga o uso de chatbots de inteligência artificial como fonte de informação. O estudo analisa como esses sistemas respondem a perguntas de caráter jornalístico, com foco no Grok, da xAI, examinando o acionamento do robô em respostas a publicações de veículos da imprensa na plataforma de rede social X. A pesquisa adota uma abordagem tecnopolítica ao situar os chatbots no contexto das plataformas digitais, considerando dinâmicas de poder, infraestrutura e mediação algorítmica. Nesse cenário, dialoga com o conceito de plataformização do jornalismo, que visa compreender a crescente dependência dos veículos em relação às plataformas. A análise de como os modelos agênticos de inteligência artificial complexificam esse cenário busca evidenciar as transformações no consumo de informação jornalística.&lt;/p&gt;</description></item><item><title>Plataformização da comunicação política</title><link>https://condadolab.org/publications/2020-plataformizao-da-comunicao-poltica/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2020-plataformizao-da-comunicao-poltica/</guid><description>&lt;p&gt;A plataformização da comunicação política introduz um modelo de governança algorítmica da circulação de informações que afeta os sistemas midiáticos nacionais. A investigação empírica se baseia em uma amostra original de 1.513.780 posts coletados entre 2013 e 2018 de 500 páginas do Facebook. O objetivo é avaliar se há algum tipo de disrupção no caráter dominante da visibilidade da imprensa jornalística no Facebook. Os resultados apontaram para o que se denomina &amp;ldquo;disrupção de visibilidade&amp;rdquo; — o declínio nos compartilhamentos de veículos jornalísticos e a captura da atenção por políticos e criadores digitais.&lt;/p&gt;</description></item></channel></rss>

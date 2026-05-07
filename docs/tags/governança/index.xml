@@ -1,26 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Governança on Condado Lab</title>
-    <link>https://condadolab.org/tags/governan%C3%A7a/</link>
-    <description>Recent content in Governança on Condado Lab</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://condadolab.org/tags/governan%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estudos de Plataformas Digitais</title>
-      <link>https://condadolab.org/projects/estudos-plataformas/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
-      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lorrana Melo Cordeiro</title>
-      <link>https://condadolab.org/people/lorrana-cordeiro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://condadolab.org/people/lorrana-cordeiro/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Dissertação:&lt;/strong&gt; A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Palavras-chave:&lt;/strong&gt; Jogos de Azar; Governança; Plataformas Digitais; Publicidade Digital; Regulação&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa investiga de que modo os recursos sociotécnicos de governança das plataformas digitais moderam a circulação de jogos de azar online no contexto de disputas político-econômicas e de alterações na delimitação de sua legalidade no Brasil. Parte-se do pressuposto de que a divisão e o compartilhamento de responsabilidades entre Estado, mercados e plataformas, em uma estrutura de poder desigual, constituem um problema central para a produção e circulação dos jogos de azar. Metodologicamente, a pesquisa combina análise documental e análise de conteúdo. No primeiro eixo, são examinadas as normativas legais e regulatórias do Estado brasileiro disponibilizadas pela Secretaria de Prêmios e Apostas (SPA) do Ministério da Fazenda, responsável por regular as operadoras de jogos de azar online. Também integra o corpus documental o Código Brasileiro de Autorregulamentação Publicitária do Conselho Nacional de Autorregulamentação Publicitária (CONAR). De forma complementar, analisam-se os termos de uso e serviço das plataformas Google e Meta relacionados à moderação de conteúdos sobre jogos de azar. Em uma segunda etapa, realiza-se o mapeamento da presença online das operadoras em plataformas digitais, utilizando análise de conteúdo para qualificar suas estratégias de uso. Assim, o estudo permite compreender como os jogos de azar online vêm sendo governados e evidenciar lacunas de governança que expõem usuários a riscos e viabilizam a acumulação de lucros por diferentes atores.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Governança on Condado Lab</title><link>https://condadolab.org/tags/governan%C3%A7a/</link><description>Recent content in Governança on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/governan%C3%A7a/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
+&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
+&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
+&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
+&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Lorrana Melo Cordeiro</title><link>https://condadolab.org/people/lorrana-cordeiro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://condadolab.org/people/lorrana-cordeiro/</guid><description>&lt;p&gt;&lt;strong&gt;Dissertação:&lt;/strong&gt; A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Palavras-chave:&lt;/strong&gt; Jogos de Azar; Governança; Plataformas Digitais; Publicidade Digital; Regulação&lt;/p&gt;
+&lt;p&gt;A pesquisa investiga de que modo os recursos sociotécnicos de governança das plataformas digitais moderam a circulação de jogos de azar online no contexto de disputas político-econômicas e de alterações na delimitação de sua legalidade no Brasil. Parte-se do pressuposto de que a divisão e o compartilhamento de responsabilidades entre Estado, mercados e plataformas, em uma estrutura de poder desigual, constituem um problema central para a produção e circulação dos jogos de azar. Metodologicamente, a pesquisa combina análise documental e análise de conteúdo. No primeiro eixo, são examinadas as normativas legais e regulatórias do Estado brasileiro disponibilizadas pela Secretaria de Prêmios e Apostas (SPA) do Ministério da Fazenda, responsável por regular as operadoras de jogos de azar online. Também integra o corpus documental o Código Brasileiro de Autorregulamentação Publicitária do Conselho Nacional de Autorregulamentação Publicitária (CONAR). De forma complementar, analisam-se os termos de uso e serviço das plataformas Google e Meta relacionados à moderação de conteúdos sobre jogos de azar. Em uma segunda etapa, realiza-se o mapeamento da presença online das operadoras em plataformas digitais, utilizando análise de conteúdo para qualificar suas estratégias de uso. Assim, o estudo permite compreender como os jogos de azar online vêm sendo governados e evidenciar lacunas de governança que expõem usuários a riscos e viabilizam a acumulação de lucros por diferentes atores.&lt;/p&gt;</description></item></channel></rss>

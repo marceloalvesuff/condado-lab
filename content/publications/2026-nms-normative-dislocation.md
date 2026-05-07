@@ -2,7 +2,7 @@
 title: "Normative dislocation: When platforms moderate without memory"
 description: "O artigo introduz o conceito de normative dislocation para explicar como as políticas de moderação das grandes plataformas falharam ao lidar com discursos militaristas durante as eleições brasileiras de 2022, permitindo que conteúdos que antecederam o 8 de janeiro circulassem sem enquadramento adequado."
 date: 2026-04-01
-authors: ["Marcelo Alves dos Santos Junior", "Emillie de Keulenaar"]
+authors: ["Emillie de Keulenaar", "Marcelo Alves dos Santos Junior"]
 venue: "New Media & Society (SAGE)"
 tags: ["moderação de conteúdo", "plataformas digitais", "eleições 2022", "8 de janeiro", "militarismo", "normative dislocation"]
 link: "https://journals.sagepub.com/doi/10.1177/14614448251364814"
