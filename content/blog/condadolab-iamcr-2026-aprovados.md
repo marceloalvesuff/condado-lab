@@ -95,6 +95,4 @@ O trabalho investiga como as affordances das plataformas e as lacunas de governa
 
 As apresentações acontecem em **agosto de 2026**. Acompanhe os desdobramentos pelo site do evento em [iamcr-compol-latam-2026.com](https://www.iamcr-compol-latam-2026.com/) e pelo site do laboratório em [condadolab.org](https://condadolab.org).
 
----
-
 O Condado Lab é um laboratório de pesquisa em comunicação, dados e tecnologia da PUC-Rio, coordenado pelo Prof. Marcelo Alves dos Santos Junior.
