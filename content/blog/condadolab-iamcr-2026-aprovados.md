@@ -54,9 +54,9 @@ A pesquisa investiga como o presidente argentino Javier Milei utiliza conteúdo 
 ### [Eliana Pegorim Abreu e Silva](https://condadolab.org/people/eliana-pegorim/)
 **Doutoranda | CondadoLab / PUC-Rio**
 
-> *Plataformas de mídia social, desinformação e política da visibilidade: quem pode falar sobre saúde no YouTube Health?*
+> *O algoritmo não lê rótulos: entre affordances, governança e a promoção de emagrecedores irregulares nas plataformas*
 
-O trabalho examina as regras de visibilidade do YouTube Health e seus efeitos sobre a circulação de desinformação em saúde, questionando quem tem voz autorizada nas plataformas digitais e como esses critérios moldam o debate público.
+O trabalho investiga como as affordances das plataformas e as lacunas de governança permitem a promoção algorítmica de produtos para emagrecimento sem registro sanitário, articulando comunicação política, saúde pública e regulação digital.
 
 ---
 
@@ -87,9 +87,9 @@ A pesquisa disseca as práticas da publicidade nativa no setor de saúde, analis
 ### [Lorrana Melo Cordeiro](https://condadolab.org/people/lorrana-cordeiro/)
 **Mestranda | CondadoLab / PUC-Rio**
 
-> *O algoritmo não lê rótulos: entre affordances, governança e a promoção de emagrecedores irregulares nas plataformas*
+> *Plataformas de mídia social, desinformação e política da visibilidade: quem pode falar sobre saúde no YouTube Health?*
 
-O trabalho investiga como as affordances das plataformas e as lacunas de governança permitem a promoção algorítmica de produtos para emagrecimento sem registro sanitário, articulando comunicação política, saúde pública e regulação digital.
+O trabalho examina as regras de visibilidade do YouTube Health e seus efeitos sobre a circulação de desinformação em saúde, questionando quem tem voz autorizada nas plataformas digitais e como esses critérios moldam o debate público.
 
 ---
 
