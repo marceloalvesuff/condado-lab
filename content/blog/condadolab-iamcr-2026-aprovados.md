@@ -27,6 +27,8 @@ De um processo seletivo que contou com mais de 150 submissões de toda a Améric
 
 ---
 
+&nbsp;
+
 ### [Marcelo Alves dos Santos Junior](https://condadolab.org/people/coordenador/)
 **Coordenador do CondadoLab | Professor do Departamento de Comunicação Social da PUC-Rio**
 
@@ -35,6 +37,8 @@ De um processo seletivo que contou com mais de 150 submissões de toda a Améric
 O trabalho propõe uma metodologia original para identificar e analisar conteúdo produzido com auxílio de inteligência artificial generativa no contexto das campanhas eleitorais digitais — uma das fronteiras mais urgentes da pesquisa em comunicação política.
 
 ---
+
+&nbsp;
 
 ### [Beatriz Gasparette dos Santos Montenegro](https://condadolab.org/people/beatriz-montenegro/)
 **Mestranda | CondadoLab / PUC-Rio**
@@ -45,6 +49,8 @@ A pesquisa investiga como o presidente argentino Javier Milei utiliza conteúdo 
 
 ---
 
+&nbsp;
+
 ### [Eliana Pegorim Abreu e Silva](https://condadolab.org/people/eliana-pegorim/)
 **Doutoranda | CondadoLab / PUC-Rio**
 
@@ -53,6 +59,8 @@ A pesquisa investiga como o presidente argentino Javier Milei utiliza conteúdo 
 O trabalho examina as regras de visibilidade do YouTube Health e seus efeitos sobre a circulação de desinformação em saúde, questionando quem tem voz autorizada nas plataformas digitais e como esses critérios moldam o debate público.
 
 ---
+
+&nbsp;
 
 ### [Douglas da Silva Ferreira](https://condadolab.org/people/douglas-ferreira/)
 **Doutorando | CondadoLab / PUC-Rio**
@@ -63,6 +71,8 @@ A pesquisa analisa como atores e conteúdos de inspiração neofascista circulam
 
 ---
 
+&nbsp;
+
 ### [Isabela Duarte Pimentel](https://condadolab.org/people/isabela-pimentel/)
 **Doutoranda | CondadoLab / PUC-Rio**
 
@@ -71,6 +81,8 @@ A pesquisa analisa como atores e conteúdos de inspiração neofascista circulam
 A pesquisa disseca as práticas da publicidade nativa no setor de saúde, analisando as lacunas de transparência e os mecanismos de engano que operam na fronteira entre conteúdo editorial e publicidade comercial nas plataformas digitais.
 
 ---
+
+&nbsp;
 
 ### [Lorrana Melo Cordeiro](https://condadolab.org/people/lorrana-cordeiro/)
 **Mestranda | CondadoLab / PUC-Rio**
