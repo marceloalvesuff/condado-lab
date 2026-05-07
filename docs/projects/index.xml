@@ -1,23 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linhas de Pesquisa on Condado Lab</title><link>https://condadolab.org/projects/</link><description>Recent content in Linhas de Pesquisa on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Estudos de Plataformas Digitais</title><link>https://condadolab.org/projects/estudos-plataformas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/estudos-plataformas/</guid><description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;
-&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;
-&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;
-&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="tema-governança-e-moderação-de-conteúdo"&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;
-&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description></item><item><title>Métodos Digitais</title><link>https://condadolab.org/projects/metodos-digitais/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/metodos-digitais/</guid><description>&lt;p&gt;Este eixo explora perspectivas metodológicas combinadas da escola de métodos digitais e das ciências sociais computacionais para a análise de fenômenos na interface entre mídia e tecnologia.&lt;/p&gt;
-&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Desenvolvimento e aplicação de métodos digitais&lt;/li&gt;
-&lt;li&gt;Análise de dados de plataformas e mídias sociais&lt;/li&gt;
-&lt;li&gt;Abordagens computacionais para pesquisa em comunicação&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Práticas e Culturas Extremistas e Radicais</title><link>https://condadolab.org/projects/praticas-extremistas/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/praticas-extremistas/</guid><description>&lt;p&gt;Este eixo investiga as práticas e culturas extremistas e radicais no ambiente digital, com atenção especial às disputas pela memória do oito de janeiro de 2023 e os discursos revisionistas e negacionistas elaborados para ressignificar ações antidemocráticas e de violência política.&lt;/p&gt;
-&lt;h2 id="escopo"&gt;Escopo&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Mapeamento de redes e práticas extremistas online&lt;/li&gt;
-&lt;li&gt;Disputas pela memória e narrativas revisionistas&lt;/li&gt;
-&lt;li&gt;Violência política e radicalização digital&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Acervo Digital do 8 de Janeiro</title><link>https://condadolab.org/projects/acervo-8-janeiro/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/projects/acervo-8-janeiro/</guid><description>&lt;p&gt;O projeto constrói um acervo digital sobre o 8 de janeiro de 2023. O trabalho envolve a coleta sistemática de dados de plataformas, a preservação de registros digitais e a análise das políticas de moderação que resultaram no apagamento de conteúdo relacionado ao atentado.&lt;/p&gt;
-&lt;p&gt;A pesquisa parte de dois problemas. O primeiro é a remoção e desaparecimento de rastros digitais pelas próprias plataformas. O segundo é a produção de narrativas revisionistas e negacionistas que buscam ressignificar o evento.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linhas de Pesquisa on Condado Lab</title>
+    <link>https://condadolab.org/projects/</link>
+    <description>Recent content in Linhas de Pesquisa on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudos de Plataformas Digitais</title>
+      <link>https://condadolab.org/projects/estudos-plataformas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/estudos-plataformas/</guid>
+      <description>&lt;p&gt;Este eixo investiga como a expansão da lógica das plataformas digitais para a web reconfigura os processos comunicacionais e suas implicações para a sociedade.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Análise crítica da plataformização das mídias&lt;/li&gt;&#xA;&lt;li&gt;Relações entre infraestrutura tecnológica e poder&lt;/li&gt;&#xA;&lt;li&gt;Perspectivas da economia política da comunicação e dos estudos de ciência e tecnologia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tema-governança-e-moderação-de-conteúdo&#34;&gt;Tema: Governança e Moderação de Conteúdo&lt;/h2&gt;&#xA;&lt;p&gt;Este tema analisa a governança das plataformas e suas políticas de moderação de conteúdo, relacionadas sobretudo à integridade democrático-eleitoral.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Métodos Digitais</title>
+      <link>https://condadolab.org/projects/metodos-digitais/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/metodos-digitais/</guid>
+      <description>&lt;p&gt;Este eixo explora perspectivas metodológicas combinadas da escola de métodos digitais e das ciências sociais computacionais para a análise de fenômenos na interface entre mídia e tecnologia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desenvolvimento e aplicação de métodos digitais&lt;/li&gt;&#xA;&lt;li&gt;Análise de dados de plataformas e mídias sociais&lt;/li&gt;&#xA;&lt;li&gt;Abordagens computacionais para pesquisa em comunicação&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Práticas e Culturas Extremistas e Radicais</title>
+      <link>https://condadolab.org/projects/praticas-extremistas/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/praticas-extremistas/</guid>
+      <description>&lt;p&gt;Este eixo investiga as práticas e culturas extremistas e radicais no ambiente digital, com atenção especial às disputas pela memória do oito de janeiro de 2023 e os discursos revisionistas e negacionistas elaborados para ressignificar ações antidemocráticas e de violência política.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mapeamento de redes e práticas extremistas online&lt;/li&gt;&#xA;&lt;li&gt;Disputas pela memória e narrativas revisionistas&lt;/li&gt;&#xA;&lt;li&gt;Violência política e radicalização digital&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Acervo Digital do 8 de Janeiro</title>
+      <link>https://condadolab.org/projects/acervo-8-janeiro/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/acervo-8-janeiro/</guid>
+      <description>&lt;p&gt;O projeto constrói um acervo digital sobre o 8 de janeiro de 2023. O trabalho envolve a coleta sistemática de dados de plataformas, a preservação de registros digitais e a análise das políticas de moderação que resultaram no apagamento de conteúdo relacionado ao atentado.&lt;/p&gt;&#xA;&lt;p&gt;A pesquisa parte de dois problemas. O primeiro é a remoção e desaparecimento de rastros digitais pelas próprias plataformas. O segundo é a produção de narrativas revisionistas e negacionistas que buscam ressignificar o evento.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Esquerda on Condado Lab</title><link>https://condadolab.org/tags/esquerda/</link><description>Recent content in Esquerda on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/esquerda/index.xml" rel="self" type="application/rss+xml"/><item><title>Da vanguarda do passado à agrura nas redes: como a esquerda perdeu protagonismo na comunicação política nos últimos anos</title><link>https://condadolab.org/midia/oglobo-esquerda-comunicacao-2025/</link><pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/oglobo-esquerda-comunicacao-2025/</guid><description>&lt;p&gt;Marcelo Alves e Afonso de Albuquerque analisam em O Globo como a esquerda brasileira, que foi pioneira na organização digital, perdeu protagonismo na comunicação política para a direita nas redes sociais ao longo dos últimos anos.&lt;/p&gt;</description></item><item><title>Cultura vira trincheira da esquerda por interação em rede social, diz estudo</title><link>https://condadolab.org/midia/estadao-cultura-esquerda-2022/</link><pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/estadao-cultura-esquerda-2022/</guid><description>&lt;p&gt;Reportagem do Estadão sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais, com Marcelo Alves comentando os achados sobre a dinâmica de engajamento político-cultural no Twitter brasileiro.&lt;/p&gt;</description></item><item><title>Cultura vira trincheira da esquerda por interação em rede social, diz estudo</title><link>https://condadolab.org/midia/uol-cultura-esquerda-2022/</link><pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/uol-cultura-esquerda-2022/</guid><description>&lt;p&gt;Reportagem da Agência Estado/UOL sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais. Marcelo Alves comenta os achados da pesquisa sobre como a esquerda encontrou na cultura e no entretenimento sua principal &amp;ldquo;trincheira&amp;rdquo; digital frente à direita.&lt;/p&gt;</description></item><item><title>PSOL versus PSOL: facções, partidos e mídias digitais</title><link>https://condadolab.org/publications/2020-psol-versuspsol-faces-partidos-e-mdias-digitais/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2020-psol-versuspsol-faces-partidos-e-mdias-digitais/</guid><description>&lt;p&gt;O artigo investiga os desafios que as mídias sociais apresentam em relação ao poder da liderança partidária de definir o discurso majoritário. Em um contexto de fragmentação partidária, as mídias sociais oferecem oportunidades para correntes internas vocalizarem insatisfações e negociarem agendas publicamente, gerando ruído externo e dificultando consensos. O estudo de caso foca nas disputas entre diferentes facções do PSOL sobre a aliança com PT, PCdoB e Rede na eleição municipal do Rio de Janeiro em 2016. Os dados foram coletados por meio de requisições à API do Facebook. Os achados indicam distância estrutural entre subsistemas comunicativos organizados em torno do PSOL e do PT-PCdoB, e discussão pública acalorada sobre a composição da aliança eleitoral.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esquerda on Condado Lab</title>
+    <link>https://condadolab.org/tags/esquerda/</link>
+    <description>Recent content in Esquerda on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/esquerda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Da vanguarda do passado à agrura nas redes: como a esquerda perdeu protagonismo na comunicação política nos últimos anos</title>
+      <link>https://condadolab.org/midia/oglobo-esquerda-comunicacao-2025/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/oglobo-esquerda-comunicacao-2025/</guid>
+      <description>&lt;p&gt;Marcelo Alves e Afonso de Albuquerque analisam em O Globo como a esquerda brasileira, que foi pioneira na organização digital, perdeu protagonismo na comunicação política para a direita nas redes sociais ao longo dos últimos anos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cultura vira trincheira da esquerda por interação em rede social, diz estudo</title>
+      <link>https://condadolab.org/midia/estadao-cultura-esquerda-2022/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/estadao-cultura-esquerda-2022/</guid>
+      <description>&lt;p&gt;Reportagem do Estadão sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais, com Marcelo Alves comentando os achados sobre a dinâmica de engajamento político-cultural no Twitter brasileiro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cultura vira trincheira da esquerda por interação em rede social, diz estudo</title>
+      <link>https://condadolab.org/midia/uol-cultura-esquerda-2022/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/uol-cultura-esquerda-2022/</guid>
+      <description>&lt;p&gt;Reportagem da Agência Estado/UOL sobre estudo que identificou a cultura como principal campo de interação da esquerda nas redes sociais. Marcelo Alves comenta os achados da pesquisa sobre como a esquerda encontrou na cultura e no entretenimento sua principal &amp;ldquo;trincheira&amp;rdquo; digital frente à direita.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PSOL versus PSOL: facções, partidos e mídias digitais</title>
+      <link>https://condadolab.org/publications/2020-psol-versuspsol-faces-partidos-e-mdias-digitais/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2020-psol-versuspsol-faces-partidos-e-mdias-digitais/</guid>
+      <description>&lt;p&gt;O artigo investiga os desafios que as mídias sociais apresentam em relação ao poder da liderança partidária de definir o discurso majoritário. Em um contexto de fragmentação partidária, as mídias sociais oferecem oportunidades para correntes internas vocalizarem insatisfações e negociarem agendas publicamente, gerando ruído externo e dificultando consensos. O estudo de caso foca nas disputas entre diferentes facções do PSOL sobre a aliança com PT, PCdoB e Rede na eleição municipal do Rio de Janeiro em 2016. Os dados foram coletados por meio de requisições à API do Facebook. Os achados indicam distância estrutural entre subsistemas comunicativos organizados em torno do PSOL e do PT-PCdoB, e discussão pública acalorada sobre a composição da aliança eleitoral.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

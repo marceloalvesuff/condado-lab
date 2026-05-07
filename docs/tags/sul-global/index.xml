@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sul Global on Condado Lab</title><link>https://condadolab.org/tags/sul-global/</link><description>Recent content in Sul Global on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/sul-global/index.xml" rel="self" type="application/rss+xml"/><item><title>TikTok só tem API gratuita para pesquisadores do Norte Global</title><link>https://condadolab.org/midia/desinformante-tiktok-api-2024/</link><pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/desinformante-tiktok-api-2024/</guid><description>&lt;p&gt;Reportagem sobre a política do TikTok de disponibilizar API gratuita apenas para pesquisadores de universidades europeias e norte-americanas, excluindo pesquisadores do Sul Global como os do Brasil. Marcelo Alves comenta as implicações dessa assimetria para a pesquisa sobre desinformação no contexto brasileiro.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sul Global on Condado Lab</title>
+    <link>https://condadolab.org/tags/sul-global/</link>
+    <description>Recent content in Sul Global on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/sul-global/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TikTok só tem API gratuita para pesquisadores do Norte Global</title>
+      <link>https://condadolab.org/midia/desinformante-tiktok-api-2024/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/desinformante-tiktok-api-2024/</guid>
+      <description>&lt;p&gt;Reportagem sobre a política do TikTok de disponibilizar API gratuita apenas para pesquisadores de universidades europeias e norte-americanas, excluindo pesquisadores do Sul Global como os do Brasil. Marcelo Alves comenta as implicações dessa assimetria para a pesquisa sobre desinformação no contexto brasileiro.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
