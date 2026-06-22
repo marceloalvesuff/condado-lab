@@ -1,7 +1,7 @@
 ---
 title: "Lançamento do livro 'As Vanguardas da Intervenção' na Livraria Travessa"
 description: "Marcelo Alves lança 'As Vanguardas da Intervenção: O Extremismo Digital e o Ataque às Instituições Democráticas no Brasil' em 30 de junho de 2026, às 19h, na Livraria Travessa de Botafogo, no Rio de Janeiro."
-date: 2026-06-30
+date: 2026-06-22
 outlet: "Mauad X · Livraria Travessa"
 photo: "images/midia/lancamento-vanguardas-intervencao-2026.jpeg"
 tags: ["8 de Janeiro", "extremismo digital", "extrema direita", "livro", "lançamento", "democracia", "PUC-Rio"]
