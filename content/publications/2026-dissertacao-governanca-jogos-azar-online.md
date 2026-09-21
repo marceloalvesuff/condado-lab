@@ -1,0 +1,19 @@
+---
+title: "A governança dos jogos de azar online em contexto de disputas político-econômicas entre Estado, mercados e plataformas digitais"
+description: "Dissertação de mestrado que investiga como os recursos sociotécnicos de governança das plataformas digitais operam a circulação dos jogos de azar online no Brasil, combinando análise documental das normativas estatais e das políticas de Google e Meta com o mapeamento da presença digital de operadoras durante o processo de regulamentação."
+date: 2026-07-27
+authors: ["Lorrana Melo Cordeiro", "Marcelo Alves dos Santos Junior (orientação)"]
+venue: "Dissertação de Mestrado · PPGCOM PUC-Rio"
+tags: ["governança de plataformas", "jogos de azar online", "plataformas digitais", "regulamentação", "publicidade digital", "métodos digitais"]
+link: ""
+pdf: "/pdfs/dissertacao-lorrana-cordeiro-governanca-jogos-azar-online-2026.pdf"
+doi: ""
+---
+
+Esta dissertação investiga como os recursos sociotécnicos de governança de plataformas digitais operam a circulação dos jogos de azar online no contexto das disputas político-econômicas em torno da regulamentação do mercado no Brasil. Parte-se do pressuposto de que a governança constitui uma dimensão central do fenômeno da plataformização, uma vez que distribui responsabilidades de maneira desigual entre os agentes envolvidos na produção e circulação dos jogos de azar online. Nesse contexto, os jogos de azar online emergem como uma mercadoria cultural contingente, cuja oferta depende da articulação entre Estado, mercados e plataformas digitais.
+
+A pesquisa combina dois eixos metodológicos. O primeiro consiste na análise documental das normativas legais e regulatórias do Estado brasileiro e dos termos de uso e políticas das plataformas Google e Meta. O segundo envolve a análise de conteúdo categorial do mapeamento da presença digital de operadoras de jogos de azar online durante o processo de regulamentação do setor.
+
+Os resultados indicam que, apesar dos avanços regulatórios observados após cinco anos da legalização, persistem lacunas relevantes tanto nas normas do Estado quanto nas políticas das plataformas digitais: a centralidade atribuída à autogovernança das operadoras, a limitada definição das responsabilidades das plataformas e a ausência de mecanismos efetivos de monitoramento e moderação das práticas de publicidade e marketing. O mapeamento identificou que 59% das operadoras analisadas utilizavam plataformas digitais para promover seus serviços, sendo 21% delas classificadas como irregulares, em um ecossistema multiplataforma com predominância do Instagram, seguido por Facebook, X, YouTube, Telegram, TikTok e WhatsApp. Conclui-se que a governança da circulação dos jogos de azar online resulta da intersecção entre regulação estatal, autogovernança das plataformas e estratégias de mercado.
+
+Dissertação apresentada ao Programa de Pós-Graduação em Comunicação do Departamento de Comunicação da PUC-Rio, defendida em 27 de julho de 2026. Banca: Marcelo Alves dos Santos Junior (orientador, PUC-Rio), Tatiana Maria Silva Galvão Dourado (PUC-Rio) e Thiago Pereira Falcão (UFPB). Pesquisa financiada pela FAPERJ (bolsa Mestrado Nota 10) e pela CAPES (Código de Financiamento 001). 150 páginas.
