@@ -1,15 +1,16 @@
 ---
 title: "Lorrana Melo Cordeiro"
-description: "Bolsista FAPERJ Mestrado Nota 10, com pesquisa em governança de plataformas digitais e comunicação de jogos de azar online. Integra a equipe editorial da Revista Alceu e a Comissão Discente do PPGCOM da PUC-Rio."
+description: "Mestre em Comunicação pelo PPGCOM/PUC-Rio, bolsista FAPERJ Mestrado Nota 10, com pesquisa em governança de plataformas digitais e comunicação de jogos de azar online. Integra a equipe editorial da Revista Alceu e a Comissão Discente do PPGCOM da PUC-Rio."
 role: "student"
-position: "Mestranda"
+position: "Mestre"
 weight: 21
+status: "finished"
 lattes: "https://lattes.cnpq.br/1178187030776581"
 photo: "images/lorrana-cordeiro.jpg"
 tags: ["governança", "plataformas digitais", "publicidade digital", "regulação"]
 ---
 
-**Dissertação:** A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais.
+**Dissertação:** [A governança dos jogos de azar online no contexto das disputas político-econômicas na interface entre Estado, mercados e plataformas digitais](/pdfs/dissertacao-lorrana-cordeiro-governanca-jogos-azar-online-2026.pdf) (PDF).
 
 **Palavras-chave:** Jogos de Azar; Governança; Plataformas Digitais; Publicidade Digital; Regulação
 
