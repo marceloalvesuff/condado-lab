@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rádio on Condado Lab</title><link>https://condadolab.org/tags/r%C3%A1dio/</link><description>Recent content in Rádio on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/r%C3%A1dio/index.xml" rel="self" type="application/rss+xml"/><item><title>Acervo Digital 8 de Janeiro no programa Papo Desinformante</title><link>https://condadolab.org/midia/radio-ufrj-acervo-2025/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://condadolab.org/midia/radio-ufrj-acervo-2025/</guid><description>&lt;p&gt;Marcelo Alves é entrevistado no programa &amp;ldquo;Papo Desinformante&amp;rdquo; da Rádio UFRJ sobre o Acervo Digital 8 de Janeiro. Na entrevista, discute o desafio de recuperar registros já apagados das redes sociais e ressalta a importância da preservação de dados antes que o conteúdo seja ocultado ou removido pelas plataformas.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rádio on Condado Lab</title>
+    <link>https://condadolab.org/tags/r%C3%A1dio/</link>
+    <description>Recent content in Rádio on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/r%C3%A1dio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acervo Digital 8 de Janeiro no programa Papo Desinformante</title>
+      <link>https://condadolab.org/midia/radio-ufrj-acervo-2025/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/radio-ufrj-acervo-2025/</guid>
+      <description>&lt;p&gt;Marcelo Alves é entrevistado no programa &amp;ldquo;Papo Desinformante&amp;rdquo; da Rádio UFRJ sobre o Acervo Digital 8 de Janeiro. Na entrevista, discute o desafio de recuperar registros já apagados das redes sociais e ressalta a importância da preservação de dados antes que o conteúdo seja ocultado ou removido pelas plataformas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

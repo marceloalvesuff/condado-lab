@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MonitorA on Condado Lab</title>
+    <link>https://condadolab.org/tags/monitora/</link>
+    <description>Recent content in MonitorA on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/monitora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPGCOM/PUC-Rio firma parceria com InternetLab para monitoramento de violência política de gênero</title>
+      <link>https://condadolab.org/blog/parceria-internetlab-monitora/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/blog/parceria-internetlab-monitora/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://condadolab.org/images/parceria-ppgcom-internetlab.png&#34; alt=&#34;Parceria PPGCOM/PUC-Rio e InternetLab&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A PUC-Rio, por meio do PPGCOM, assinou formalmente um Memorando de Entendimento com o InternetLab no âmbito do projeto MonitorA, observatório de monitoramento de violência política de gênero nas redes sociais. Criado em 2020 por InternetLab e Núcleo Jornalismo, o projeto coleta e analisa comentários ofensivos direcionados a candidatas no Twitter/X, Instagram, YouTube e TikTok.&lt;/p&gt;&#xA;&lt;p&gt;Em 2026, a quarta edição do MonitorA passa a contar com a parceria da PUC-Rio e do Instituto Democracia em Xeque. Marcelo Alves (PPGCOM/PUC-Rio) participa como responsável pela tecnologia do projeto e como diretor de Inovação e Tecnologia do DX, com o apoio das bolsistas Mariana Santos (Faperj) e Camille Duarte (PUC-Rio).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

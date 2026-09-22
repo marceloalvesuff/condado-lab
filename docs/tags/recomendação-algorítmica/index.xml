@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recomendação Algorítmica on Condado Lab</title><link>https://condadolab.org/tags/recomenda%C3%A7%C3%A3o-algor%C3%ADtmica/</link><description>Recent content in Recomendação Algorítmica on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/recomenda%C3%A7%C3%A3o-algor%C3%ADtmica/index.xml" rel="self" type="application/rss+xml"/><item><title>Rede em Jogo · Relatório #1: Mapeamento da Rede de Perfis de Jogos de Azar no Instagram</title><link>https://condadolab.org/publications/2026-relatorio-rede-em-jogo-1-instagram/</link><pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2026-relatorio-rede-em-jogo-1-instagram/</guid><description>&lt;p&gt;Rede em Jogo é uma iniciativa de pesquisa voltada para governança de plataformas digitais e do mercado de jogos de azar no Brasil. Este primeiro relatório teve como objetivo investigar a recomendação algorítmica do Instagram e como ela estrutura o ecossistema comunicacional dos jogos de azar online, identificando os principais atores e práticas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Principais números.&lt;/strong&gt; Os perfis mais relevantes — as 9.431 contas de maior PageRank — somam mais de 2,2 bilhões de seguidores (não são usuários únicos, pode haver sobreposição) e mais de 8,7 milhões de publicações em feed, volume equivalente a 2,5 anos de publicações diárias por perfil. Das 699 operadoras mais recomendadas, 84% são irregulares no Brasil.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recomendação Algorítmica on Condado Lab</title>
+    <link>https://condadolab.org/tags/recomenda%C3%A7%C3%A3o-algor%C3%ADtmica/</link>
+    <description>Recent content in Recomendação Algorítmica on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/recomenda%C3%A7%C3%A3o-algor%C3%ADtmica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rede em Jogo · Relatório #1: Mapeamento da Rede de Perfis de Jogos de Azar no Instagram</title>
+      <link>https://condadolab.org/publications/2026-relatorio-rede-em-jogo-1-instagram/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2026-relatorio-rede-em-jogo-1-instagram/</guid>
+      <description>&lt;p&gt;Rede em Jogo é uma iniciativa de pesquisa voltada para governança de plataformas digitais e do mercado de jogos de azar no Brasil. Este primeiro relatório teve como objetivo investigar a recomendação algorítmica do Instagram e como ela estrutura o ecossistema comunicacional dos jogos de azar online, identificando os principais atores e práticas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Principais números.&lt;/strong&gt; Os perfis mais relevantes — as 9.431 contas de maior PageRank — somam mais de 2,2 bilhões de seguidores (não são usuários únicos, pode haver sobreposição) e mais de 8,7 milhões de publicações em feed, volume equivalente a 2,5 anos de publicações diárias por perfil. Das 699 operadoras mais recomendadas, 84% são irregulares no Brasil.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

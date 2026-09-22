@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ciberativismo on Condado Lab</title><link>https://condadolab.org/tags/ciberativismo/</link><description>Recent content in Ciberativismo on Condado Lab</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://condadolab.org/tags/ciberativismo/index.xml" rel="self" type="application/rss+xml"/><item><title>O ciberativismo no Brasil</title><link>https://condadolab.org/publications/2015-o-ciberativismo-no-brasil/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://condadolab.org/publications/2015-o-ciberativismo-no-brasil/</guid><description>&lt;p&gt;O artigo discute o ciberativismo no Brasil, analisando as Jornadas de Junho de 2013 e manifestações subsequentes. Examina a Blogosfera Progressista e a Rede Antipetista, discutindo como o ativismo na internet e as mídias sociais têm sido utilizados para mobilização política no país.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciberativismo on Condado Lab</title>
+    <link>https://condadolab.org/tags/ciberativismo/</link>
+    <description>Recent content in Ciberativismo on Condado Lab</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://condadolab.org/tags/ciberativismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O ciberativismo no Brasil</title>
+      <link>https://condadolab.org/publications/2015-o-ciberativismo-no-brasil/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/publications/2015-o-ciberativismo-no-brasil/</guid>
+      <description>&lt;p&gt;O artigo discute o ciberativismo no Brasil, analisando as Jornadas de Junho de 2013 e manifestações subsequentes. Examina a Blogosfera Progressista e a Rede Antipetista, discutindo como o ativismo na internet e as mídias sociais têm sido utilizados para mobilização política no país.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
