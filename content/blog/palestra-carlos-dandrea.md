@@ -2,7 +2,7 @@
 title: "Carlos D’Andrea (PPGCOM/UFMG) fecha ciclo de palestras de setembro no Condado Lab"
 description: "Plataformas infraestruturais, mídia programática e moderação de conteúdo foram os temas da palestra do professor da UFMG."
 date: 2026-10-07
-author: "Condado Lab"
+author: "Giselia Amanyara"
 tags: ["plataformas", "infraestruturas", "desinformação", "moderação de conteúdo", "palestra"]
 image: "images/carlos-dandrea.jpeg"
 ---

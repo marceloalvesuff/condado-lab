@@ -3,6 +3,7 @@ title: "Beatriz Waehneldt"
 description: "Estudante de Jornalismo na PUC-Rio, com Domínio Adicional em Política Internacional. Atualmente, pesquisadora no NuTecLab/PUC-Rio e jornalista no Mercado & Eventos."
 role: "student"
 position: "Graduação"
+status: "finished"
 weight: 30
 lattes: "https://lattes.cnpq.br/5628063213745453"
 photo: "images/beatriz-waehneldt.jpeg"
