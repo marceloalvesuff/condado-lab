@@ -53,6 +53,22 @@
             {{ .Content }}
         </div>
 
+        {{ $slug := .File.ContentBaseName }}
+        {{ $subs := where (where .Parent.Pages "Params.parent" "eq" $slug) "Kind" "page" }}
+        {{ with $subs }}
+        <div class="mt-16 pt-8 border-t border-slate-100">
+            <h3 class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-6">Subprojetos</h3>
+            <div class="space-y-4">
+                {{ range . }}
+                <a href="{{ .RelPermalink }}" class="block bg-white rounded-[1.5rem] border border-slate-100 p-6 card-hover">
+                    <h4 class="text-lg font-bold mb-2 hover:text-purple-600 transition-colors">{{ .Title }}</h4>
+                    <p class="text-sm text-slate-500 leading-relaxed">{{ .Description }}</p>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
         {{ with .Params.people }}
         <div class="mt-16 pt-8 border-t border-slate-100">
             <h3 class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-6">Participantes</h3>

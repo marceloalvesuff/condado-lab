@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://condadolab.org/projects/comunicacao-ia/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://condadolab.org/projects/acervo-8-janeiro/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -137,6 +143,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://condadolab.org/midia/oglobo-lauro-jardim-direita-sul-coreana-2026/</loc>
+    <lastmod>2026-10-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://condadolab.org/midia/</loc>
+    <lastmod>2026-10-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://condadolab.org/blog/parceria-internetlab-monitora/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -147,12 +165,6 @@
     <lastmod>2026-09-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://condadolab.org/midia/</loc>
-    <lastmod>2026-09-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/blog/keulenaar-llms-discurso-moderado/</loc>
@@ -347,6 +359,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://condadolab.org/projects/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://condadolab.org/blog/podcast-tecnopolitica/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -531,12 +549,6 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://condadolab.org/projects/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://condadolab.org/midia/seminario-globo-ia-jornalismo-2025/</loc>

@@ -28,8 +28,5 @@ Compromisso com análise de dados rigorosa, ética e metodologicamente orientada
 **Pesquisa em rede, futuro em formação**
 Diálogo entre projetos e parceiros institucionais e formação de novos pesquisadores.
 
-**Clareza que sustenta confiança**
-Divulgação científica e conteúdo informacional que mantêm o debate ético, consistente e baseado em evidências.
-
 **Método como compromisso**
 Uso de metodologias combinadas da escola de métodos digitais e das ciências sociais computacionais.

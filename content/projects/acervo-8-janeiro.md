@@ -7,6 +7,7 @@ status: "Em andamento"
 people: ["Marcelo Alves dos Santos Junior", "Lorrana Melo", "Beatriz Montenegro"]
 image: ""
 weight: 4
+parent: "praticas-extremistas"
 website: "https://www.acervodigital08janeiro.com.puc-rio.br/"
 instagram: "https://www.instagram.com/acervo8jan/"
 ---

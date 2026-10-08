@@ -9,7 +9,7 @@
         {{ end }}
 
         <div class="space-y-24">
-            {{ range $i, $p := .Pages.ByWeight }}
+            {{ range $i, $p := (where .Pages.ByWeight "Params.parent" "eq" nil) }}
             {{ $hasImage := $p.Params.image }}
 
             {{ if $hasImage }}

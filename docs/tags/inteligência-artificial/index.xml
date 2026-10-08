@@ -6,8 +6,15 @@
     <description>Recent content in Inteligência Artificial on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://condadolab.org/tags/intelig%C3%AAncia-artificial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comunicação e Inteligência Artificial</title>
+      <link>https://condadolab.org/projects/comunicacao-ia/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/projects/comunicacao-ia/</guid>
+      <description>&lt;p&gt;Este eixo investiga a inteligência artificial como um conjunto heterogêneo de tecnologias, protocolos, padrões, modelos e aplicações que reconfigura a infraestrutura da web. A partir de um olhar infraestrutural, dialoga com os estudos de plataformas para discutir como modelos de linguagem e sistemas agênticos reorganizam o fluxo de conectividade, dados e agência.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escopo&#34;&gt;Escopo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Protocolos de integração, como o Model Context Protocol (MCP), e a recentralização do poder de plataforma&lt;/li&gt;&#xA;&lt;li&gt;Programabilidade, dataficação e poder de plataforma na era da IA agêntica&lt;/li&gt;&#xA;&lt;li&gt;Implicações para o jornalismo, as economias de referência e a governança da informação&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Fernanda Fialho</title>
       <link>https://condadolab.org/people/fernanda-fialho/</link>
@@ -21,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://condadolab.org/people/beatriz-montenegro/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Resumo da Dissertação:&lt;/strong&gt; Bibliografias sintéticas: uma análise empírica de LLMs para busca de referência acadêmica&lt;/p&gt;&#xA;&lt;p&gt;A adoção de chatbots de inteligência artificial (IA) generativa na produção científica tem sido cada vez mais ampla. Com isso, se apresentam uma série de questões: regulamentação de uso, rotulação, citações falsas, aumento do número de artigos produzidos, o desafio de controle de qualidade embutido na escala. A produção científica passa pelo processo de plataformização desde a década de 1990, e a inserção de IA na forma de modelos extensos de linguagem (LLMs) adiciona mais uma camada em um fenômeno já bastante heterogêneo e complexo. O trabalho questiona possíveis vieses e problemáticas que surgem com a adoção de LLMs no processo de pesquisa, em especial como buscador nas etapas iniciais de mapeamento de referências, considerando o contexto da plataformização da ciência.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Direita sul-coreana faz campanha de desinformação sobre &#39;fraude eleitoral&#39; no... Brasil</title>
+      <link>https://condadolab.org/midia/oglobo-lauro-jardim-direita-sul-coreana-2026/</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/midia/oglobo-lauro-jardim-direita-sul-coreana-2026/</guid>
+      <description>&lt;p&gt;Nota do blog de Lauro Jardim, em &lt;em&gt;O Globo&lt;/em&gt;, sobre campanha de desinformação mapeada pelo Instituto Democracia em Xeque (DX). Entre 20 de setembro e a sexta-feira anterior à publicação, o DX identificou postagens no X de lideranças da direita sul-coreana, incluindo um ex-primeiro-ministro, em apoio a Flávio Bolsonaro. O mote era uma suposta &amp;ldquo;fraude eleitoral&amp;rdquo; no Brasil. As publicações somaram 2,6 milhões de visualizações e 724 mil interações.&lt;/p&gt;&#xA;&lt;p&gt;Segundo os dados, trata-se de uma campanha aberta de dirigentes de um partido e de um movimento da extrema direita sul-coreana, com a narrativa de fraude eleitoral amplificada por contas bolsonaristas no Brasil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A eleição presidencial do Brasil é um laboratório de IA</title>
