@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Extrema Direita on Condado Lab</title>
+    <title>Extrema-Direita on Condado Lab</title>
     <link>https://condadolab.org/tags/extrema-direita/</link>
-    <description>Recent content in Extrema Direita on Condado Lab</description>
+    <description>Recent content in Extrema-Direita on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://condadolab.org/tags/extrema-direita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>João C. Magalhães (Universidade de Manchester) discute Elon Musk, o X e o iliberalismo de plataforma no Condado Lab</title>
+      <link>https://condadolab.org/blog/palestra-joao-magalhaes/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/blog/palestra-joao-magalhaes/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://condadolab.org/images/joao-magalhaes.jpg&#34; alt=&#34;João C. Magalhães&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;No dia 8 de outubro, o Grupo de Pesquisa em Comunicação, Dados e Tecnologia (Condado Lab), vinculado ao Programa de Pós-Graduação em Comunicação da PUC-Rio, recebeu o professor e pesquisador &lt;a href=&#34;https://jcmagalhaes.com/&#34;&gt;João C. Magalhães&lt;/a&gt; para uma palestra online. Ele apresentou o trabalho &lt;a href=&#34;https://doi.org/10.1177/14614448261424889&#34;&gt;“The Great Sysop: Elon Musk, X, and the emergence of platform illiberalism”&lt;/a&gt;, escrito com Clara Iglesias Keller e Robert Gorwa, ambos do Centro de Ciências Sociais de Berlim (WZB). Publicado em 2026 na revista &lt;em&gt;New Media &amp;amp; Society&lt;/em&gt;, da SAGE, o artigo discute como a aquisição do Twitter por Elon Musk foi uma tentativa de transformar uma plataforma de grande alcance em uma máquina de propaganda e de apoio a projetos autoritários.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Direita sul-coreana faz campanha de desinformação sobre &#39;fraude eleitoral&#39; no... Brasil</title>
       <link>https://condadolab.org/midia/oglobo-lauro-jardim-direita-sul-coreana-2026/</link>

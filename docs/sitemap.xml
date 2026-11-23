@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://condadolab.org/</loc>
-    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-23T11:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
@@ -132,9 +132,27 @@
   </url>
   <url>
     <loc>https://condadolab.org/blog/</loc>
-    <lastmod>2026-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-23T11:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://condadolab.org/blog/qualificacao-isabela-pimentel/</loc>
+    <lastmod>2026-11-23T11:00:00-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://condadolab.org/blog/palestra-alan-angeluci/</loc>
+    <lastmod>2026-11-23T10:00:00-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://condadolab.org/blog/palestra-joao-magalhaes/</loc>
+    <lastmod>2026-11-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://condadolab.org/blog/palestra-carlos-dandrea/</loc>
