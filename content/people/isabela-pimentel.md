@@ -1,6 +1,6 @@
 ---
 title: "Isabela Duarte Pimentel"
-description: "Coordenadora de Projetos Digitais. Doutoranda em Comunicação Social pelo Programa de Pós-Graduação em Comunicação da PUC-Rio. Pesquisadora do Laboratório de Pesquisa em Mídia, Tecnologia e Dados (PUC-Rio)."
+description: "Coordenadora de Projetos Digitais. Doutoranda em Comunicação Social pelo Programa de Pós-Graduação em Comunicação da PUC-Rio, bolsista FAPERJ Doutorado Nota 10. Pesquisadora do Laboratório de Pesquisa em Mídia, Tecnologia e Dados (PUC-Rio)."
 role: "student"
 position: "Doutoranda"
 weight: 12
@@ -8,6 +8,8 @@ lattes: "https://lattes.cnpq.br/8935150482305933"
 photo: "images/isabela-pimentel.png"
 tags: ["desinformação e saúde", "publicidade digital", "infodemia", "emagrecimento"]
 ---
+
+Bolsista do programa Doutorado Nota 10 da FAPERJ (2026).
 
 **Resumo da Tese:** Entre canetas, pílulas e fórmulas: mapeamento das estratégias discursivas na venda de emagrecedores irregulares nas mídias digitais
 
