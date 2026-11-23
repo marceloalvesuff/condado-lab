@@ -1,7 +1,7 @@
 ---
 title: "Alan Angeluci (USP) discute métodos digitais, ciências sociais computacionais e humanidades digitais no Condado Lab"
 description: "O professor da ECA/USP apresentou estudo que posiciona os métodos digitais entre as humanidades digitais e a ciência social computacional."
-date: 2026-11-23T10:00:00-03:00
+date: 2026-10-22
 author: "Douglas Ferreira"
 tags: ["métodos digitais", "humanidades digitais", "ciência social computacional", "plataformas", "palestra"]
 image: "images/alan-angeluci.jpeg"

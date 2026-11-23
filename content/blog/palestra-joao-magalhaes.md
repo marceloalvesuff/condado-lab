@@ -1,7 +1,7 @@
 ---
 title: "João C. Magalhães (Universidade de Manchester) discute Elon Musk, o X e o iliberalismo de plataforma no Condado Lab"
 description: "O pesquisador apresentou estudo sobre como a aquisição do Twitter por Elon Musk transformou a governança de conteúdo da plataforma."
-date: 2026-11-23
+date: 2026-10-08
 author: "Cristiana Gomes"
 tags: ["plataformas", "moderação de conteúdo", "extrema direita", "big techs", "palestra"]
 image: "images/joao-magalhaes.jpg"

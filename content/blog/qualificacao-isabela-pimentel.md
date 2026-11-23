@@ -1,7 +1,7 @@
 ---
 title: "Isabela Pimentel apresenta qualificação de doutorado sobre a venda de emagrecedores irregulares nas plataformas digitais"
 description: "A tese investiga a plataformização da saúde e os limites da governança na venda de emagrecedores irregulares."
-date: 2026-11-23T11:00:00-03:00
+date: 2026-10-30
 author: "Condado Lab"
 tags: ["qualificação", "desinformação e saúde", "publicidade digital", "plataformas", "emagrecimento"]
 image: "images/qualificacao-isabela-pimentel.jpg"
