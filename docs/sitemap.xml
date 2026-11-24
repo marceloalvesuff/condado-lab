@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://condadolab.org/</loc>
-    <lastmod>2026-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
@@ -131,6 +131,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://condadolab.org/blog/</loc>
+    <lastmod>2026-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://condadolab.org/blog/palestra-janna-omena/</loc>
+    <lastmod>2026-11-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://condadolab.org/midia/aosfatos-fazendas-ia-tse-meta-2026/</loc>
     <lastmod>2026-11-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -140,12 +152,6 @@
     <loc>https://condadolab.org/midia/</loc>
     <lastmod>2026-11-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://condadolab.org/blog/</loc>
-    <lastmod>2026-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>

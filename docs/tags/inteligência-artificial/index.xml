@@ -6,7 +6,7 @@
     <description>Recent content in Inteligência Artificial on Condado Lab</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://condadolab.org/tags/intelig%C3%AAncia-artificial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comunicação e Inteligência Artificial</title>
@@ -28,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://condadolab.org/people/beatriz-montenegro/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Resumo da Dissertação:&lt;/strong&gt; Bibliografias sintéticas: uma análise empírica de LLMs para busca de referência acadêmica&lt;/p&gt;&#xA;&lt;p&gt;A adoção de chatbots de inteligência artificial (IA) generativa na produção científica tem sido cada vez mais ampla. Com isso, se apresentam uma série de questões: regulamentação de uso, rotulação, citações falsas, aumento do número de artigos produzidos, o desafio de controle de qualidade embutido na escala. A produção científica passa pelo processo de plataformização desde a década de 1990, e a inserção de IA na forma de modelos extensos de linguagem (LLMs) adiciona mais uma camada em um fenômeno já bastante heterogêneo e complexo. O trabalho questiona possíveis vieses e problemáticas que surgem com a adoção de LLMs no processo de pesquisa, em especial como buscador nas etapas iniciais de mapeamento de referências, considerando o contexto da plataformização da ciência.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Janna Joceli Omena (King&#39;s College London) apresenta no Condado Lab métodos para investigar como sistemas de IA buscam na web</title>
+      <link>https://condadolab.org/blog/palestra-janna-omena/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://condadolab.org/blog/palestra-janna-omena/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://condadolab.org/images/janna-omena.jpg&#34; alt=&#34;Janna Joceli Omena&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;No dia 27 de novembro, às 14h, o Grupo de Pesquisa em Comunicação, Dados e Tecnologia (Condado Lab), da PUC-Rio, recebe &lt;a href=&#34;https://jannajoceliomena.net/&#34;&gt;Janna Joceli Omena&lt;/a&gt;, professora de Métodos Digitais no King&amp;rsquo;s College London, para a palestra “AI Search Methods: investigando como sistemas de IA buscam na web”. O encontro tratará dos métodos de pesquisa utilizados para investigar como sistemas de inteligência artificial buscam, selecionam e citam informações na web.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investigação sobre fazendas de IA de Aos Fatos e Democracia em Xeque subsidia decisão do TSE sobre Meta</title>
