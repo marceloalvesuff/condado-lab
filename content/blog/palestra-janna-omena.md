@@ -1,5 +1,5 @@
 ---
-title: "Janna Joceli Omena (King's College London) apresenta no Condado Lab métodos para investigar como sistemas de IA buscam na web"
+title: "Janna Joceli Omena apresenta no Condado Lab métodos para investigar como sistemas de IA buscam na web"
 description: "A professora de Métodos Digitais do King's College London apresenta a estrutura metodológica AI Search Methods e a ferramenta AI Source Scraper."
 date: 2026-11-24
 tags: ["inteligência artificial", "LLMs", "métodos digitais", "plataformas", "palestra"]
